@@ -1,21 +1,21 @@
 {
   "datos": [
     {
-      "firebasescreen": "inicio-novelas-header-evaluna-Playlist",
+      "firebasescreen": "inicio-boton1",
       "private": "1",
       "html": "https://tvazteca.jotform.com/220415196432955",
       "imagen": "https://tvazteca.brightspotcdn.com/ce/0c/bad1324e49bcb565cb167ce1260a/tarjetaplaylist-evaluna-800x400.jpg",
       "privateCfg": "https://www.tvazteca.com/envivo2020/login-login-interno-obligatorio.json"
     },
     {
-     "firebasescreen": "inicio-novelas-header-evaluna-Playlist",
+     "firebasescreen": "inicio-boton2",
       "private": "1",
       "html": "https://tvazteca.jotform.com/220415196432955",
       "imagen": "https://tvazteca.brightspotcdn.com/ce/0c/bad1324e49bcb565cb167ce1260a/tarjetaplaylist-evaluna-800x400.jpg",
       "privateCfg": "https://www.tvazteca.com/envivo2020/login-login-interno-obligatorio.json"
     },
     {
-      "firebasescreen": "inicio-novelas-header-evaluna-Playlist",
+      "firebasescreen": "inicio-boton3",
       "private": "1",
       "html": "https://tvazteca.jotform.com/220415196432955",
       "imagen": "https://tvazteca.brightspotcdn.com/ce/0c/bad1324e49bcb565cb167ce1260a/tarjetaplaylist-evaluna-800x400.jpg",
