@@ -4,21 +4,21 @@
       "firebasescreen": "inicio-boton1",
       "private": "1",
       "html": "https://tvazteca.jotform.com/220415196432955",
-      "imagen": "https://tvazteca.brightspotcdn.com/ce/0c/bad1324e49bcb565cb167ce1260a/tarjetaplaylist-evaluna-800x400.jpg",
+      "imagen": "https://tiradodev.github.io/appLite/vivo.png",
       "privateCfg": "https://www.tvazteca.com/envivo2020/login-login-interno-obligatorio.json"
     },
     {
      "firebasescreen": "inicio-boton2",
       "private": "1",
       "html": "https://tvazteca.jotform.com/220415196432955",
-      "imagen": "https://tvazteca.brightspotcdn.com/ce/0c/bad1324e49bcb565cb167ce1260a/tarjetaplaylist-evaluna-800x400.jpg",
+      "imagen": "https://tiradodev.github.io/appLite/interaccion.png",
       "privateCfg": "https://www.tvazteca.com/envivo2020/login-login-interno-obligatorio.json"
     },
     {
       "firebasescreen": "inicio-boton3",
       "private": "1",
       "html": "https://tvazteca.jotform.com/220415196432955",
-      "imagen": "https://tvazteca.brightspotcdn.com/ce/0c/bad1324e49bcb565cb167ce1260a/tarjetaplaylist-evaluna-800x400.jpg",
+      "imagen": "https://tiradodev.github.io/appLite/votacion.png",
       "privateCfg": "https://www.tvazteca.com/envivo2020/login-login-interno-obligatorio.json"
     }
   ]
