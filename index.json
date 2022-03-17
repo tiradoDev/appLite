@@ -1,21 +1,21 @@
 {
   "datos": [
     {
-      "firebasescreen": "inicio-boton1",
+      "firebasescreen": "inicio-boton-1",
       "private": "1",
       "html": "https://tvazteca.jotform.com/220415196432955",
       "imagen": "https://tiradodev.github.io/appLite/vivo.png",
       "privateCfg": "https://www.tvazteca.com/envivo2020/login-login-interno-obligatorio.json"
     },
     {
-     "firebasescreen": "inicio-boton2",
+     "firebasescreen": "inicio-boton-2",
       "private": "1",
       "html": "https://tvazteca.jotform.com/220415196432955",
       "imagen": "https://tiradodev.github.io/appLite/interaccion.png",
       "privateCfg": "https://www.tvazteca.com/envivo2020/login-login-interno-obligatorio.json"
     },
     {
-      "firebasescreen": "inicio-boton3",
+      "firebasescreen": "inicio-boton-3",
       "private": "1",
       "html": "https://tvazteca.jotform.com/220415196432955",
       "imagen": "https://tiradodev.github.io/appLite/votacion.png",
