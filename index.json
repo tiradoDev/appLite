@@ -24,6 +24,13 @@
     {
       "tipo": "BANNER",
       "adunitid": "/29782907/Apps-Azteca/APP-Envivo-2020/home"
+    },
+    {
+      "html": "https://uat.tv-azteca.psdops.com/aztecauno/live-youtube",
+      "tipo": "CARD",
+      "imagen": "https://raw.githubusercontent.com/tiradoDev/appLite/main/Botones-700x385_TRANSMISION.jpg",
+      "titulo": "Live",
+      "firebasescreen": "Live"
     }
   ],
   "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo"
