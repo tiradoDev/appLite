@@ -1,0 +1,30 @@
+{
+  "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo",
+  "datos": [
+    {
+      "firebasescreen": "Live app view youtube",
+      "html": "https://uat.tv-azteca.psdops.com/aztecauno/videos/summer-mix-2022-best-relax-house-chillout-study-running-happy-music-travel-mix-24-7-live-radio?playerView=true",
+      "imagen": "https://uat.tv-azteca.psdops.com/dims4/default/1aea112/2147483647/strip/true/crop/684x385+8+0/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot-lower.s3.amazonaws.com%2Faa%2Ff0%2F12d9e27743edbd504c512353b8b2%2F01-transmision.jpg",
+      "tipo": "CARD",
+      "titulo": "Live app view youtube"
+    },
+    {
+      "firebasescreen": "Votaciones",
+      "html": "https://tvazteca.jotform.com/212577638494974",
+      "imagen": "https://uat.tv-azteca.psdops.com/dims4/default/06ebced/2147483647/strip/true/crop/684x385+8+0/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot-lower.s3.amazonaws.com%2F64%2Fdb%2F265ce4714533bee4afef98426369%2F02-vota-aqui.jpg",
+      "tipo": "CARD",
+      "titulo": "Votaciones"
+    },
+    {
+      "firebasescreen": "Jotform",
+      "html": "https://tvazteca.jotform.com/212577638494974",
+      "imagen": "https://uat.tv-azteca.psdops.com/dims4/default/be89d14/2147483647/strip/true/crop/684x385+8+0/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot-lower.s3.amazonaws.com%2Fb1%2F6c%2F162117b344aaa8a45d33849f7ccb%2F03-interactua.jpg",
+      "tipo": "CARD",
+      "titulo": "Jotform"
+    },
+    {
+      "adunitid": "/29782907/Apps-Azteca/APP-Envivo-Lite/Realities/La-Academia",
+      "tipo": "BANNER"
+    }
+  ]
+}
