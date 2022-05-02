@@ -3,12 +3,12 @@
     {
       "image": "image",
       "time": "3",
-      "habilitaSonido": "1",
+      "habilitaSonido": "0",
       "adunit": "13425d",
-      "title": "La Academia prueba",
+      "title": "La Academia escaleta",
       "Activa": true,
       "Titulo": "Memorama",
-      "url": "https://www.youtube.com"
+      "url": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/media/portal/juegos/html/juegoscorazongrupero1/memorama_1update/index.html"
     }
   ]
 }
