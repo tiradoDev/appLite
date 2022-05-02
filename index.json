@@ -1,25 +1,31 @@
 {
   "datos": [
     {
-      "html": "https://uat.tv-azteca.psdops.com/aztecauno/live-youtube",
+      "html": "https://www.tvazteca.com/aztecauno/videos/noticias-en-vivo-adn40?playerView=true",
       "tipo": "CARD",
       "imagen": "https://raw.githubusercontent.com/tiradoDev/appLite/main/Botones-700x385_TRANSMISION.jpg",
       "titulo": "Live",
-      "firebasescreen": "Live"
+      "firebasescreen": "Live",
+      "interstitial": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo",
+      "banner": "/29782907/Apps-Azteca/APP-Envivo-2020/home"
     },
     {
       "html": "https://tiradodev.github.io/appLite/escaleta.json",
       "tipo": "ESCALETA",
       "imagen": "https://raw.githubusercontent.com/tiradoDev/appLite/main/Botones-700x385_INTERACTUA.jpg",
       "titulo": "Live app view youtube",
-      "firebasescreen": "Live app view youtube"
+      "firebasescreen": "Live app view youtube",
+      "interstitial": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo",
+      "banner": "/29782907/Apps-Azteca/APP-Envivo-2020/home"
     },
     {
       "html": "https://tvazteca.jotform.com/212577638494974",
       "tipo": "CARD",
       "imagen": "https://raw.githubusercontent.com/tiradoDev/appLite/main/Botones-700x385_VOTA.jpg",
       "titulo": "Jotform",
-      "firebasescreen": "Jotform"
+      "firebasescreen": "Jotform",
+      "interstitial": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo",
+      "banner": "/29782907/Apps-Azteca/APP-Envivo-2020/home"
     },
     {
       "tipo": "BANNER",
