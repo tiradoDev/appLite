@@ -7,7 +7,7 @@
       "titulo": "Live",
       "firebasescreen": "Live",
       "interstitial": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo",
-      "banner": "/29782907/Apps-Azteca/APP-Envivo-2020/home"
+      "banner": "/29782907/Apps-Azteca/APP-Envivo-Lite/Realities/La-Academia"
     },
     {
       "html": "https://tiradodev.github.io/appLite/escaleta.json",
@@ -16,7 +16,7 @@
       "titulo": "Live app view youtube",
       "firebasescreen": "Live app view youtube",
       "interstitial": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo",
-      "banner": "/29782907/Apps-Azteca/APP-Envivo-2020/home"
+      "banner": "/29782907/Apps-Azteca/APP-Envivo-Lite/Realities/La-Academia"
     },
     {
       "html": "https://tvazteca.jotform.com/212577638494974",
@@ -25,11 +25,11 @@
       "titulo": "Jotform",
       "firebasescreen": "Jotform",
       "interstitial": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo",
-      "banner": "/29782907/Apps-Azteca/APP-Envivo-2020/home"
+      "banner": "/29782907/Apps-Azteca/APP-Envivo-Lite/Realities/La-Academia"
     },
     {
       "tipo": "BANNER",
-      "adunitid": "/29782907/Apps-Azteca/APP-Envivo-2020/home"
+      "adunitid": "/29782907/Apps-Azteca/APP-Envivo-Lite/Realities/La-Academia"
     },
     {
       "html": "https://uat.tv-azteca.psdops.com/aztecauno/live-youtube",
