@@ -25,7 +25,7 @@
       "firebase_tipo": "Inicio",
       "titulounselcolor": "#ffffff",
       "tipo": "Inicio",
-      "contenido": "https://www.tvazteca.com/envivo2020/seccion/destacados",
+      "contenido": "https://tiradodev.github.io/appLite/destacados.json",
       "firebasescreen": "inicio-Destacados"
     },
     {
