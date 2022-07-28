@@ -8,7 +8,25 @@
       "title": "La Academia Escaleta",
       "Activa": true,
       "Titulo": "Memorama",
-      "url": "https://uat.tv-azteca.psdops.com/envivo2020/prueba-de-video.json"
+      "url": "https://www.youtube.com/watch?v=ZlFri4ez_lE"
+    },
+    {
+      "url": "https://tvazteca.jotform.com/222068232800951?im={[IM]}",
+      "time": "20",
+      "image": "https://tvazteca.brightspotcdn.com/d9/c5/984b596f454283af11ee88011b11/limpio-negro-pantalla-cargando-app-vivo-1920x1080.jpg",
+      "title": "segundo url"
+    },
+    {
+      "url": "https://tvazteca.com",
+      "time": "20",
+      "image": "https://tvazteca.brightspotcdn.com/d9/c5/984b596f454283af11ee88011b11/limpio-negro-pantalla-cargando-app-vivo-1920x1080.jpg",
+      "title": "tercer url"
+    },
+    {
+      "url": "https://youtube.com",
+      "time": "20",
+      "image": "https://tvazteca.brightspotcdn.com/d9/c5/984b596f454283af11ee88011b11/limpio-negro-pantalla-cargando-app-vivo-1920x1080.jpg",
+      "title": "cuarta"
     }
   ]
 }
