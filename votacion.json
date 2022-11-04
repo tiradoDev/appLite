@@ -1,10 +1,12 @@
 {
   "setlist": [
-    {
-      "url": "https://pluto.tv",
-      "time": "5",
+     {
+      "url": "https://viz.flowics.com/public/b3ee7a1abbc3e34781e76ed3d330bca4/633e0f2d5bbea26bcb8c6042/live",
+      "time": 20,
       "image": "https://tvazteca.brightspotcdn.com/d9/c5/984b596f454283af11ee88011b11/limpio-negro-pantalla-cargando-app-vivo-1920x1080.jpg",
-      "title": "PLUTO TV"
+      "title": "¡Quiero Cantar!",
+      "imageButton": "https://raw.githubusercontent.com/tiradoDev/appLite/main/Botones-700x385_INTERACTUA.jpg",
+      "enableRefresh": true
     }
   ]
 }
