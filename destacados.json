@@ -207,7 +207,7 @@
       "tipo": "CELDACARD",
       "private": "1",
       "imagetv": "Sin imagen",
-      "videoAssetId": "8FUmvMX3ShuQTgE3tEqxNg",
+      "videoAssetId": "609b243156cca108312822a6",
       "tipocontenido": "live",
       "firebase_canal": "aztecauno",
       "firebase_subseccion": "header",
@@ -227,7 +227,7 @@
       "firebase_seccion": "inicio",
       "setlist": "",
       "firebase_video": "En Vivovengalaalegría",
-      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?sz=640x480&iu=No definido&ads?sz=640x480&ads?slotname&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&pp=FormatosVideo&ads?slotname&ads?slotname&correlator=",
+      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
       "firebase_VideoAviso": "En Vivo",
       "privateCfg": "https://www.tvazteca.com/envivo2020/login-login-vivo-con-salto.json",
       "islive": true
