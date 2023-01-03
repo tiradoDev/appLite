@@ -28,7 +28,7 @@
           "vast": "https://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=/29782907/Apps-Azteca/APP-Envivo-2020/realities/la-voz&ciu_szs=300x250&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&cust_params=deployment%3Ddevsite%26sample_ct%3Dskippablelinear&correlator=",
           "privateCfg": ""
         },
-         {
+        {
           "firebasescreen": "inicio-inicio-header-exatlón-Envivo",
           "firebase_tipo": "inicio",
           "tituloselcolor": "#808080",
@@ -165,6 +165,7 @@
           "vast": "https://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=No definido&ciu_szs=300x250&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&cust_params=deployment%3Ddevsite%26sample_ct%3Dskippablelinear&correlator=",
           "privateCfg": ""
         },
+        
       ],
       "tipo": "CARHORHD",
       "time": "5"
@@ -173,34 +174,6 @@
       "adunitid": "/29782907/Apps-Azteca/App-Deportes-2020/Home",
       "tipo": "BANNER01",
       "adunitidios": "/29782907/Apps-Azteca/App-Deportes-2020/Home"
-    },
-    {
-      "firebasescreen": "inicio-inicio-header-ganalealcapi-html",
-      "firebase_tipo": "inicio",
-      "tituloselcolor": "#808080",
-      "tipo": "CELDACARD3",
-      "imagetv": "Sin imagen",
-      "private": "1",
-      "tipocontenido": "5J",
-      "firebase_canal": "",
-      "firebase_subseccion": "header",
-      "firebase_programa": "",
-      "imagenfondo": "",
-      "subtitulo": "",
-      "programa": "",
-      "titulo": "",
-      "html": "https://www.tvazteca.com/envivo2020/interactua.json",
-      "gif": "https://tvazteca.brightspotcdn.com/c3/9e/92ee572c4b448a69d6a795c20035/tarjeta-vla-ganalealcapi-800x200.gif",
-      "firebase_screen": "inicio-inicio-header-ganalealcapi-html",
-      "imagen": "https://tvazteca.brightspotcdn.com/c3/9e/92ee572c4b448a69d6a795c20035/tarjeta-vla-ganalealcapi-800x200.gif",
-      "titulounselcolor": "#FFFFFF",
-      "contenido": "https://www.tvazteca.com/envivo2020/interactua.json",
-      "firebase_subsubseccion": "",
-      "video": "",
-      "firebase_seccion": "inicio",
-      "setlist": "",
-      "vast": "https://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=No definido&ciu_szs=300x250&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&cust_params=deployment%3Ddevsite%26sample_ct%3Dskippablelinear&correlator=",
-      "privateCfg": "https://www.tvazteca.com/envivo2020/login-login-interno-obligatorio.json"
     },
     {
       "firebasescreen": "inicio-inicio-header-laacademiavotación-html",
@@ -230,7 +203,7 @@
       "vast": "https://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=No definido&ciu_szs=300x250&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&cust_params=deployment%3Ddevsite%26sample_ct%3Dskippablelinear&correlator=",
       "privateCfg": "https://www.tvazteca.com/envivo2020/login-login-interno-obligatorio.json"
     },
-       {
+    {
       "firebasescreen": "inicio-inicio-header-vengalaalegría-exatlón-Envivo",
       "firebase_tipo": "inicio",
       "tituloselcolor": "#808080",
