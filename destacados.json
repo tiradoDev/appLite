@@ -6,7 +6,7 @@
           "firebasescreen": "inicio-inicio-header-carruseldestacados-Programa",
           "firebase_tipo": "inicio",
           "tituloselcolor": "#808080",
-          "tipo": "PROGRAMAHD",
+          "tipo": "PROGRAMAHC",
           "imagetv": "https://tvazteca.brightspotcdn.com/dims4/default/0f9b854/2147483647/strip/true/crop/800x406+0+97/resize/1300x660!/format/jpg/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F12%2Fee%2F357ce22a4e22a6486e472b5c3f5b%2Flavoz-poster-800x600-generico01.jpeg",
           "private": "0",
           "firebase_canal": "",
@@ -32,7 +32,7 @@
           "firebasescreen": "inicio-inicio-header-exatlón-Envivo",
           "firebase_tipo": "inicio",
           "tituloselcolor": "#808080",
-          "tipo": "PROGRAMAHD",
+          "tipo": "PROGRAMAHC",
           "private": "1",
           "imagetv": "https://tvazteca.brightspotcdn.com/dims4/default/e6c91d7/2147483647/strip/true/crop/800x406+0+97/resize/1300x660!/format/jpg/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F42%2F1c%2F4f36b2a24dd29455e312c9440e5f%2Flpdlr-poster-800x600-sab.jpg",
           "videoassetid": "609b243156cca108312822a6",
@@ -63,7 +63,7 @@
           "firebasescreen": "inicio-inicio-header-carruseldestacados-Programa",
           "firebase_tipo": "inicio",
           "tituloselcolor": "#808080",
-          "tipo": "PROGRAMAHD",
+          "tipo": "PROGRAMAHC",
           "imagetv": "https://tvazteca.brightspotcdn.com/dims4/default/142023b/2147483647/strip/true/crop/800x406+0+97/resize/1300x660!/format/jpg/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2Fca%2F3b%2Fabccdb5f420583e22fd578a83538%2F8b990cc8-e87c-4bbb-ad53-c2eda237a902.jpeg",
           "private": "0",
           "firebase_canal": "",
@@ -89,7 +89,7 @@
           "firebasescreen": "inicio-inicio-header-carruseldestacados-Programa",
           "firebase_tipo": "inicio",
           "tituloselcolor": "#808080",
-          "tipo": "PROGRAMAHD",
+          "tipo": "PROGRAMAHC",
           "imagetv": "https://tvazteca.brightspotcdn.com/dims4/default/a252791/2147483647/strip/true/crop/800x406+0+97/resize/1300x660!/format/jpg/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2Fc7%2Fbf%2F7d86f0da4a4a958b136b99257b54%2Fdiseno-sin-titulo.jpg",
           "private": "0",
           "firebase_canal": "",
@@ -115,7 +115,7 @@
           "firebasescreen": "inicio-inicio-header-carruseldestacados-Playlist",
           "firebase_tipo": "inicio",
           "tituloselcolor": "#808080",
-          "tipo": "PROGRAMAHD",
+          "tipo": "PROGRAMAHC",
           "imagetv": "https://tvazteca.brightspotcdn.com/dims4/default/84c80a5/2147483647/strip/true/crop/800x406+0+97/resize/1300x660!/format/jpg/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2Ff7%2Fc2%2F37d02a8949eab64b6da8abb4f600%2Fsupert-poster-800x600-lu-a-jueves.jpg",
           "private": "0",
           "firebase_canal": "",
@@ -138,7 +138,7 @@
           "privateCfg": ""
         }
       ],
-      "tipo": "CARHORHD",
+      "tipo": "CARHORHC",
       "time": "5"
     },
     {
