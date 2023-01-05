@@ -4,7 +4,7 @@
   "poster": [
     {
     "imagen": "https://tvazteca.brightspotcdn.com/55/a1/48b1f26b4cf9bb179007678b7bcd/academia-app-800x800.jpg",
-    "contenido": "https://uat.tv-azteca.psdops.com/envivo2020/seccion/interactua?nameTypeCell=CELDACARD&numberItemType=8&item=10",
+    "contenido": "https://tiradodev.github.io/appLite/votacion.json",
     "firebase_screen":"poster-academia"
   }
   ],
