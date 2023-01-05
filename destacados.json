@@ -2565,9 +2565,8 @@
       "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/Home"
     },
     {
-      "programa": "",
+      "programa": "https://tiradodev.github.io/appLite/secciones.json",
       "icotitulo": "#f055",
-      "video": "https://tiradodev.github.io/appLite/secciones.json",
       "titulo": "SÉSAMO",
       "icocolor": "#ffffff",
       "items": [
