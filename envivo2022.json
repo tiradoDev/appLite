@@ -26,7 +26,8 @@
       "titulounselcolor": "#ffffff",
       "tipo": "Inicio",
       "contenido": "https://tiradodev.github.io/appLite/destacados.json",
-      "firebasescreen": "inicio-Destacados"
+      "firebasescreen": "inicio-Destacados",
+      "imagen":"https://tvazteca.brightspotcdn.com/5a/dc/681204264e148556590790a69295/dating-800x200.jpg"
     },
     {
       "adunitid": "realities-seccion",
@@ -39,7 +40,8 @@
       "titulounselcolor": "#ffffff",
       "tipo": "Inicio",
       "contenido": "https://www.tvazteca.com/envivo2020/seccion/realities",
-      "firebasescreen": "inicio-realities"
+      "firebasescreen": "inicio-realities",
+      "imagen":"https://tvazteca.brightspotcdn.com/5a/dc/681204264e148556590790a69295/dating-800x200.jpg"
     },
     {
       "adunitid": "novelas-seccion",
@@ -52,7 +54,8 @@
       "titulounselcolor": "#ffffff",
       "tipo": "Inicio",
       "contenido": "https://www.tvazteca.com/envivo2020/seccion/novelas",
-      "firebasescreen": "inicio-novelas"
+      "firebasescreen": "inicio-novelas",
+      "imagen":"https://tvazteca.brightspotcdn.com/5a/dc/681204264e148556590790a69295/dating-800x200.jpg"
     },
     {
       "adunitid": "programas-seccion",
@@ -65,7 +68,8 @@
       "titulounselcolor": "#ffffff",
       "tipo": "Inicio",
       "contenido": "https://www.tvazteca.com/envivo2020/seccion/programas",
-      "firebasescreen": "inicio-programas"
+      "firebasescreen": "inicio-programas",
+      "imagen":"https://tvazteca.brightspotcdn.com/5a/dc/681204264e148556590790a69295/dating-800x200.jpg"
     },
     {
       "adunitid": "cine-seccion",
@@ -78,7 +82,8 @@
       "titulounselcolor": "#ffffff",
       "tipo": "Inicio",
       "contenido": "https://www.tvazteca.com/envivo2020/seccion/cine",
-      "firebasescreen": "cine-seccion"
+      "firebasescreen": "cine-seccion",
+      "imagen":"https://tvazteca.brightspotcdn.com/5a/dc/681204264e148556590790a69295/dating-800x200.jpg"
     },
     {
       "adunitid": "a-mas-seccion",
@@ -91,7 +96,8 @@
       "titulounselcolor": "#ffffff",
       "tipo": "Inicio",
       "contenido": "https://www.tvazteca.com/envivo2020/envivo2020/amastv",
-      "firebasescreen": "inicio-a+7.2"
+      "firebasescreen": "inicio-a+7.2",
+      "imagen":"https://tvazteca.brightspotcdn.com/5a/dc/681204264e148556590790a69295/dating-800x200.jpg"
     },
     {
       "adunitid": "series-seccion",
@@ -104,7 +110,8 @@
       "titulounselcolor": "#ffffff",
       "tipo": "Inicio",
       "contenido": "https://www.tvazteca.com/envivo2020/seccion/series",
-      "firebasescreen": "inicio-series"
+      "firebasescreen": "inicio-series",
+      "imagen":"https://tvazteca.brightspotcdn.com/5a/dc/681204264e148556590790a69295/dating-800x200.jpg"
     },
     {
       "adunitid": "kidsiete-seccion",
@@ -117,7 +124,8 @@
       "titulounselcolor": "#ffffff",
       "tipo": "Inicio",
       "contenido": "https://www.tvazteca.com/envivo2020/seccion/kidsiete",
-      "firebasescreen": "inicio-kidsiete"
+      "firebasescreen": "inicio-kidsiete",
+      "imagen":"https://tvazteca.brightspotcdn.com/5a/dc/681204264e148556590790a69295/dating-800x200.jpg"
     },
     {
       "adunitid": "es-mucho-mas-seccion",
@@ -130,7 +138,8 @@
       "titulounselcolor": "#ffffff",
       "tipo": "Inicio",
       "contenido": "https://www.tvazteca.com/envivo2020/seccion/deportes-esmuchomas",
-      "firebasescreen": "es-mucho-mas-seccion"
+      "firebasescreen": "es-mucho-mas-seccion",
+      "imagen":"https://tvazteca.brightspotcdn.com/5a/dc/681204264e148556590790a69295/dating-800x200.jpg"
     },
     {
       "adunitid": "interactua-seccion",
@@ -143,7 +152,8 @@
       "titulounselcolor": "#ffffff",
       "tipo": "Inicio",
       "contenido": "https://www.tvazteca.com/envivo2020/seccion/interactua",
-      "firebasescreen": "interactua-seccion"
+      "firebasescreen": "interactua-seccion",
+      "imagen":"https://tvazteca.brightspotcdn.com/5a/dc/681204264e148556590790a69295/dating-800x200.jpg"
     }
   ],
   "envivo": {
