@@ -154,6 +154,71 @@
       "contenido": "https://www.tvazteca.com/envivo2020/seccion/interactua",
       "firebasescreen": "interactua-seccion",
       "imagen":"https://tvazteca.brightspotcdn.com/5a/dc/681204264e148556590790a69295/dating-800x200.jpg"
+    },
+    {
+      "adunitid": "a-mas-seccion",
+      "adunitidios": "a-mas-seccion",
+      "firebase_seccion": "a más +",
+      "tituloselcolor": "#f8f809",
+      "titulo": "a más +",
+      "firebase_screen": "inicio-a+7.2",
+      "firebase_tipo": "Inicio",
+      "titulounselcolor": "#ffffff",
+      "tipo": "Inicio",
+      "contenido": "https://www.tvazteca.com/envivo2020/envivo2020/amastv",
+      "firebasescreen": "inicio-a+7.2"
+    },
+    {
+      "adunitid": "series-seccion",
+      "adunitidios": "series-seccion",
+      "firebase_seccion": "Series",
+      "tituloselcolor": "#f8f809",
+      "titulo": "Series",
+      "firebase_screen": "inicio-series",
+      "firebase_tipo": "Inicio",
+      "titulounselcolor": "#ffffff",
+      "tipo": "Inicio",
+      "contenido": "https://www.tvazteca.com/envivo2020/seccion/series",
+      "firebasescreen": "inicio-series"
+    },
+    {
+      "adunitid": "kidsiete-seccion",
+      "adunitidios": "kidsiete-seccion",
+      "firebase_seccion": "KidSiete",
+      "tituloselcolor": "#f8f809",
+      "titulo": "KidSiete",
+      "firebase_screen": "inicio-kidsiete",
+      "firebase_tipo": "Inicio",
+      "titulounselcolor": "#ffffff",
+      "tipo": "Inicio",
+      "contenido": "https://www.tvazteca.com/envivo2020/seccion/kidsiete",
+      "firebasescreen": "inicio-kidsiete"
+    },
+    {
+      "adunitid": "es-mucho-mas-seccion",
+      "adunitidios": "es-mucho-mas-seccion",
+      "firebase_seccion": "Es mucho más",
+      "tituloselcolor": "#f8f809",
+      "titulo": "Es mucho más",
+      "firebase_screen": "es-mucho-mas-seccion",
+      "firebase_tipo": "Inicio",
+      "titulounselcolor": "#ffffff",
+      "tipo": "Inicio",
+      "contenido": "https://www.tvazteca.com/envivo2020/seccion/deportes-esmuchomas",
+      "firebasescreen": "es-mucho-mas-seccion"
+    },
+    {
+      "adunitid": "interactua-seccion",
+      "adunitidios": "interactua-seccion",
+      "firebase_seccion": "Interactúa",
+      "tituloselcolor": "#f8f809",
+      "titulo": "Interactúa",
+      "firebase_screen": "interactua-seccion",
+      "firebase_tipo": "Inicio",
+      "titulounselcolor": "#ffffff",
+      "tipo": "Inicio",
+      "contenido": "https://www.tvazteca.com/envivo2020/seccion/interactua",
+      "firebasescreen": "interactua-seccion"
     }
   ],
   "envivo": {
