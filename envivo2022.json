@@ -16,6 +16,19 @@
   ],
   "datos": [
     {
+      "adunitid": "inicio-seccion",
+      "adunitidios": "inicio-seccion",
+      "firebase_seccion": "Inicio",
+      "tituloselcolor": "#f8f809",
+      "titulo": "Inicio",
+      "firebase_screen": "inicio-Destacados",
+      "firebase_tipo": "Inicio",
+      "titulounselcolor": "#ffffff",
+      "tipo": "Inicio",
+      "contenido": "https://tiradodev.github.io/appLite/destacados.json",
+      "firebasescreen": "inicio-Destacados"
+    },
+    {
       "adunitid": "realities-seccion",
       "adunitidios": "realities-seccion",
       "firebase_seccion": "Realities",
@@ -39,7 +52,8 @@
       "titulounselcolor": "#ffffff",
       "tipo": "Inicio",
       "contenido": "https://www.tvazteca.com/envivo2020/seccion/novelas",
-      "firebasescreen": "inicio-novelas"
+      "firebasescreen": "inicio-novelas",
+      "imagen":"https://tvazteca.brightspotcdn.com/5a/dc/681204264e148556590790a69295/dating-800x200.jpg"
     },
     {
       "adunitid": "programas-seccion",
@@ -196,20 +210,6 @@
       "tipo": "Inicio",
       "contenido": "https://www.tvazteca.com/envivo2020/seccion/interactua",
       "firebasescreen": "interactua-seccion"
-    },
-    {
-      "adunitid": "inicio-seccion",
-      "adunitidios": "inicio-seccion",
-      "firebase_seccion": "Inicio",
-      "tituloselcolor": "#f8f809",
-      "titulo": "Inicio",
-      "firebase_screen": "inicio-Destacados",
-      "firebase_tipo": "Inicio",
-      "titulounselcolor": "#ffffff",
-      "tipo": "Inicio",
-      "contenido": "https://tiradodev.github.io/appLite/destacados.json",
-      "firebasescreen": "inicio-Destacados",
-      "imagen":"https://tvazteca.brightspotcdn.com/5a/dc/681204264e148556590790a69295/dating-800x200.jpg"
     }
   ],
   "envivo": {
