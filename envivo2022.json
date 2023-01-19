@@ -124,19 +124,6 @@
       "tipo": "Inicio",
       "contenido": "https://www.tvazteca.com/envivo2020/seccion/deportes-esmuchomas",
       "firebasescreen": "es-mucho-mas-seccion"
-    },
-    {
-      "adunitid": "interactua-seccion",
-      "adunitidios": "interactua-seccion",
-      "firebase_seccion": "Interactúa",
-      "tituloselcolor": "#f8f809",
-      "titulo": "Interactúa",
-      "firebase_screen": "interactua-seccion",
-      "firebase_tipo": "Inicio",
-      "titulounselcolor": "#ffffff",
-      "tipo": "Inicio",
-      "contenido": "https://www.tvazteca.com/envivo2020/seccion/interactua",
-      "firebasescreen": "interactua-seccion"
     }
   ],
   "envivo": {
