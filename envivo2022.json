@@ -111,19 +111,6 @@
       "tipo": "Inicio",
       "contenido": "https://www.tvazteca.com/envivo2020/seccion/kidsiete",
       "firebasescreen": "inicio-kidsiete"
-    },
-    {
-      "adunitid": "es-mucho-mas-seccion",
-      "adunitidios": "es-mucho-mas-seccion",
-      "firebase_seccion": "Es mucho más",
-      "tituloselcolor": "#f8f809",
-      "titulo": "Es mucho más",
-      "firebase_screen": "es-mucho-mas-seccion",
-      "firebase_tipo": "Inicio",
-      "titulounselcolor": "#ffffff",
-      "tipo": "Inicio",
-      "contenido": "https://www.tvazteca.com/envivo2020/seccion/deportes-esmuchomas",
-      "firebasescreen": "es-mucho-mas-seccion"
     }
   ],
   "envivo": {
