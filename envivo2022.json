@@ -4,7 +4,7 @@
   "busqueda": [
     {
       "url": "https://servicios.site/tva/AztecaEnVivo2019/busqueda.php?buscar={[PARAMETROBUSCAR]}",
-      "screenname": "pantalla_busqueda"
+      "screenname": "pantalla_busqueda "
     }
   ],
   "datos": [
