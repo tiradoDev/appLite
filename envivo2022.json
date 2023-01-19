@@ -1,13 +1,6 @@
 {
   "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo",
   "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo",
-  "poster": [
-    {
-    "imagen": "https://tvazteca.brightspotcdn.com/55/a1/48b1f26b4cf9bb179007678b7bcd/academia-app-800x800.jpg",
-    "contenido": "https://tiradodev.github.io/appLite/votacion.json",
-    "firebase_screen":"poster-academia"
-  }
-  ],
   "busqueda": [
     {
       "url": "https://servicios.site/tva/AztecaEnVivo2019/busqueda.php?buscar={[PARAMETROBUSCAR]}",
@@ -46,14 +39,13 @@
       "adunitidios": "novelas-seccion",
       "firebase_seccion": "Novelas",
       "tituloselcolor": "#f8f809",
-      "titulo": "Novelas, pruaba con titulo muuuy largooo",
+      "titulo": "Novelas",
       "firebase_screen": "inicio-novelas",
       "firebase_tipo": "Inicio",
       "titulounselcolor": "#ffffff",
       "tipo": "Inicio",
       "contenido": "https://www.tvazteca.com/envivo2020/seccion/novelas",
-      "firebasescreen": "inicio-novelas",
-      "imagen":"https://tvazteca.brightspotcdn.com/5a/dc/681204264e148556590790a69295/dating-800x200.jpg"
+      "firebasescreen": "inicio-novelas"
     },
     {
       "adunitid": "programas-seccion",
@@ -80,71 +72,6 @@
       "tipo": "Inicio",
       "contenido": "https://www.tvazteca.com/envivo2020/seccion/cine",
       "firebasescreen": "cine-seccion"
-    },
-    {
-      "adunitid": "a-mas-seccion",
-      "adunitidios": "a-mas-seccion",
-      "firebase_seccion": "a más +",
-      "tituloselcolor": "#f8f809",
-      "titulo": "a más +",
-      "firebase_screen": "inicio-a+7.2",
-      "firebase_tipo": "Inicio",
-      "titulounselcolor": "#ffffff",
-      "tipo": "Inicio",
-      "contenido": "https://www.tvazteca.com/envivo2020/envivo2020/amastv",
-      "firebasescreen": "inicio-a+7.2"
-    },
-    {
-      "adunitid": "series-seccion",
-      "adunitidios": "series-seccion",
-      "firebase_seccion": "Series",
-      "tituloselcolor": "#f8f809",
-      "titulo": "Series",
-      "firebase_screen": "inicio-series",
-      "firebase_tipo": "Inicio",
-      "titulounselcolor": "#ffffff",
-      "tipo": "Inicio",
-      "contenido": "https://www.tvazteca.com/envivo2020/seccion/series",
-      "firebasescreen": "inicio-series"
-    },
-    {
-      "adunitid": "kidsiete-seccion",
-      "adunitidios": "kidsiete-seccion",
-      "firebase_seccion": "KidSiete",
-      "tituloselcolor": "#f8f809",
-      "titulo": "KidSiete",
-      "firebase_screen": "inicio-kidsiete",
-      "firebase_tipo": "Inicio",
-      "titulounselcolor": "#ffffff",
-      "tipo": "Inicio",
-      "contenido": "https://www.tvazteca.com/envivo2020/seccion/kidsiete",
-      "firebasescreen": "inicio-kidsiete"
-    },
-    {
-      "adunitid": "es-mucho-mas-seccion",
-      "adunitidios": "es-mucho-mas-seccion",
-      "firebase_seccion": "Es mucho más",
-      "tituloselcolor": "#f8f809",
-      "titulo": "Es mucho más",
-      "firebase_screen": "es-mucho-mas-seccion",
-      "firebase_tipo": "Inicio",
-      "titulounselcolor": "#ffffff",
-      "tipo": "Inicio",
-      "contenido": "https://www.tvazteca.com/envivo2020/seccion/deportes-esmuchomas",
-      "firebasescreen": "es-mucho-mas-seccion"
-    },
-    {
-      "adunitid": "interactua-seccion",
-      "adunitidios": "interactua-seccion",
-      "firebase_seccion": "Interactúa",
-      "tituloselcolor": "#f8f809",
-      "titulo": "Interactúa",
-      "firebase_screen": "interactua-seccion",
-      "firebase_tipo": "Inicio",
-      "titulounselcolor": "#ffffff",
-      "tipo": "Inicio",
-      "contenido": "https://www.tvazteca.com/envivo2020/seccion/interactua",
-      "firebasescreen": "interactua-seccion"
     },
     {
       "adunitid": "a-mas-seccion",
@@ -240,7 +167,7 @@
           "programa": "",
           "firebase_video": "",
           "icono": "https://tvazteca.brightspotcdn.com/dims4/default/3f214b3/2147483647/strip/true/crop/1620x1080+150+0/resize/300x200!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F5d%2Fac%2F3199ed5e4f8cbc52ea2f4a29acce%2Flogo7blanco1.png",
-          "url": "https://tiradodev.github.io/appLite/program7.json",
+          "url": "https://www.tvazteca.com/envivo2020/epg/a7",
           "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-7",
           "firebase_seccion": "",
           "id": "1037",
@@ -256,7 +183,7 @@
         {
           "programa": "",
           "firebase_video": "",
-          "icono": "https://tvazteca.brightspotcdn.com/dims4/default/52d3eed/2147483647/strip/true/crop/512x341+0+85/resize/300x200!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F7e%2Ff8%2F26a32c8943a999981121de5f9771%2Flogoamas-app-vivo.png",
+          "icono": "https://tvazteca.brightspotcdn.com/dims4/default/e2542e4/2147483647/strip/true/crop/512x341+0+85/resize/300x200!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F0b%2Ff3%2F7a81adb446a6b993ca70a1835f5d%2Famas-logo-live-switcher-512x512.png",
           "url": "https://www.tvazteca.com/envivo2020/epg/amas",
           "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Amas-TV",
           "firebase_seccion": "",
@@ -286,23 +213,6 @@
           "firebase_videoaviso": "En vivo",
           "firebase_programa": "",
           "firebasescreen": "En vivo-ADN40-Programacion"
-        },
-        {
-          "programa": "",
-          "firebase_video": "",
-          "icono": "https://tvazteca.brightspotcdn.com/dims4/default/9bcb216/2147483647/strip/true/crop/6750x4500+625+0/resize/300x200!/quality/90/?url=https%3A%2F%2Ftvazteca.brightspotcdn.com%2F4f%2Fcb%2Fcf902fb14cbf831d926ce69b9578%2Flogo-letras-alpha.png",
-          "url": "https://www.tvazteca.com/envivo2020/epg/laacademia",
-          "adunitid": "/29782907/Apps-Azteca/APP-Envivo-2020/realities/la-academia/Realities-La-Academia-En-Vivo-24//7",
-          "firebase_seccion": "",
-          "id": "10390",
-          "adunitidios": "/29782907/Apps-Azteca/APP-Envivo-2020/realities/la-academia/Realities-La-Academia-En-Vivo-24//7",
-          "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/APP-Envivo-2020/realities/la-academia/Realities-La-Academia-En-Vivo-24//7&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
-          "firebase_screen": "En vivo-LaAcademia-Programacion",
-          "firebase_canal": "LaAcademia",
-          "firebase_tipo": "En vivo",
-          "firebase_videoaviso": "En vivo",
-          "firebase_programa": "",
-          "firebasescreen": "En vivo-LaAcademia-Programacion"
         }
       ],
       "EPG": "https://www.tvazteca.com/envivo2020/epg/all"
