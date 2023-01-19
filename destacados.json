@@ -358,6 +358,17 @@
     },
     {
       "programa": "",
+      "icotitulo": "VIVOANIM",
+      "video": "",
+      "titulo": "EN VIVO AHORA",
+      "icocolor": "#ffffff",
+      "urlitems": "https://www.tvazteca.com/envivo2020/seccion/vivo",
+      "setlist": "",
+      "tipo": "LSTHOR",
+      "titulocolor": "#ffffff"
+    },
+    {
+      "programa": "",
       "video": "",
       "icotitulo": "",
       "tituloselcolor": "#808080",
