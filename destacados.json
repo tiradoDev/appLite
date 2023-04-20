@@ -672,6 +672,8 @@
           "firebase_screen": "inicio-destacados-programasrecomendados2023-extranormalelorigen-programa",
           "video": "https://www.tvazteca.com/envivo2020/extranormal-amas/programascompletosOK.json",
           "firebase_seccion": "inicio",
+          "privateCfg": "https://www.tvazteca.com/envivo2020/login-login-vivo-con-salto.json",
+          "private": "1",
           "vast": "https://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=/29782907/Apps-Azteca/APP-Envivo-2020/amas-tv/extranormal/programas-completos&ciu_szs=300x250&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&cust_params=deployment%3Ddevsite%26sample_ct%3Dskippablelinear&correlator="
         },
         {
@@ -2982,6 +2984,8 @@
           "firebase_seccion": "inicio",
           "vast": "https://pubads.g.doubleclick.net/gampad/ads?iu=/29782907/Apps-Azteca/APP-Envivo-2020/amas-tv/extranormal/programas-completos&ads?sz=640x480&description_url=[placeholder]&url=[placeholder]&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&cust_params=Entre_ID%3D63c45e0805f6ff0875403718&sz=640x480&vid=63c45e0805f6ff0875403718&cmsid=2553967&unviewed_position_start=1&ad_rule=1&pp=FormatosVideo&correlator=",
           "islive": "false"
+          "privateCfg": "https://www.tvazteca.com/envivo2020/login-login-vivo-con-salto.json",
+          "private": "1"
         },
         {
           "icono": "",
@@ -3012,7 +3016,7 @@
           "vast": "https://pubads.g.doubleclick.net/gampad/ads?iu=/29782907/Apps-Azteca/APP-Envivo-2020/amas-tv/extranormal/programas-completos&ads?sz=640x480&description_url=[placeholder]&url=[placeholder]&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&cust_params=Entre_ID%3D63bb44c33750b6096a0bf501&sz=640x480&vid=63bb44c33750b6096a0bf501&cmsid=2553967&unviewed_position_start=1&ad_rule=1&pp=FormatosVideo&correlator=",
           "islive": "false",
           "privateCfg": "https://www.tvazteca.com/envivo2020/login-login-vivo-con-salto.json",
-          "private": "1"
+          "private": "2"
         },
         {
           "icono": "",
@@ -3043,7 +3047,7 @@
           "vast": "https://pubads.g.doubleclick.net/gampad/ads?iu=/29782907/Apps-Azteca/APP-Envivo-2020/amas-tv/extranormal/programas-completos&ads?sz=640x480&description_url=[placeholder]&url=[placeholder]&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&cust_params=Entre_ID%3D63a0934a117f42713374b55e&sz=640x480&vid=63a0934a117f42713374b55e&cmsid=2553967&unviewed_position_start=1&ad_rule=1&pp=FormatosVideo&correlator=",
           "islive": "false",
           "privateCfg": "https://www.tvazteca.com/envivo2020/login-login-vivo-con-salto.json",
-          "private": "2"
+          "private": "1"
         },
         {
           "icono": "",
@@ -3073,6 +3077,8 @@
           "firebase_seccion": "inicio",
           "vast": "https://pubads.g.doubleclick.net/gampad/ads?iu=/29782907/Apps-Azteca/APP-Envivo-2020/amas-tv/extranormal/programas-completos&ads?sz=640x480&description_url=[placeholder]&url=[placeholder]&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&cust_params=Entre_ID%3D6396811505ae78087128e2e7&sz=640x480&vid=6396811505ae78087128e2e7&cmsid=2553967&unviewed_position_start=1&ad_rule=1&pp=FormatosVideo&correlator=",
           "islive": "false"
+          "privateCfg": "https://www.tvazteca.com/envivo2020/login-login-vivo-con-salto.json",
+          "private": "1"
         },
         {
           "icono": "",
