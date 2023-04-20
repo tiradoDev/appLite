@@ -2983,7 +2983,7 @@
           "firebase_video": "Extranormal | El Culto",
           "firebase_seccion": "inicio",
           "vast": "https://pubads.g.doubleclick.net/gampad/ads?iu=/29782907/Apps-Azteca/APP-Envivo-2020/amas-tv/extranormal/programas-completos&ads?sz=640x480&description_url=[placeholder]&url=[placeholder]&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&cust_params=Entre_ID%3D63c45e0805f6ff0875403718&sz=640x480&vid=63c45e0805f6ff0875403718&cmsid=2553967&unviewed_position_start=1&ad_rule=1&pp=FormatosVideo&correlator=",
-          "islive": "false"
+          "islive": "false",
           "privateCfg": "https://www.tvazteca.com/envivo2020/login-login-vivo-con-salto.json",
           "private": "1"
         },
@@ -3076,7 +3076,7 @@
           "firebase_video": "Extranormal | Ecos Fantasmales / Un Milagro Para Lourdes",
           "firebase_seccion": "inicio",
           "vast": "https://pubads.g.doubleclick.net/gampad/ads?iu=/29782907/Apps-Azteca/APP-Envivo-2020/amas-tv/extranormal/programas-completos&ads?sz=640x480&description_url=[placeholder]&url=[placeholder]&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&cust_params=Entre_ID%3D6396811505ae78087128e2e7&sz=640x480&vid=6396811505ae78087128e2e7&cmsid=2553967&unviewed_position_start=1&ad_rule=1&pp=FormatosVideo&correlator=",
-          "islive": "false"
+          "islive": "false",
           "privateCfg": "https://www.tvazteca.com/envivo2020/login-login-vivo-con-salto.json",
           "private": "1"
         },
