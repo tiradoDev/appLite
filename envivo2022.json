@@ -202,7 +202,7 @@
           "firebasescreen": "En vivo-ADN40-Programacion"
         }
       ],
-      "EPG": "https://www.tvazteca.com/envivo2020/epg/all"
+      "EPG": "https://tiradodev.github.io/appLite/egg.json"
     },
     "EPG": {
       "firebase_screen": "En vivo",
