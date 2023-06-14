@@ -1,12 +1,13 @@
 {
   "setlist": [
      {
-      "url": "https://www.tvazteca.com/multiencuesta?im={[IM]}&origen={[ORIGEN]}",
+      "url": "https://tvazteca.jotform.com/231637569759979?im={[IM]}",
       "time": 20,
       "image": "https://tvazteca.brightspotcdn.com/d9/c5/984b596f454283af11ee88011b11/limpio-negro-pantalla-cargando-app-vivo-1920x1080.jpg",
       "title": "¡Quiero pinches Cantar!",
       "imageButton": "https://raw.githubusercontent.com/tiradoDev/appLite/main/Botones-700x385_INTERACTUA.jpg",
-      "enableRefresh": true
+      "enableRefresh": false,
+      "preguntas": true
     }
   ]
 }
