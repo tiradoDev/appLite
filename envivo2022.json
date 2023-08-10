@@ -1,6 +1,13 @@
 {
   "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo",
   "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo",
+  "poster": [
+     {
+     "imagen": "https://tiradodev.github.io/appLite/6.jpg",
+     "contenido": "https://uat.tv-azteca.psdops.com/envivo2020/seccion/interactua?nameTypeCell=CELDACARD&numberItemType=8&item=10",
+     "firebase_screen":"poster-academia"
+   }
+   ],
   "busqueda": [
     {
       "url": "https://servicios.site/tva/AztecaEnVivo2019/busqueda.php?buscar={[PARAMETROBUSCAR]}",
