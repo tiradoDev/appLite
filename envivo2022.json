@@ -19,7 +19,7 @@
       "firebase_tipo": "Inicio",
       "titulounselcolor": "#ffffff",
       "tipo": "Inicio",
-      "contenido": "https://tiradodev.github.io/appLite/destacados123.json",
+      "contenido": "https://tiradodev.github.io/appLite/destacados.json",
       "firebasescreen": "inicio-Destacados",
       "tituloBotonMenu": "Inicio"
     },
@@ -34,7 +34,7 @@
       "firebase_tipo": "Inicio",
       "titulounselcolor": "#ffffff",
       "tipo": "Inicio",
-      "contenido": "https://www.tvazteca.com/envivo2020/seccion/realities123",
+      "contenido": "https://www.tvazteca.com/envivo2020/seccion/realities",
       "firebasescreen": "inicio-realities",
       "tituloBotonMenu": "Realities"
     },
@@ -49,7 +49,7 @@
       "firebase_tipo": "Inicio",
       "titulounselcolor": "#ffffff",
       "tipo": "Inicio",
-      "contenido": "https://www.tvazteca.com/envivo2020/seccion/novelas123",
+      "contenido": "https://www.tvazteca.com/envivo2020/seccion/novelas",
       "firebasescreen": "inicio-novelas",
       "tituloBotonMenu": "Novelas"
     },
@@ -64,7 +64,7 @@
       "firebase_tipo": "Inicio",
       "titulounselcolor": "#ffffff",
       "tipo": "Inicio",
-      "contenido": "https://www.tvazteca.com/envivo2020/seccion/programas123",
+      "contenido": "https://www.tvazteca.com/envivo2020/seccion/programas",
       "firebasescreen": "inicio-programas",
       "tituloBotonMenu": "Programas"
     },
@@ -94,7 +94,7 @@
       "firebase_tipo": "Inicio",
       "titulounselcolor": "#ffffff",
       "tipo": "Inicio",
-      "contenido": "https://www.tvazteca.com/envivo2020/envivo2020/amastv123",
+      "contenido": "https://www.tvazteca.com/envivo2020/envivo2020/amastv",
       "firebasescreen": "inicio-a+7.2",
       "tituloBotonMenu": "a más +"
     },
@@ -109,7 +109,7 @@
       "firebase_tipo": "Inicio",
       "titulounselcolor": "#ffffff",
       "tipo": "Inicio",
-      "contenido": "https://www.tvazteca.com/envivo2020/seccion/series123",
+      "contenido": "https://www.tvazteca.com/envivo2020/seccion/series",
       "firebasescreen": "inicio-series",
       "tituloBotonMenu": "Series"
     },
@@ -124,7 +124,7 @@
       "firebase_tipo": "Inicio",
       "titulounselcolor": "#ffffff",
       "tipo": "Inicio",
-      "contenido": "https://www.tvazteca.com/envivo2020/seccion/kidsiete123",
+      "contenido": "https://www.tvazteca.com/envivo2020/seccion/kidsiete",
       "firebasescreen": "inicio-kidsiete",
       "tituloBotonMenu": "KidSiete"
     },
@@ -154,7 +154,7 @@
       "firebase_tipo": "Inicio",
       "titulounselcolor": "#ffffff",
       "tipo": "Inicio",
-      "contenido": "https://www.tvazteca.com/envivo2020/seccion/interactua123",
+      "contenido": "https://www.tvazteca.com/envivo2020/seccion/interactua",
       "firebasescreen": "interactua-seccion",
       "tituloBotonMenu": "Interactúa"
     }
