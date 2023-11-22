@@ -1,13 +1,13 @@
 {
   "setlist": [
      {
-      "url": "https://d2p4zims1ukkn.cloudfront.net/test/MyProject.html",
+      "url": " https://viz.flowics.com/public/663cebfd03871d96e992ae3ff1b610cc/651ca1b8193b2e02bdcf6d4a/live",
       "time": 20,
       "image": "https://tvazteca.brightspotcdn.com/d9/c5/984b596f454283af11ee88011b11/limpio-negro-pantalla-cargando-app-vivo-1920x1080.jpg",
       "title": "¡Quiero pinches Cantar!",
       "imageButton": "https://raw.githubusercontent.com/tiradoDev/appLite/main/Botones-700x385_INTERACTUA.jpg",
       "enableRefresh": false,
-      "preguntas": false
+      "preguntas": true
     }
   ]
 }
