@@ -146,6 +146,9 @@
       "tipo": "CARHORHD",
       "time": "5"
     },
+    {
+      "tipo": "BANNER03"
+    },
      {
       "firebasescreen": "inicio-inicio-header-lapalabrasecreta-html",
       "firebase_tipo": "inicio",
@@ -2722,6 +2725,9 @@
       "setlist": "",
       "tipo": "LSTHOR",
       "titulocolor": "#ffffff"
+    },
+    {
+      "tipo": "BANNER03"
     },
     {
       "programa": "https://www.tvazteca.com/envivo2020/contenedor/ventaneando?ss=inicio-titulo",
