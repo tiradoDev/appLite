@@ -147,7 +147,7 @@
       "time": "5"
     },
     {
-      "tipo": "BANNER03"
+      "tipo": "BANNERSTOIC"
     },
      {
       "firebasescreen": "inicio-inicio-header-lapalabrasecreta-html",
@@ -2727,7 +2727,7 @@
       "titulocolor": "#ffffff"
     },
     {
-      "tipo": "BANNER03"
+      "tipo": "BANNERSTOIC"
     },
     {
       "programa": "https://www.tvazteca.com/envivo2020/contenedor/ventaneando?ss=inicio-titulo",
