@@ -1,6 +1,6 @@
 {
-  "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo",
-  "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo",
+  "adunitid": "",
+  "adunitidios": "",
   "busqueda": [
     {
       "url": "https://servicios.site/tva/AztecaEnVivo2019/busqueda.php?buscar={[PARAMETROBUSCAR]}",
