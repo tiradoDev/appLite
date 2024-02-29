@@ -5,12 +5,93 @@
     <title>Descarga Nuestra Aplicación</title>
 </head>
 <body>
-    <h1>Descarga Nuestra Aplicación</h1>
-    <p>¡Haz clic en el banner para descargar nuestra aplicación desde Google Play!</p>
-    
+     <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        .smart-banner {
+            display: none;
+            /* Initially hidden */
+            align-items: center;
+            justify-content: space-between;
+            background-color: #fff;
+            padding: 10px;
+            border-bottom: 1px solid #ddd;
+            flex-direction: row;
+        }
+
+        @media (max-width: 768px) {
+            .smart-banner {
+                display: flex;
+            }
+        }
+
+        .banner-logo img {
+            height: 40px;
+            width: 40px;
+            margin-right: 10px;
+        }
+
+        .banner-info {
+            flex: 1;
+        }
+
+        .app-name {
+            font-size: 16px;
+            font-weight: 500;
+            line-height: 26px;
+        }
+
+        .app-rating {
+            font-size: 14px;
+            color: #666;
+        }
+
+        .banner-action {
+            margin-right: 10px;
+        }
+
+        .action-btn {
+            background-color: #4CAF50;
+            color: #fff;
+            padding: 5px 10px;
+            border: none;
+            border-radius: 3px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        .action-btn:hover {
+            background-color: #45a049;
+        }
+
+        .close-banner {
+            cursor: pointer;
+            font-size: 18px;
+        }
+    </style>
+
+    <div class="smart-banner">
+        <div class="banner-logo">
+            <img src="https://play-lh.googleusercontent.com/hmWXYD8fm76z2BejoCvdfT1GNCSih5FnyE2WVlg-tnR7N4rsLb8-nFiFfhlQ74nrAw=w240-h480"
+                alt="Descarga en Google Play">
+        </div>
+        <div class="banner-info">
+            <div class="app-name">TV Azteca En Vivo</div>
+            <div class="app-rating">Descarga prro</div>
+        </div>
+        <div class="banner-action">
+            <a href="https://play.google.com/store/apps/details?id=com.azteca.live" target="_blank"><button
+                    class="action-btn">Open In App</button></a>
+        </div>
+        <div class="close-banner" onclick="closeBanner()">X</div>
+
+    </div>
     <!-- Banner promocional que redirige a la página de descarga en Google Play -->
     <a href="https://play.google.com/store/apps/details?id=com.azteca.live">
         <img src="https://play-lh.googleusercontent.com/hmWXYD8fm76z2BejoCvdfT1GNCSih5FnyE2WVlg-tnR7N4rsLb8-nFiFfhlQ74nrAw=w240-h480" alt="Descarga en Google Play" width="300" height="100">
     </a>
+
 </body>
 </html>
