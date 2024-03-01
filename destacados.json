@@ -149,7 +149,7 @@
     {
       "tipo": "BANNERSTOIC"
     },
-     {
+    {
       "firebasescreen": "inicio-inicio-header-lapalabrasecreta-html",
       "firebase_tipo": "inicio",
       "tituloselcolor": "#808080",
@@ -205,7 +205,7 @@
       "vast": "https://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=No definido&ciu_szs=300x250&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&cust_params=deployment%3Ddevsite%26sample_ct%3Dskippablelinear&correlator=",
       "privateCfg": "https://www.tvazteca.com/envivo2020/login-login-interno-obligatorio.json"
     },
-        {
+    {
       "firebasescreen": "inicio-inicio-header-vengalaalegría-exatlón-Envivo",
       "firebase_tipo": "inicio",
       "tituloselcolor": "#808080",
@@ -237,7 +237,20 @@
       "privateCfg": "https://www.tvazteca.com/envivo2020/login-login-vivo-con-salto.json",
       "islive": true
     },
-        {
+    {
+      "programa": "",
+      "private": "1",
+      "video": "",
+      "icotitulo": "VIVOANIM",
+      "titulo": "EN VIVO AHORA",
+      "icocolor": "#ffffff",
+      "privateCfg": "https://www.tvazteca.com/envivo2020/login-login-interno-obligatorio.json",
+      "urlitems": "https://www.tvazteca.com/envivo2020/seccion/vivo",
+      "setlist": "",
+      "tipo": "LSTHOR",
+      "titulocolor": "#ffffff"
+    },
+    {
       "icocolor": "#ffffff",
       "items": [
         {
