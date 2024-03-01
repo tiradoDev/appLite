@@ -199,6 +199,6 @@
       "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-7&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
       "islive": true,
       "privateCfg": "https://www.tvazteca.com/envivo2020/login-login-vivo-con-salto.json"
-    },
+    }
   ]
 }
