@@ -2,30 +2,30 @@
   "datos": [
     {
       "items": [
-             {
-          "firebasescreen": "inicio-inicio-header-lapalabrasecreta-html",
+             {  
+          "firebasescreen": "inicio-inicio-header-CARRUSELDESTACADOS-MASTERCHEFCELEBRITY-Programa",
           "firebase_tipo": "inicio",
           "tituloselcolor": "#808080",
           "tipo": "PROGRAMAHD",
-          "imagetv": "Sin imagen",
+          "imagetv": "https://tiradodev.github.io/appLite/poster5.jpg",
           "private": "1",
-          "tipocontenido": "multicamara",
           "firebase_canal": "",
           "firebase_subseccion": "header",
           "firebase_programa": "",
           "imagenfondo": "",
           "subtitulo": "",
-          "programa": "",
+          "programa": "https://tiradodev.github.io/appLite/multicamara.json",
           "titulo": "",
-          "html": "https://tiradodev.github.io/appLite/multicamara.json",
+          "html": "",
+          "gif": "",
           "imagen": "https://tiradodev.github.io/appLite/poster5.jpg",
+          "firebase_screen": "inicio-inicio-header-CARRUSELDESTACADOS-MASTERCHEFCELEBRITY-Programa",
           "titulounselcolor": "#FFFFFF",
-          "contenido": "https://tiradodev.github.io/appLite/multicamara.json",
           "firebase_subsubseccion": "",
           "video": "",
           "firebase_seccion": "inicio",
           "setlist": "",
-          "vast": "https://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=No definido&ciu_szs=300x250&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&cust_params=deployment%3Ddevsite%26sample_ct%3Dskippablelinear&correlator=",
+          "vast": "https://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=/29782907/Apps-Azteca/APP-Envivo-2020/home/carrusel&ciu_szs=300x250&impl=s&gdfp_req=1&env=vp&output=vast&unviewed_position_start=1&cust_params=deployment%3Ddevsite%26sample_ct%3Dskippablelinear&correlator=",
           "privateCfg": "https://www.tvazteca.com/envivo2020/login-login-interno-obligatorio.json"
         },
         {
