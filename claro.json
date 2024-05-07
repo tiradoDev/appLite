@@ -5,7 +5,9 @@
       "time": 20,
       "image": "https://tvazteca.brightspotcdn.com/d9/c5/984b596f454283af11ee88011b11/limpio-negro-pantalla-cargando-app-vivo-1920x1080.jpg",
       "title": "CLARO que cargamos CLARO!",
-      "enableRefresh": false
+      "enableRefresh": false,
+      "apiChat": "https://apichaturl",
+      "roomChatId": "aws_2_example"
     }
   ]
 }
