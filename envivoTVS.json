@@ -131,7 +131,7 @@
   ],
   "envivo": {
     "url": "https://www.tvazteca.com/envivo2020/seccion/vivo-roku",
-    "multicamara": "https://tiradodev.github.io/appLite/multicamara.json"
+    "multicamara": "https://tiradodev.github.io/appLite/multicamara.json",
     "liveswitch": {
       "videoinicial": "http://mdstrm.com/video/deprecado.mp4",
       "tipo": "app-roku",
