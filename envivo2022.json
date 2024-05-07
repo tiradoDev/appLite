@@ -219,12 +219,14 @@
       "tituloBotonMenu": "Interactúa"
     }
   ],
-  "envivo": {
+   "envivo": {
+    "url": "https://tiradodev.github.io/appLite/envivos.json",
+    "multicamara": "https://tiradodev.github.io/appLite/multicamara.json",
     "liveswitch": {
       "videoinicial": "http://mdstrm.com/video/deprecado.mp4",
       "tipo": "En vivo",
       "firebasescreen": "En vivo",
-      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
+      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/APP-Envivo-2020/home&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
       "cartas": [
         {
           "icono": "https://tvazteca.brightspotcdn.com/dims4/default/b3a34d8/2147483647/strip/true/crop/512x341+0+85/resize/300x200!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fd8%2F00%2Fc641be3c473b85813a4cd3811078%2Flogo-azteca-uno-2023-live-switcher-color-rojo.png",
@@ -233,10 +235,10 @@
           "videoAssetIdRoku": "64f62b62012eb308aebb458f",
           "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno",
           "firebase_canal": "AztecaUNO",
-          "imagenCanalSeleccioandoRoku": "https://tvazteca.brightspotcdn.com/dims4/default/dc379a2/2147483647/strip/true/crop/718x548+0+0/resize/718x548!/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fd5%2Fd9%2F7f8faadf4955a103832c57d4c78f%2Funo.png",
+          "imagenCanalSeleccioandoRoku": "https://tvazteca.brightspotcdn.com/dims4/default/4a30706/2147483647/strip/true/crop/718x548+0+0/resize/718x548!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fd5%2Fd9%2F7f8faadf4955a103832c57d4c78f%2Funo.png",
           "url": "https://www.tvazteca.com/envivo2020/epg/aztecauno",
           "iconoRoku": "https://tvazteca.brightspotcdn.com/dims4/default/9488248/2147483647/strip/true/crop/512x512+0+0/resize/280x280!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fd8%2F00%2Fc641be3c473b85813a4cd3811078%2Flogo-azteca-uno-2023-live-switcher-color-rojo.png",
-          "imagenCanalRoku": "https://tvazteca.brightspotcdn.com/dims4/default/bd6d79d/2147483647/strip/true/crop/696x526+0+0/resize/696x526!/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F35%2F5b%2Fa7c9bfb34e908a3d55f0a15dae07%2Fblanco.png",
+          "imagenCanalRoku": "https://tvazteca.brightspotcdn.com/dims4/default/7466b83/2147483647/strip/true/crop/696x526+0+0/resize/696x526!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F35%2F5b%2Fa7c9bfb34e908a3d55f0a15dae07%2Fblanco.png",
           "firebase_programa": "",
           "programa": "",
           "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno",
@@ -255,10 +257,10 @@
           "videoAssetIdRoku": "653162053838b96815368c8d",
           "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-7",
           "firebase_canal": "Azteca7",
-          "imagenCanalSeleccioandoRoku": "https://tvazteca.brightspotcdn.com/dims4/default/25924ef/2147483647/strip/true/crop/718x548+0+0/resize/718x548!/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F97%2Ff8%2Fb5af6bc044fbae7d74c3eaa741b6%2Fsiete.png",
+          "imagenCanalSeleccioandoRoku": "https://tvazteca.brightspotcdn.com/dims4/default/d003441/2147483647/strip/true/crop/718x548+0+0/resize/718x548!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F97%2Ff8%2Fb5af6bc044fbae7d74c3eaa741b6%2Fsiete.png",
           "url": "https://www.tvazteca.com/envivo2020/epg/a7",
           "iconoRoku": "https://tvazteca.brightspotcdn.com/dims4/default/275529b/2147483647/strip/true/crop/1920x1080+0+0/resize/280x158!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F5d%2Fac%2F3199ed5e4f8cbc52ea2f4a29acce%2Flogo7blanco1.png",
-          "imagenCanalRoku": "https://tvazteca.brightspotcdn.com/dims4/default/64fea82/2147483647/strip/true/crop/698x528+0+0/resize/698x528!/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Ffe%2F71%2F0bc696734ca09428f59877257c5b%2Fsiete.png",
+          "imagenCanalRoku": "https://tvazteca.brightspotcdn.com/dims4/default/8d085b7/2147483647/strip/true/crop/698x528+0+0/resize/698x528!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Ffe%2F71%2F0bc696734ca09428f59877257c5b%2Fsiete.png",
           "firebase_programa": "",
           "programa": "",
           "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-7",
@@ -271,16 +273,16 @@
           "vastRoku": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/tvazteca-roku/Roku-Envivo-Siete/Roku-Envivo-Siete-Preroll&description_url=https://www.roku.com/es-mx/&url=https://www.roku.com/es-mx/&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=xml_vmap1&sz=640x480&unviewed_position_start=1&ad_rule=1&pp=FormatosVideo"
         },
         {
-          "icono": "https://cdn.clarosports.com/assets-v3/themes/clarosports-v3/assets/images/claroSportsSitio.png",
+          "icono": "https://tvazteca.brightspotcdn.com/dims4/default/cb21702/2147483647/strip/true/crop/512x341+0+85/resize/300x200!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F0b%2Ff3%2F7a81adb446a6b993ca70a1835f5d%2Famas-logo-live-switcher-512x512.png",
           "firebasescreen": "En vivo-amás+-Programacion",
           "firebase_tipo": "En vivo",
           "videoAssetIdRoku": "653162b9e50463682301cad3",
           "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Amas-TV",
           "firebase_canal": "amás+",
-          "imagenCanalSeleccioandoRoku": "https://tvazteca.brightspotcdn.com/dims4/default/2a9434a/2147483647/strip/true/crop/718x548+0+0/resize/718x548!/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fc5%2Ff2%2F993470c042ddae8e448fcc19c028%2Famas.png",
+          "imagenCanalSeleccioandoRoku": "https://tvazteca.brightspotcdn.com/dims4/default/6a1286f/2147483647/strip/true/crop/718x548+0+0/resize/718x548!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fc5%2Ff2%2F993470c042ddae8e448fcc19c028%2Famas.png",
           "url": "https://www.tvazteca.com/envivo2020/epg/amas",
-          "iconoRoku": "https://cdn.clarosports.com/assets-v3/themes/clarosports-v3/assets/images/claroSportsSitio.png",
-          "imagenCanalRoku": "https://tvazteca.brightspotcdn.com/dims4/default/a178e4d/2147483647/strip/true/crop/698x528+0+0/resize/698x528!/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F2e%2Fb5%2Fdb1683244677bb70e31a5240e05c%2Famas.png",
+          "iconoRoku": "https://tvazteca.brightspotcdn.com/dims4/default/8f51dd1/2147483647/strip/true/crop/512x512+0+0/resize/280x280!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F0b%2Ff3%2F7a81adb446a6b993ca70a1835f5d%2Famas-logo-live-switcher-512x512.png",
+          "imagenCanalRoku": "https://tvazteca.brightspotcdn.com/dims4/default/46098a4/2147483647/strip/true/crop/698x528+0+0/resize/698x528!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F2e%2Fb5%2Fdb1683244677bb70e31a5240e05c%2Famas.png",
           "firebase_programa": "",
           "programa": "",
           "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Amas-TV",
@@ -299,10 +301,10 @@
           "videoAssetIdRoku": "6531643a3838b9681536d42d",
           "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
           "firebase_canal": "ADN40",
-          "imagenCanalSeleccioandoRoku": "https://tvazteca.brightspotcdn.com/dims4/default/034dbd4/2147483647/strip/true/crop/718x548+0+0/resize/718x548!/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fc4%2Fb7%2Fe550e39e4376b22be87d85864877%2Fadn40.png",
+          "imagenCanalSeleccioandoRoku": "https://tvazteca.brightspotcdn.com/dims4/default/8761502/2147483647/strip/true/crop/718x548+0+0/resize/718x548!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fc4%2Fb7%2Fe550e39e4376b22be87d85864877%2Fadn40.png",
           "url": "https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/ADN40FeedEPG.json",
           "iconoRoku": "https://tvazteca.brightspotcdn.com/dims4/default/dac0266/2147483647/strip/true/crop/512x512+0+0/resize/280x280!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F58%2F74%2F8f13538947b7a5e8a0c8989612e1%2Fadn-40-512x512-color-02.png",
-          "imagenCanalRoku": "https://tvazteca.brightspotcdn.com/dims4/default/b3c9fd6/2147483647/strip/true/crop/698x528+0+0/resize/698x528!/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F81%2F49%2Fb80778ee4525a47fafffe2d9ca53%2Fadn40.png",
+          "imagenCanalRoku": "https://tvazteca.brightspotcdn.com/dims4/default/fd29fe5/2147483647/strip/true/crop/698x528+0+0/resize/698x528!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F81%2F49%2Fb80778ee4525a47fafffe2d9ca53%2Fadn40.png",
           "firebase_programa": "",
           "programa": "",
           "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
@@ -315,7 +317,7 @@
           "vastRoku": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/tvazteca-roku/Roku-Envivo-ADN40/Roku-Envivo-ADN40-Preroll&description_url=https://www.roku.com/es-mx/&url=https://www.roku.com/es-mx/&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=xml_vmap1&sz=640x480&unviewed_position_start=1&ad_rule=1&pp=FormatosVideo"
         }
       ],
-      "EPG": "https://tiradodev.github.io/appLite/egg.json"
+      "EPG": "https://www.tvazteca.com/envivo2020/epg/all"
     },
     "EPG": {
       "firebase_screen": "En vivo",
