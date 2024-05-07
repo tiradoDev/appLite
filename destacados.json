@@ -120,7 +120,7 @@
       "titulo": "EN VIVO AHORA",
       "icocolor": "#ffffff",
       "privateCfg": "https://www.tvazteca.com/envivo2020/login-login-interno-obligatorio.json",
-      "urlitems": "https://www.tvazteca.com/envivo2020/seccion/vivo",
+      "urlitems": "https://tiradodev.github.io/appLite/envivos.json",
       "setlist": "",
       "tipo": "LSTHOR",
       "titulocolor": "#ffffff"
