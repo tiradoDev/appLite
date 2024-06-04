@@ -21,7 +21,8 @@
       "tipo": "Inicio",
       "contenido": "https://tiradodev.github.io/appLite/destacados.json",
       "firebasescreen": "inicio-Destacados",
-      "tituloBotonMenu": "Inicio"
+      "tituloBotonMenu": "Inicio",
+      "imagen": "https://thumbs.dreamstime.com/b/λογότυπο-batman-101469483.jpg"
     },
     {
       "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/Realities/Home",
@@ -36,7 +37,8 @@
       "tipo": "Inicio",
       "contenido": "https://www.tvazteca.com/envivo2020/seccion/realities",
       "firebasescreen": "inicio-realities",
-      "tituloBotonMenu": "Realities"
+      "tituloBotonMenu": "Realities",
+      "imagen": "https://thumbs.dreamstime.com/b/λογότυπο-batman-101469483.jpg"
     },
     {
       "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/Novelas/Home",
@@ -51,7 +53,8 @@
       "tipo": "Inicio",
       "contenido": "https://www.tvazteca.com/envivo2020/seccion/novelas",
       "firebasescreen": "inicio-novelas",
-      "tituloBotonMenu": "Novelas"
+      "tituloBotonMenu": "Novelas",
+      "imagen": "https://thumbs.dreamstime.com/b/λογότυπο-batman-101469483.jpg"
     },
     {
       "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/Programas/Home",
@@ -66,7 +69,8 @@
       "tipo": "Inicio",
       "contenido": "https://www.tvazteca.com/envivo2020/seccion/programas",
       "firebasescreen": "inicio-programas",
-      "tituloBotonMenu": "Programas"
+      "tituloBotonMenu": "Programas",
+      "imagen": "https://thumbs.dreamstime.com/b/λογότυπο-batman-101469483.jpg"
     },
     {
       "adunitid": "/29782907/Apps-Azteca/APP-Envivo-2020/Cine/Cine-Home",
@@ -81,7 +85,8 @@
       "tipo": "Inicio",
       "contenido": "https://www.tvazteca.com/envivo2020/seccion/cine",
       "firebasescreen": "cine-seccion",
-      "tituloBotonMenu": "Cine"
+      "tituloBotonMenu": "Cine",
+      "imagen": "https://thumbs.dreamstime.com/b/λογότυπο-batman-101469483.jpg"
     },
     {
       "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/Amas-TV/Home",
@@ -96,7 +101,8 @@
       "tipo": "Inicio",
       "contenido": "https://www.tvazteca.com/envivo2020/envivo2020/amastv",
       "firebasescreen": "inicio-a+7.2",
-      "tituloBotonMenu": "a más +"
+      "tituloBotonMenu": "a más +",
+      "imagen": "https://thumbs.dreamstime.com/b/λογότυπο-batman-101469483.jpg"
     },
     {
       "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/Series/Home",
@@ -111,7 +117,8 @@
       "tipo": "Inicio",
       "contenido": "https://www.tvazteca.com/envivo2020/seccion/series",
       "firebasescreen": "inicio-series",
-      "tituloBotonMenu": "Series"
+      "tituloBotonMenu": "Series",
+      "imagen": "https://thumbs.dreamstime.com/b/λογότυπο-batman-101469483.jpg"
     },
     {
       "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/Kidsiete/Home",
@@ -126,7 +133,8 @@
       "tipo": "Inicio",
       "contenido": "https://www.tvazteca.com/envivo2020/seccion/kidsiete",
       "firebasescreen": "inicio-kidsiete",
-      "tituloBotonMenu": "KidSiete"
+      "tituloBotonMenu": "KidSiete",
+      "imagen": "https://thumbs.dreamstime.com/b/λογότυπο-batman-101469483.jpg"
     },
     {
       "adunitid": "/29782907/Apps-Azteca/APP-Envivo-2020/Es-Mucho-Mas/Es-Mucho-Mas-Home",
@@ -141,82 +149,8 @@
       "tipo": "Inicio",
       "contenido": "https://www.tvazteca.com/envivo2020/seccion/deportes-esmuchomas",
       "firebasescreen": "es-mucho-mas-seccion",
-      "tituloBotonMenu": "Es mucho más"
-    },
-    {
-      "adunitid": "/29782907/Apps-Azteca/APP-Envivo-2020/Interactua",
-      "firebase_seccion": "Interactúa",
-      "adunitidios": "/29782907/Apps-Azteca/APP-Envivo-2020/Interactua",
-      "tituloselcolor": "#f8f809",
-      "titulo": "Interactúa",
-      "firebase_screen": "interactua-seccion",
-      "iconoMenu": "false",
-      "firebase_tipo": "Inicio",
-      "titulounselcolor": "#ffffff",
-      "tipo": "Inicio",
-      "contenido": "https://www.tvazteca.com/envivo2020/seccion/interactua",
-      "firebasescreen": "interactua-seccion",
-      "tituloBotonMenu": "Interactúa"
-    },
-     {
-      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/Series/Home",
-      "firebase_seccion": "Series Prueba",
-      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/Series/Home",
-      "tituloselcolor": "#f8f809",
-      "titulo": "Series",
-      "firebase_screen": "inicio-series",
-      "iconoMenu": "false",
-      "firebase_tipo": "Inicio",
-      "titulounselcolor": "#ffffff",
-      "tipo": "Inicio",
-      "contenido": "https://www.tvazteca.com/envivo2020/seccion/series",
-      "firebasescreen": "inicio-series",
-      "tituloBotonMenu": "Series"
-    },
-    {
-      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/Kidsiete/Home",
-      "firebase_seccion": "KidSiete Prueba",
-      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/Kidsiete/Home",
-      "tituloselcolor": "#f8f809",
-      "titulo": "KidSiete",
-      "firebase_screen": "inicio-kidsiete",
-      "iconoMenu": "false",
-      "firebase_tipo": "Inicio",
-      "titulounselcolor": "#ffffff",
-      "tipo": "Inicio",
-      "contenido": "https://www.tvazteca.com/envivo2020/seccion/kidsiete",
-      "firebasescreen": "inicio-kidsiete",
-      "tituloBotonMenu": "KidSiete"
-    },
-    {
-      "adunitid": "/29782907/Apps-Azteca/APP-Envivo-2020/Es-Mucho-Mas/Es-Mucho-Mas-Home",
-      "firebase_seccion": "Es mucho *",
-      "adunitidios": "/29782907/Apps-Azteca/APP-Envivo-2020/Es-Mucho-Mas/Es-Mucho-Mas-Home",
-      "tituloselcolor": "#f8f809",
-      "titulo": "Es mucho más",
-      "firebase_screen": "es-mucho-mas-seccion",
-      "iconoMenu": "false",
-      "firebase_tipo": "Inicio",
-      "titulounselcolor": "#ffffff",
-      "tipo": "Inicio",
-      "contenido": "https://www.tvazteca.com/envivo2020/seccion/deportes-esmuchomas",
-      "firebasescreen": "es-mucho-mas-seccion",
-      "tituloBotonMenu": "Es mucho más"
-    },
-    {
-      "adunitid": "/29782907/Apps-Azteca/APP-Envivo-2020/Interactua",
-      "firebase_seccion": "Interactúa",
-      "adunitidios": "/29782907/Apps-Azteca/APP-Envivo-2020/Interactua",
-      "tituloselcolor": "#f8f809",
-      "titulo": "Interactúa",
-      "firebase_screen": "interactua-seccion",
-      "iconoMenu": "false",
-      "firebase_tipo": "Inicio",
-      "titulounselcolor": "#ffffff",
-      "tipo": "Inicio",
-      "contenido": "https://www.tvazteca.com/envivo2020/seccion/interactua",
-      "firebasescreen": "interactua-seccion",
-      "tituloBotonMenu": "Interactúa"
+      "tituloBotonMenu": "Es mucho más",
+      "imagen": "https://thumbs.dreamstime.com/b/λογότυπο-batman-101469483.jpg"
     }
   ],
    "envivo": {
