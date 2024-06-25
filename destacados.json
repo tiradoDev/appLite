@@ -1,7 +1,6 @@
 {
   "datos": [
-    {
-      { 
+     { 
       "vast_enabled": false,
       "video_enabled": true,
       "videoAssetId": "609b243156cca108312822a6",
@@ -26,6 +25,7 @@
       "imagentv": "https://tvazteca.brightspotcdn.com/dims4/default/4e69099/2147483647/strip/true/crop/1920x1028+0+0/resize/1980x1060!/format/jpg/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fe4%2F38%2Fb10d76b848889c972b1265bcfb3e%2Fdiseno-sin-titulo.jpg",
       "icono": "https://tvazteca.brightspotcdn.com/dims4/default/793fde8/2147483647/strip/true/crop/512x512+0+0/resize/50x50!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fd8%2F00%2Fc641be3c473b85813a4cd3811078%2Flogo-azteca-uno-2023-live-switcher-color-rojo.png"
     },
+    {
       "items": [
         {
           "firebasescreen": "inicio-inicio-header-CARRUSELDESTACADOS-ELEKTRA-Playlist",
