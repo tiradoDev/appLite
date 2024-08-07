@@ -7,7 +7,8 @@
       "title": "¡LA ACADEMIA!",
       "imageButton": "https://raw.githubusercontent.com/tiradoDev/appLite/main/Botones-700x385_INTERACTUA.jpg",
       "enableRefresh": false,
-      "preguntas": true
+      "preguntas": true,
+      "subtitle": "Responde la pregunta para continuar interactuando"
     }
   ]
 }
