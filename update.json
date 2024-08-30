@@ -1,6 +1,6 @@
 {
   "android": {
-    "min_version": "4.2.11",
+    "min_version": "4.2.7",
     "imagen_fondo": "https://tiradodev.github.io/appLite/android.jpg",
     "url_actualizar": "https://play.google.com/store/apps/details?id=com.azteca.live&;amp;;amp;hl=es_MX&gl=US",
     "texto": "",
