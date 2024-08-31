@@ -251,7 +251,7 @@
           "vastRoku": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/tvazteca-roku/Roku-Envivo-ADN40/Roku-Envivo-ADN40-Preroll&description_url=https://www.roku.com/es-mx/&url=https://www.roku.com/es-mx/&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=xml_vmap1&sz=640x480&unviewed_position_start=1&ad_rule=1&pp=FormatosVideo"
         }
       ],
-      "EPG": "https://www.tvazteca.com/envivo2020/epg/all"
+      "EPG": "https://tiradodev.github.io/appLite/egg.json"
     },
     "EPG": {
       "firebase_screen": "En vivo",
