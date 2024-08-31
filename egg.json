@@ -1,63 +1,64 @@
 {
   "entry": [
     {
-      "firebasescreen": "Live-aztecauno-vengalaalegría",
+      "firebasescreen": "Live-laacademia-laacademia24/7",
       "firebase_tipo": "En vivo",
-      "private": "Venga La Alegría",
+      "private": "La Academia 24/7",
       "tipocontenido": "live",
-      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno",
-      "nombre_video": "aztecauno-vengalaalegría",
+      "adunitid": "/29782907/Apps-Azteca/APP-Envivo-2020/envivo/EnVivo-LaAcademia",
+      "nombre_video": "laacademia-laacademia24/7",
       "type": {
         "value": "program"
       },
-      "firebase_canal": "aztecauno",
+      "firebase_canal": "laacademia",
       "author": {
         "name": ""
       },
-      "summary": "Tu compañía cada mañana, de lunes a viernes a partir de las 8:55 a.m., por Azteca Uno. Toda la familia de VLA te espera. ¡En Venga la Alegría es tiempo de la diversión! ",
-      "firebase_programa": "vengalaalegría",
-      "programa": "vengalaalegría",
-      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno",
+      "summary": "No pierdas ningún detalle de La Academia 24/7, el mejor reality de canto con emocionantes clases. Todos los días disfruta la transmisión en vivo.",
+      "firebase_programa": "laacademia24/7",
+      "programa": "laacademia24/7",
+      "adunitidios": "/29782907/Apps-Azteca/APP-Envivo-2020/envivo/EnVivo-LaAcademia",
       "media_group": [
         {
           "meia_item": [
             {
               "key": "image_base",
               "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/a388cc3/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fd8%2F02%2F9225bfff4e4fbcaf24b047655695%2Fvla-vivo.jpg"
+              "src": "https://tvazteca.brightspotcdn.com/dims4/default/711cbef/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F79%2F53%2Fcfe0ac084699ba6454e56702d98f%2Ftrnsmision-web.jpg"
             }
           ],
           "type": "image"
         }
       ],
-      "firebase_screen": "Live-aztecauno-vengalaalegría",
+      "firebase_screen": "Live-laacademia-laacademia24/7",
       "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb14d20000",
+      "id": "00000191-aa52-dd7a-a799-bf5ea7f00000",
       "content": {
         "type": "video/hls",
-        "assetkey": "ZiyeO1LFRfG1k2-GZ5TgEg",
-        "videoAssetId": "609b243156cca108312822a6",
-        "src": "https://dai.google.com/linear/hls/event/ZiyeO1LFRfG1k2-GZ5TgEg/master.m3u8"
+        "assetkey": "63uk0HUfSamSohP10qpuZw",
+        "videoAssetId": "5ff4642f0c34b9420400e84f",
+        "src": "https://mdstrm.com/live-stream-playlist/5ff4642f0c34b9420400e84f.m3u8",
+        "activateGeoblocking": "true"
       },
       "firebase_videoaviso": "En vivo",
-      "video": "aztecauno-vengalaalegría",
+      "video": "laacademia-laacademia24/7",
       "extensions": {
-        "applicaster_channel_id": "1038",
-        "end_time": "2024-03-01T13:00:00-0600",
-        "start_time": "2024-03-01T08:55:00-0600",
+        "applicaster_channel_id": "10390",
+        "end_time": "2024-08-31T23:59:00-0600",
+        "start_time": "2024-08-31T00:00:00-0600",
         "islive": true
       },
-      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno&description_url=https://www.tvazteca.com/aztecauno/venga-la-alegria/envivo&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
+      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/APP-Envivo-2020/envivo/EnVivo-LaAcademia&description_url=https://www.tvazteca.com/aztecauno/la-academia-2024/24-7-en-vivo&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
       "islive": true,
-      "title": "Venga La Alegría"
+      "title": "La Academia 24/7"
     },
     {
-      "firebasescreen": "Live-aztecauno-ventaneando",
+      "firebasescreen": "Live-aztecauno-yosoybetty,lafea",
       "firebase_tipo": "En vivo",
-      "private": "Ventaneando",
+      "private": "Yo Soy Betty, La Fea",
       "tipocontenido": "live",
       "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno",
-      "nombre_video": "aztecauno-ventaneando",
+      "nombre_video": "aztecauno-yosoybetty,lafea",
       "type": {
         "value": "program"
       },
@@ -65,9 +66,9 @@
       "author": {
         "name": ""
       },
-      "summary": "Ventaneando es el programa líder en investigación periodística sobre el mundo del espectáculo. Noticias, entrevistas, exclusivas, con un gran equipo comandando por Pati Chapoy.",
-      "firebase_programa": "ventaneando",
-      "programa": "ventaneando",
+      "summary": "Disfruta las aventuras de la carismática Beatriz Pinzón, quien es muy inteligente, pero nada atractiva.",
+      "firebase_programa": "yosoybetty,lafea",
+      "programa": "yosoybetty,lafea",
       "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno",
       "media_group": [
         {
@@ -75,40 +76,40 @@
             {
               "key": "image_base",
               "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/059a437/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F39%2Fff%2F4c5e1acb443fb77a3f92a24ae1ce%2Fventaneando-28-anos-vivo.jpg"
+              "src": "https://tvazteca.brightspotcdn.com/dims4/default/cac045a/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F21%2Fc7%2Ff4f86a40470bb2efb6f4d576335d%2Fblf-envivo-sitio.jpg"
             }
           ],
           "type": "image"
         }
       ],
-      "firebase_screen": "Live-aztecauno-ventaneando",
+      "firebase_screen": "Live-aztecauno-yosoybetty,lafea",
       "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb14d40000",
+      "id": "00000191-aa52-dd7a-a799-bf5ea83e0000",
       "content": {
         "type": "video/hls",
         "assetkey": "ZiyeO1LFRfG1k2-GZ5TgEg",
         "videoAssetId": "609b243156cca108312822a6",
-        "src": "https://dai.google.com/linear/hls/event/ZiyeO1LFRfG1k2-GZ5TgEg/master.m3u8"
+        "src": "https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8"
       },
       "firebase_videoaviso": "En vivo",
-      "video": "aztecauno-ventaneando",
+      "video": "aztecauno-yosoybetty,lafea",
       "extensions": {
         "applicaster_channel_id": "1038",
-        "end_time": "2024-03-01T14:00:00-0600",
-        "start_time": "2024-03-01T13:00:00-0600",
-        "islive": false
+        "end_time": "2024-08-31T18:00:00-0600",
+        "start_time": "2024-08-31T15:00:00-0600",
+        "islive": true
       },
-      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
+      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno&description_url=https://www.tvazteca.com/aztecauno/yo-soy-betty-la-fea/envivo&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
       "islive": true,
-      "title": "Ventaneando"
+      "title": "Yo Soy Betty, La Fea"
     },
     {
-      "firebasescreen": "Live-aztecauno-hechosmeridiano",
+      "firebasescreen": "Live-aztecauno-loquecallamoslasmujeres",
       "firebase_tipo": "En vivo",
-      "private": "Hechos Meridiano ",
+      "private": "Lo que callamos las mujeres",
       "tipocontenido": "live",
       "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno",
-      "nombre_video": "aztecauno-hechosmeridiano",
+      "nombre_video": "aztecauno-loquecallamoslasmujeres",
       "type": {
         "value": "program"
       },
@@ -116,9 +117,9 @@
       "author": {
         "name": ""
       },
-      "summary": "Ve nuestros noticieros de Hechos por Azteca Noticias",
-      "firebase_programa": "hechosmeridiano",
-      "programa": "hechosmeridiano",
+      "summary": "Lo Que Callamos Las Mujeres está basada en historias reales con problemas cotidianos que sufren las mujeres.",
+      "firebase_programa": "loquecallamoslasmujeres",
+      "programa": "loquecallamoslasmujeres",
       "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno",
       "media_group": [
         {
@@ -126,142 +127,40 @@
             {
               "key": "image_base",
               "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/703b95b/2147483647/strip/true/crop/1600x900+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fd9%2Fb5%2Fb028c8e14b93b4ca364c874e91af%2Fhechos-meridiano.jpeg"
+              "src": "https://tvazteca.brightspotcdn.com/dims4/default/708d2ba/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fd8%2F36%2F7a833f3b42d8a5f150a36b2f6103%2Flo-que-callamos-las-mujeres.jpg"
             }
           ],
           "type": "image"
         }
       ],
-      "firebase_screen": "Live-aztecauno-hechosmeridiano",
+      "firebase_screen": "Live-aztecauno-loquecallamoslasmujeres",
       "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb14d40002",
-      "content": {
-        "type": "video/hls",
-        "assetkey": "ZyR7aLo4Rom-9KzwcLCoNg",
-        "videoAssetId": "5ff462cc0c34b9420400e834",
-        "src": "https://dai.google.com/linear/hls/event/ZyR7aLo4Rom-9KzwcLCoNg/master.m3u8"
-      },
-      "firebase_videoaviso": "En vivo",
-      "video": "aztecauno-hechosmeridiano",
-      "extensions": {
-        "applicaster_channel_id": "1038",
-        "end_time": "2024-03-01T15:00:00-0600",
-        "start_time": "2024-03-01T14:00:00-0600",
-        "islive": false
-      },
-      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
-      "islive": true,
-      "title": "Hechos Meridiano "
-    },
-    {
-      "firebasescreen": "Live-aztecauno-laruedadelasuerte",
-      "firebase_tipo": "En vivo",
-      "private": "La Rueda de la Suerte",
-      "tipocontenido": "live",
-      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno",
-      "nombre_video": "aztecauno-laruedadelasuerte",
-      "type": {
-        "value": "program"
-      },
-      "firebase_canal": "aztecauno",
-      "author": {
-        "name": ""
-      },
-      "summary": "La Rueda de la Suerte llega a la pantalla de Azteca UNO, conducido por Rafa Mercadante quien, acompañado de la carismática Curvy Zelma, te harán gozar la más divertida competencia para ganar miles de pesos descubriendo las frases ocultas.",
-      "firebase_programa": "laruedadelasuerte",
-      "programa": "laruedadelasuerte",
-      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno",
-      "media_group": [
-        {
-          "meia_item": [
-            {
-              "key": "image_base",
-              "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/e145746/2147483647/strip/true/crop/1000x563+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F4a%2F56%2F472a0e9c4929ab387bea3f0f6ab3%2Fla-rueda-de-la-suerte-boton-en-vivo-2024.jpeg"
-            }
-          ],
-          "type": "image"
-        }
-      ],
-      "firebase_screen": "Live-aztecauno-laruedadelasuerte",
-      "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb14d40003",
+      "id": "00000191-aa52-dd7a-a799-bf5ea8400000",
       "content": {
         "type": "video/hls",
         "assetkey": "ZiyeO1LFRfG1k2-GZ5TgEg",
         "videoAssetId": "609b243156cca108312822a6",
-        "src": "https://dai.google.com/linear/hls/event/ZiyeO1LFRfG1k2-GZ5TgEg/master.m3u8"
+        "src": "https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8"
       },
       "firebase_videoaviso": "En vivo",
-      "video": "aztecauno-laruedadelasuerte",
+      "video": "aztecauno-loquecallamoslasmujeres",
       "extensions": {
         "applicaster_channel_id": "1038",
-        "end_time": "2024-03-01T16:00:00-0600",
-        "start_time": "2024-03-01T15:00:00-0600",
+        "end_time": "2024-08-31T20:00:00-0600",
+        "start_time": "2024-08-31T18:00:00-0600",
         "islive": false
       },
       "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
       "islive": true,
-      "title": "La Rueda de la Suerte"
+      "title": "Lo que callamos las mujeres"
     },
     {
-      "firebasescreen": "Live-aztecauno-alextremo",
+      "firebasescreen": "Live-aztecauno-acércatearocíoallímite",
       "firebase_tipo": "En vivo",
-      "private": "Al Extremo",
+      "private": "Acércate a Rocío Al Límite",
       "tipocontenido": "live",
       "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno",
-      "nombre_video": "aztecauno-alextremo",
-      "type": {
-        "value": "program"
-      },
-      "firebase_canal": "aztecauno",
-      "author": {
-        "name": ""
-      },
-      "summary": "Es un programa informativo que muestra noticias sorprendentes e impactantes alrededor del mundo, además de especialistas y reportajes que te dejarán con la boca abierta.",
-      "firebase_programa": "alextremo",
-      "programa": "alextremo",
-      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno",
-      "media_group": [
-        {
-          "meia_item": [
-            {
-              "key": "image_base",
-              "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/143d748/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Feb%2Ff1%2F6d07377a4e88b95bea8275334d24%2Fen-vivo-al-extremo.jpg"
-            }
-          ],
-          "type": "image"
-        }
-      ],
-      "firebase_screen": "Live-aztecauno-alextremo",
-      "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb14d40004",
-      "content": {
-        "type": "video/hls",
-        "assetkey": "ZiyeO1LFRfG1k2-GZ5TgEg",
-        "videoAssetId": "609b243156cca108312822a6",
-        "src": "https://dai.google.com/linear/hls/event/ZiyeO1LFRfG1k2-GZ5TgEg/master.m3u8"
-      },
-      "firebase_videoaviso": "En vivo",
-      "video": "aztecauno-alextremo",
-      "extensions": {
-        "applicaster_channel_id": "1038",
-        "end_time": "2024-03-01T17:30:00-0600",
-        "start_time": "2024-03-01T16:00:00-0600",
-        "islive": false
-      },
-      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
-      "islive": true,
-      "title": "Al Extremo"
-    },
-    {
-      "firebasescreen": "Live-aztecauno-acércatearocío",
-      "firebase_tipo": "En vivo",
-      "private": "Acércate a Rocío",
-      "tipocontenido": "live",
-      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno",
-      "nombre_video": "aztecauno-acércatearocío",
+      "nombre_video": "aztecauno-acércatearocíoallímite",
       "type": {
         "value": "program"
       },
@@ -270,8 +169,8 @@
         "name": ""
       },
       "summary": "Revive los casos y las historias más impactantes de la televisión en compañía de Rocío Sánchez Azuara y su nuevo programa Acércate a Rocío. Solo por Azteca UNO.",
-      "firebase_programa": "acércatearocío",
-      "programa": "acércatearocío",
+      "firebase_programa": "acércatearocíoallímite",
+      "programa": "acércatearocíoallímite",
       "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno",
       "media_group": [
         {
@@ -279,40 +178,40 @@
             {
               "key": "image_base",
               "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/85ddf20/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fe1%2F73%2Ffb05f9184af3a0a399c2789df2a4%2Fvivo-acercate-a-rocio-agosto-2023.jpg"
+              "src": "https://tvazteca.brightspotcdn.com/dims4/default/ffce5a1/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fe4%2Fe9%2Fed4316474949973059fd17ee19bb%2Frocio-al-limite-vivo-2024.jpg"
             }
           ],
           "type": "image"
         }
       ],
-      "firebase_screen": "Live-aztecauno-acércatearocío",
+      "firebase_screen": "Live-aztecauno-acércatearocíoallímite",
       "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb14d40005",
+      "id": "00000191-aa52-dd7a-a799-bf5ea8400001",
       "content": {
         "type": "video/hls",
         "assetkey": "ZiyeO1LFRfG1k2-GZ5TgEg",
         "videoAssetId": "609b243156cca108312822a6",
-        "src": "https://dai.google.com/linear/hls/event/ZiyeO1LFRfG1k2-GZ5TgEg/master.m3u8"
+        "src": "https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8"
       },
       "firebase_videoaviso": "En vivo",
-      "video": "aztecauno-acércatearocío",
+      "video": "aztecauno-acércatearocíoallímite",
       "extensions": {
         "applicaster_channel_id": "1038",
-        "end_time": "2024-03-01T19:30:00-0600",
-        "start_time": "2024-03-01T17:30:00-0600",
+        "end_time": "2024-08-31T23:00:00-0600",
+        "start_time": "2024-08-31T21:00:00-0600",
         "islive": false
       },
       "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
       "islive": true,
-      "title": "Acércate a Rocío"
+      "title": "Acércate a Rocío Al Límite"
     },
     {
-      "firebasescreen": "Live-aztecauno-caféconaromademujer",
+      "firebasescreen": "Live-aztecauno-loquelagentecuenta",
       "firebase_tipo": "En vivo",
-      "private": "Café con Aroma de Mujer",
+      "private": "Lo Que La Gente Cuenta",
       "tipocontenido": "live",
       "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno",
-      "nombre_video": "aztecauno-caféconaromademujer",
+      "nombre_video": "aztecauno-loquelagentecuenta",
       "type": {
         "value": "program"
       },
@@ -320,9 +219,9 @@
       "author": {
         "name": ""
       },
-      "summary": "En \"Café con aroma de mujer\" Gaviota y su mamá llegan a la Hacienda Casablanca a recolectar café de la cosecha, pero tienen esperanza de que sea la última.",
-      "firebase_programa": "caféconaromademujer",
-      "programa": "caféconaromademujer",
+      "summary": "Las noticias de los famosos del espectáculo las podrás disfrutar en Azteca Uno. No te pierdas de los chismes, reportajes, coberturas especiales de las mejores premiaciones y mucho más.",
+      "firebase_programa": "loquelagentecuenta",
+      "programa": "loquelagentecuenta",
       "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno",
       "media_group": [
         {
@@ -330,185 +229,32 @@
             {
               "key": "image_base",
               "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/f1820e9/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F24%2F31%2F578fd1d74d0cb306f72dd4603f56%2Fcafe-con-aroma-de-mujer-vivo-2024.jpg"
+              "src": "https://tvazteca.brightspotcdn.com/dims4/default/7ac7ce7/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Ff8%2Fff%2F840ab15742c086e8b0d68aeef18d%2Flo-que-la-gente-cuenta-a7-1.jpg"
             }
           ],
           "type": "image"
         }
       ],
-      "firebase_screen": "Live-aztecauno-caféconaromademujer",
+      "firebase_screen": "Live-aztecauno-loquelagentecuenta",
       "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb14d40006",
+      "id": "00000191-aa52-dd7a-a799-bf5ea8400002",
       "content": {
         "type": "video/hls",
         "assetkey": "ZiyeO1LFRfG1k2-GZ5TgEg",
         "videoAssetId": "609b243156cca108312822a6",
-        "src": "https://dai.google.com/linear/hls/event/ZiyeO1LFRfG1k2-GZ5TgEg/master.m3u8"
+        "src": "https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8"
       },
       "firebase_videoaviso": "En vivo",
-      "video": "aztecauno-caféconaromademujer",
+      "video": "aztecauno-loquelagentecuenta",
       "extensions": {
         "applicaster_channel_id": "1038",
-        "end_time": "2024-03-01T20:30:00-0600",
-        "start_time": "2024-03-01T19:30:00-0600",
+        "end_time": "2024-09-01T00:00:00-0600",
+        "start_time": "2024-08-31T23:00:00-0600",
         "islive": false
       },
       "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
       "islive": true,
-      "title": "Café con Aroma de Mujer"
-    },
-    {
-      "firebasescreen": "Live-aztecauno-exatlónméxico",
-      "firebase_tipo": "En vivo",
-      "private": "Exatlón México",
-      "tipocontenido": "live",
-      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno",
-      "nombre_video": "aztecauno-exatlónméxico",
-      "type": {
-        "value": "program"
-      },
-      "firebase_canal": "aztecauno",
-      "author": {
-        "name": ""
-      },
-      "summary": "Página oficial Exatlón México. Disfruta de batallas, capítulos, galerías, eliminados y todo el contenido exclusivo fuera de la pantalla de Azteca UNO.",
-      "firebase_programa": "exatlónméxico",
-      "programa": "exatlónméxico",
-      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno",
-      "media_group": [
-        {
-          "meia_item": [
-            {
-              "key": "image_base",
-              "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/32de26b/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fbf%2Fd7%2F4a71e90c4841a24c8870110fdac1%2Fvivo-exatlon-nov-2023.jpg"
-            }
-          ],
-          "type": "image"
-        }
-      ],
-      "firebase_screen": "Live-aztecauno-exatlónméxico",
-      "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb14d40007",
-      "content": {
-        "type": "video/hls",
-        "assetkey": "ZiyeO1LFRfG1k2-GZ5TgEg",
-        "videoAssetId": "609b243156cca108312822a6",
-        "src": "https://dai.google.com/linear/hls/event/ZiyeO1LFRfG1k2-GZ5TgEg/master.m3u8"
-      },
-      "firebase_videoaviso": "En vivo",
-      "video": "aztecauno-exatlónméxico",
-      "extensions": {
-        "applicaster_channel_id": "1038",
-        "end_time": "2024-03-01T22:30:00-0600",
-        "start_time": "2024-03-01T20:30:00-0600",
-        "islive": false
-      },
-      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
-      "islive": true,
-      "title": "Exatlón México"
-    },
-    {
-      "firebasescreen": "Live-aztecauno-hechosconjavieralatorre",
-      "firebase_tipo": "En vivo",
-      "private": "Hechos con Javier Alatorre",
-      "tipocontenido": "live",
-      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno",
-      "nombre_video": "aztecauno-hechosconjavieralatorre",
-      "type": {
-        "value": "program"
-      },
-      "firebase_canal": "aztecauno",
-      "author": {
-        "name": ""
-      },
-      "summary": "Ve nuestros noticieros de Hechos por Azteca Noticias",
-      "firebase_programa": "hechosconjavieralatorre",
-      "programa": "hechosconjavieralatorre",
-      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno",
-      "media_group": [
-        {
-          "meia_item": [
-            {
-              "key": "image_base",
-              "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/9feda3a/2147483647/strip/true/crop/1600x900+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fcc%2F4b%2Fbd58f69e4601823b2b29736f4c85%2Fhechos-noche.jpeg"
-            }
-          ],
-          "type": "image"
-        }
-      ],
-      "firebase_screen": "Live-aztecauno-hechosconjavieralatorre",
-      "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb14d40008",
-      "content": {
-        "type": "video/hls",
-        "assetkey": "ZyR7aLo4Rom-9KzwcLCoNg",
-        "videoAssetId": "5ff462cc0c34b9420400e834",
-        "src": "https://dai.google.com/linear/hls/event/ZyR7aLo4Rom-9KzwcLCoNg/master.m3u8"
-      },
-      "firebase_videoaviso": "En vivo",
-      "video": "aztecauno-hechosconjavieralatorre",
-      "extensions": {
-        "applicaster_channel_id": "1038",
-        "end_time": "2024-03-01T23:30:00-0600",
-        "start_time": "2024-03-01T22:30:00-0600",
-        "islive": false
-      },
-      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
-      "islive": true,
-      "title": "Hechos con Javier Alatorre"
-    },
-    {
-      "firebasescreen": "Live-aztecauno-losprotagonistas",
-      "firebase_tipo": "En vivo",
-      "private": "Los Protagonistas",
-      "tipocontenido": "live",
-      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno",
-      "nombre_video": "aztecauno-losprotagonistas",
-      "type": {
-        "value": "program"
-      },
-      "firebase_canal": "aztecauno",
-      "author": {
-        "name": ""
-      },
-      "summary": "Programa Los Protagonistas EN VIVO: Fechas, horarios y dónde ver por TV Azteca Deportes",
-      "firebase_programa": "losprotagonistas",
-      "programa": "losprotagonistas",
-      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno",
-      "media_group": [
-        {
-          "meia_item": [
-            {
-              "key": "image_base",
-              "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/ec1ad8c/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fad%2F27%2F064666d5469f97a5a4985755c85c%2Flos-protagonistas-2023.jpg"
-            }
-          ],
-          "type": "image"
-        }
-      ],
-      "firebase_screen": "Live-aztecauno-losprotagonistas",
-      "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb14d50000",
-      "content": {
-        "type": "video/hls",
-        "assetkey": "2fbVlME-Q9qJ_5TdUYsW2A",
-        "videoAssetId": "60b583c422d12d082af95538",
-        "src": "https://dai.google.com/linear/hls/event/2fbVlME-Q9qJ_5TdUYsW2A/master.m3u8"
-      },
-      "firebase_videoaviso": "En vivo",
-      "video": "aztecauno-losprotagonistas",
-      "extensions": {
-        "applicaster_channel_id": "1038",
-        "end_time": "2024-03-02T00:20:00-0600",
-        "start_time": "2024-03-01T23:32:00-0600",
-        "islive": false
-      },
-      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
-      "islive": true,
-      "title": "Los Protagonistas"
+      "title": "Lo Que La Gente Cuenta"
     },
     {
       "firebasescreen": "Live-aztecauno-cinealamexicana",
@@ -542,19 +288,19 @@
       ],
       "firebase_screen": "Live-aztecauno-cinealamexicana",
       "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb14d50001",
+      "id": "00000191-aa52-dd7a-a799-bf5ea8400003",
       "content": {
         "type": "video/hls",
         "assetkey": "ZiyeO1LFRfG1k2-GZ5TgEg",
         "videoAssetId": "609b243156cca108312822a6",
-        "src": "https://dai.google.com/linear/hls/event/ZiyeO1LFRfG1k2-GZ5TgEg/master.m3u8"
+        "src": "https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8"
       },
       "firebase_videoaviso": "En vivo",
       "video": "aztecauno-cinealamexicana",
       "extensions": {
         "applicaster_channel_id": "1038",
-        "end_time": "2024-03-02T08:00:00-0600",
-        "start_time": "2024-03-02T06:00:00-0600",
+        "end_time": "2024-09-01T08:00:00-0600",
+        "start_time": "2024-09-01T06:00:00-0600",
         "islive": false
       },
       "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
@@ -562,12 +308,12 @@
       "title": "Cine a la Mexicana"
     },
     {
-      "firebasescreen": "Live-aztecauno-hechossábado",
+      "firebasescreen": "Live-aztecauno-hechosdomingo",
       "firebase_tipo": "En vivo",
-      "private": "Hechos Sábado",
+      "private": "Hechos Domingo",
       "tipocontenido": "live",
       "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno",
-      "nombre_video": "aztecauno-hechossábado",
+      "nombre_video": "aztecauno-hechosdomingo",
       "type": {
         "value": "program"
       },
@@ -576,8 +322,8 @@
         "name": ""
       },
       "summary": "Ve nuestros noticieros de Hechos por Azteca Noticias",
-      "firebase_programa": "hechossábado",
-      "programa": "hechossábado",
+      "firebase_programa": "hechosdomingo",
+      "programa": "hechosdomingo",
       "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno",
       "media_group": [
         {
@@ -585,15 +331,15 @@
             {
               "key": "image_base",
               "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/f62ae4a/2147483647/strip/true/crop/1600x900+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Ff5%2Fd8%2Fdb65d7e14a5f97d75717492dd16e%2Fhechos-sabado.jpeg"
+              "src": "https://tvazteca.brightspotcdn.com/dims4/default/e5c3df2/2147483647/strip/true/crop/1600x900+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F0b%2F94%2Faecd227f47a6a2159d3eb68b27f1%2Fhechos-domingo-noviembre-2023.jpeg"
             }
           ],
           "type": "image"
         }
       ],
-      "firebase_screen": "Live-aztecauno-hechossábado",
+      "firebase_screen": "Live-aztecauno-hechosdomingo",
       "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb14d50002",
+      "id": "00000191-aa52-dd7a-a799-bf5ea8400004",
       "content": {
         "type": "video/hls",
         "assetkey": "ZyR7aLo4Rom-9KzwcLCoNg",
@@ -601,126 +347,75 @@
         "src": "https://dai.google.com/linear/hls/event/ZyR7aLo4Rom-9KzwcLCoNg/master.m3u8"
       },
       "firebase_videoaviso": "En vivo",
-      "video": "aztecauno-hechossábado",
+      "video": "aztecauno-hechosdomingo",
       "extensions": {
         "applicaster_channel_id": "1038",
-        "end_time": "2024-03-02T09:00:00-0600",
-        "start_time": "2024-03-02T08:00:00-0600",
+        "end_time": "2024-09-01T09:00:00-0600",
+        "start_time": "2024-09-01T08:00:00-0600",
         "islive": false
       },
       "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
       "islive": true,
-      "title": "Hechos Sábado"
+      "title": "Hechos Domingo"
     },
     {
-      "firebasescreen": "Live-azteca7-elincreíblemundodegumball",
+      "firebasescreen": "Live-aztecauno-vengalaalegría",
       "firebase_tipo": "En vivo",
-      "private": "El increíble mundo de Gumball",
+      "private": "Venga La Alegría",
       "tipocontenido": "live",
-      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-7",
-      "nombre_video": "azteca7-elincreíblemundodegumball",
+      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno",
+      "nombre_video": "aztecauno-vengalaalegría",
       "type": {
         "value": "program"
       },
-      "firebase_canal": "azteca7",
+      "firebase_canal": "aztecauno",
       "author": {
         "name": ""
       },
-      "summary": "¡Disfruta de los personajes más divertidos por Kids 7! El canal correcto también tiene barra para los más pequeños, no te pierdas mi programación diaria.",
-      "firebase_programa": "elincreíblemundodegumball",
-      "programa": "elincreíblemundodegumball",
-      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-7",
+      "summary": "Tu compañía cada mañana, de lunes a viernes a partir de las 8:55 a.m., por Azteca Uno. Toda la familia de VLA te espera. ¡En Venga la Alegría es tiempo de la diversión! ",
+      "firebase_programa": "vengalaalegría",
+      "programa": "vengalaalegría",
+      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno",
       "media_group": [
         {
           "meia_item": [
             {
               "key": "image_base",
               "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/dee70ad/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F01%2F30%2F232c4c3c44af8fcf0d0b64a5452d%2Fel-increible-mundo-de-gumball.jpg"
+              "src": "https://tvazteca.brightspotcdn.com/dims4/default/935ee4f/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F89%2F30%2F6580a59f494cbdc5a16b6239c5c5%2F5001265721866562784.jpg"
             }
           ],
           "type": "image"
         }
       ],
-      "firebase_screen": "Live-azteca7-elincreíblemundodegumball",
+      "firebase_screen": "Live-aztecauno-vengalaalegría",
       "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb14f90000",
+      "id": "00000191-aa52-dd7a-a799-bf5ea8410000",
       "content": {
         "type": "video/hls",
-        "assetkey": "YHoOj51dSKCvBQOBG2OvLQ",
-        "videoAssetId": "609ad46a7a441137107d7a81",
-        "src": "https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8"
+        "assetkey": "ZiyeO1LFRfG1k2-GZ5TgEg",
+        "videoAssetId": "609b243156cca108312822a6",
+        "src": "https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8"
       },
       "firebase_videoaviso": "En vivo",
-      "video": "azteca7-elincreíblemundodegumball",
+      "video": "aztecauno-vengalaalegría",
       "extensions": {
-        "applicaster_channel_id": "1037",
-        "end_time": "2024-03-01T13:00:00-0600",
-        "start_time": "2024-03-01T12:00:00-0600",
-        "islive": true
-      },
-      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-7&description_url=https://www.tvazteca.com/azteca7/kidsiete/envivo&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
-      "islive": true,
-      "title": "El increíble mundo de Gumball"
-    },
-    {
-      "firebasescreen": "Live-azteca7-mobilesuitgundam:labrujademercurio",
-      "firebase_tipo": "En vivo",
-      "private": "Mobile Suit Gundam: La Bruja de Mercurio ",
-      "tipocontenido": "live",
-      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-7",
-      "nombre_video": "azteca7-mobilesuitgundam:labrujademercurio",
-      "type": {
-        "value": "program"
-      },
-      "firebase_canal": "azteca7",
-      "author": {
-        "name": ""
-      },
-      "summary": "Sigue las mejores notas, galerías y mucho más contenido sobre las series que forman parte de nuestra programación en Azteca 7.",
-      "firebase_programa": "mobilesuitgundam:labrujademercurio",
-      "programa": "mobilesuitgundam:labrujademercurio",
-      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-7",
-      "media_group": [
-        {
-          "meia_item": [
-            {
-              "key": "image_base",
-              "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/794699b/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F72%2F77%2F935288b24e7da50968be1d8ea68b%2Fmobile-suit-gundam-la-bruja-de-mercurio.jpg"
-            }
-          ],
-          "type": "image"
-        }
-      ],
-      "firebase_screen": "Live-azteca7-mobilesuitgundam:labrujademercurio",
-      "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb14fa0000",
-      "content": {
-        "type": "video/hls",
-        "assetkey": "YHoOj51dSKCvBQOBG2OvLQ",
-        "videoAssetId": "609ad46a7a441137107d7a81",
-        "src": "https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8"
-      },
-      "firebase_videoaviso": "En vivo",
-      "video": "azteca7-mobilesuitgundam:labrujademercurio",
-      "extensions": {
-        "applicaster_channel_id": "1037",
-        "end_time": "2024-03-01T16:00:00-0600",
-        "start_time": "2024-03-01T14:30:00-0600",
+        "applicaster_channel_id": "1038",
+        "end_time": "2024-09-01T13:15:00-0600",
+        "start_time": "2024-09-01T09:00:00-0600",
         "islive": false
       },
-      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-7&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
+      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
       "islive": true,
-      "title": "Mobile Suit Gundam: La Bruja de Mercurio "
+      "title": "Venga La Alegría"
     },
     {
-      "firebasescreen": "Live-azteca7-contracara",
+      "firebasescreen": "Live-azteca7-elataquedelasarañas",
       "firebase_tipo": "En vivo",
-      "private": "Contracara",
+      "private": "El Ataque de las Arañas",
       "tipocontenido": "live",
       "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-7",
-      "nombre_video": "azteca7-contracara",
+      "nombre_video": "azteca7-elataquedelasarañas",
       "type": {
         "value": "program"
       },
@@ -729,8 +424,8 @@
         "name": ""
       },
       "summary": "Disfruta de las mejores películas de todos los tiempos por Azteca 7.",
-      "firebase_programa": "contracara",
-      "programa": "contracara",
+      "firebase_programa": "elataquedelasarañas",
+      "programa": "elataquedelasarañas",
       "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-7",
       "media_group": [
         {
@@ -738,15 +433,15 @@
             {
               "key": "image_base",
               "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/da43ccc/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fad%2F8d%2F484c9c88401aa73ce346cbf0c8e2%2Fcontracara.jpg"
+              "src": "https://tvazteca.brightspotcdn.com/dims4/default/43472e2/2147483647/strip/true/crop/1399x787+1+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F03%2Fd1%2F9c37e76f48d68d3f7e8a491264a2%2Fel-ataque-de-las-aranas-a7.jpg"
             }
           ],
           "type": "image"
         }
       ],
-      "firebase_screen": "Live-azteca7-contracara",
+      "firebase_screen": "Live-azteca7-elataquedelasarañas",
       "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb14fa0001",
+      "id": "00000191-aa52-dd7a-a799-bf5ea8580000",
       "content": {
         "type": "video/hls",
         "assetkey": "YHoOj51dSKCvBQOBG2OvLQ",
@@ -754,24 +449,24 @@
         "src": "https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8"
       },
       "firebase_videoaviso": "En vivo",
-      "video": "azteca7-contracara",
+      "video": "azteca7-elataquedelasarañas",
       "extensions": {
         "applicaster_channel_id": "1037",
-        "end_time": "2024-03-01T19:00:00-0600",
-        "start_time": "2024-03-01T16:00:00-0600",
-        "islive": false
+        "end_time": "2024-08-31T16:45:00-0600",
+        "start_time": "2024-08-31T14:30:00-0600",
+        "islive": true
       },
-      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-7&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
+      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-7&description_url=https://www.tvazteca.com/azteca7/peliculas/envivo&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
       "islive": true,
-      "title": "Contracara"
+      "title": "El Ataque de las Arañas"
     },
     {
-      "firebasescreen": "Live-azteca7-querétarovssantos",
+      "firebasescreen": "Live-azteca7-sobrenatural",
       "firebase_tipo": "En vivo",
-      "private": "Querétaro vs Santos",
+      "private": "Sobrenatural",
       "tipocontenido": "live",
       "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-7",
-      "nombre_video": "azteca7-querétarovssantos",
+      "nombre_video": "azteca7-sobrenatural",
       "type": {
         "value": "program"
       },
@@ -779,9 +474,9 @@
       "author": {
         "name": ""
       },
-      "summary": "Todas las noticias de la Liga MX, tabla de posiciones, resultados y partidos en vivo hoy por TV Azteca Deportes. Torneo Clausura 2024 del futbol mexicano",
-      "firebase_programa": "querétarovssantos",
-      "programa": "querétarovssantos",
+      "summary": "Disfruta de las mejores películas de todos los tiempos por Azteca 7.",
+      "firebase_programa": "sobrenatural",
+      "programa": "sobrenatural",
       "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-7",
       "media_group": [
         {
@@ -789,117 +484,15 @@
             {
               "key": "image_base",
               "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/ef76ff7/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fab%2Fda%2Fa6c4d9824040bb3ddde13638a303%2Fquevssant.jpg"
+              "src": "https://tvazteca.brightspotcdn.com/dims4/default/41993e6/2147483647/strip/true/crop/745x419+0+5/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F70%2F3e%2Fcac474a541e2846e244e781d9436%2Fsobrenatural-a7.jpg"
             }
           ],
           "type": "image"
         }
       ],
-      "firebase_screen": "Live-azteca7-querétarovssantos",
+      "firebase_screen": "Live-azteca7-sobrenatural",
       "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb14fa0002",
-      "content": {
-        "type": "video/hls",
-        "assetkey": "Df3gDsEJTGGYjpHFt_KJPg",
-        "videoAssetId": "5ff464aaf89edc69bfe55de9",
-        "src": "https://dai.google.com/linear/hls/event/1FnFvMQHTl6h-RT9cSU2tg/master.m3u8"
-      },
-      "firebase_videoaviso": "En vivo",
-      "video": "azteca7-querétarovssantos",
-      "extensions": {
-        "applicaster_channel_id": "1037",
-        "end_time": "2024-03-01T21:00:00-0600",
-        "start_time": "2024-03-01T18:55:00-0600",
-        "islive": false
-      },
-      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-7&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
-      "islive": true,
-      "title": "Querétaro vs Santos"
-    },
-    {
-      "firebasescreen": "Live-azteca7-mazatlánvsnecaxa",
-      "firebase_tipo": "En vivo",
-      "private": "Mazatlán vs Necaxa ",
-      "tipocontenido": "live",
-      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-7",
-      "nombre_video": "azteca7-mazatlánvsnecaxa",
-      "type": {
-        "value": "program"
-      },
-      "firebase_canal": "azteca7",
-      "author": {
-        "name": ""
-      },
-      "summary": "Todas las noticias de la Liga MX, tabla de posiciones, resultados y partidos en vivo hoy por TV Azteca Deportes. Torneo Clausura 2024 del futbol mexicano",
-      "firebase_programa": "mazatlánvsnecaxa",
-      "programa": "mazatlánvsnecaxa",
-      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-7",
-      "media_group": [
-        {
-          "meia_item": [
-            {
-              "key": "image_base",
-              "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/c1361d4/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F33%2Fef%2F812d537b44d7b98ee4686a10c4ca%2Fmazvsnec.jpg"
-            }
-          ],
-          "type": "image"
-        }
-      ],
-      "firebase_screen": "Live-azteca7-mazatlánvsnecaxa",
-      "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb14fb0000",
-      "content": {
-        "type": "video/hls",
-        "assetkey": "Df3gDsEJTGGYjpHFt_KJPg",
-        "videoAssetId": "5ff464aaf89edc69bfe55de9",
-        "src": "https://dai.google.com/linear/hls/event/1FnFvMQHTl6h-RT9cSU2tg/master.m3u8"
-      },
-      "firebase_videoaviso": "En vivo",
-      "video": "azteca7-mazatlánvsnecaxa",
-      "extensions": {
-        "applicaster_channel_id": "1037",
-        "end_time": "2024-03-01T23:00:00-0600",
-        "start_time": "2024-03-01T21:00:00-0600",
-        "islive": false
-      },
-      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-7&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
-      "islive": true,
-      "title": "Mazatlán vs Necaxa "
-    },
-    {
-      "firebasescreen": "Live-azteca7-macgyver",
-      "firebase_tipo": "En vivo",
-      "private": "MacGyver",
-      "tipocontenido": "live",
-      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-7",
-      "nombre_video": "azteca7-macgyver",
-      "type": {
-        "value": "program"
-      },
-      "firebase_canal": "azteca7",
-      "author": {
-        "name": ""
-      },
-      "summary": "Sigue las mejores notas, galerías y mucho más contenido sobre las series que forman parte de nuestra programación en Azteca 7.",
-      "firebase_programa": "macgyver",
-      "programa": "macgyver",
-      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-7",
-      "media_group": [
-        {
-          "meia_item": [
-            {
-              "key": "image_base",
-              "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/f8534a9/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fae%2F29%2F293cab254f3fa1945ce57a157418%2Fmacgyver.jpg"
-            }
-          ],
-          "type": "image"
-        }
-      ],
-      "firebase_screen": "Live-azteca7-macgyver",
-      "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb14fb0001",
+      "id": "00000191-aa52-dd7a-a799-bf5ea85a0000",
       "content": {
         "type": "video/hls",
         "assetkey": "YHoOj51dSKCvBQOBG2OvLQ",
@@ -907,24 +500,126 @@
         "src": "https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8"
       },
       "firebase_videoaviso": "En vivo",
-      "video": "azteca7-macgyver",
+      "video": "azteca7-sobrenatural",
       "extensions": {
         "applicaster_channel_id": "1037",
-        "end_time": "2024-03-01T23:59:00-0600",
-        "start_time": "2024-03-01T23:00:00-0600",
+        "end_time": "2024-08-31T19:15:00-0600",
+        "start_time": "2024-08-31T16:45:00-0600",
         "islive": false
       },
       "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-7&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
       "islive": true,
-      "title": "MacGyver"
+      "title": "Sobrenatural"
     },
     {
-      "firebasescreen": "Live-azteca7-bernard",
+      "firebasescreen": "Live-azteca7-destinofinal4",
       "firebase_tipo": "En vivo",
-      "private": "Bernard ",
+      "private": "Destino Final 4",
       "tipocontenido": "live",
       "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-7",
-      "nombre_video": "azteca7-bernard",
+      "nombre_video": "azteca7-destinofinal4",
+      "type": {
+        "value": "program"
+      },
+      "firebase_canal": "azteca7",
+      "author": {
+        "name": ""
+      },
+      "summary": "Disfruta de las mejores películas de todos los tiempos por Azteca 7.",
+      "firebase_programa": "destinofinal4",
+      "programa": "destinofinal4",
+      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-7",
+      "media_group": [
+        {
+          "meia_item": [
+            {
+              "key": "image_base",
+              "type": "image",
+              "src": "https://tvazteca.brightspotcdn.com/dims4/default/d7114d6/2147483647/strip/true/crop/1105x622+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F16%2Fd2%2F428f725e444caed59a20cff09850%2Fdestino-final-4.jpg"
+            }
+          ],
+          "type": "image"
+        }
+      ],
+      "firebase_screen": "Live-azteca7-destinofinal4",
+      "videoaviso": "En vivo",
+      "id": "00000191-aa52-dd7a-a799-bf5ea85a0001",
+      "content": {
+        "type": "video/hls",
+        "assetkey": "YHoOj51dSKCvBQOBG2OvLQ",
+        "videoAssetId": "609ad46a7a441137107d7a81",
+        "src": "https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8"
+      },
+      "firebase_videoaviso": "En vivo",
+      "video": "azteca7-destinofinal4",
+      "extensions": {
+        "applicaster_channel_id": "1037",
+        "end_time": "2024-08-31T21:00:00-0600",
+        "start_time": "2024-08-31T19:15:00-0600",
+        "islive": false
+      },
+      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-7&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
+      "islive": true,
+      "title": "Destino Final 4"
+    },
+    {
+      "firebasescreen": "Live-azteca7-destinofinal5",
+      "firebase_tipo": "En vivo",
+      "private": "Destino Final 5",
+      "tipocontenido": "live",
+      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-7",
+      "nombre_video": "azteca7-destinofinal5",
+      "type": {
+        "value": "program"
+      },
+      "firebase_canal": "azteca7",
+      "author": {
+        "name": ""
+      },
+      "summary": "Disfruta de las mejores películas de todos los tiempos por Azteca 7.",
+      "firebase_programa": "destinofinal5",
+      "programa": "destinofinal5",
+      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-7",
+      "media_group": [
+        {
+          "meia_item": [
+            {
+              "key": "image_base",
+              "type": "image",
+              "src": "https://tvazteca.brightspotcdn.com/dims4/default/a24372e/2147483647/strip/true/crop/1095x616+3+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fdc%2F69%2Fe6772b5948d38cc37ccec43097c9%2Fdestino-final-5-a7.jpg"
+            }
+          ],
+          "type": "image"
+        }
+      ],
+      "firebase_screen": "Live-azteca7-destinofinal5",
+      "videoaviso": "En vivo",
+      "id": "00000191-aa52-dd7a-a799-bf5ea85a0002",
+      "content": {
+        "type": "video/hls",
+        "assetkey": "YHoOj51dSKCvBQOBG2OvLQ",
+        "videoAssetId": "609ad46a7a441137107d7a81",
+        "src": "https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8"
+      },
+      "firebase_videoaviso": "En vivo",
+      "video": "azteca7-destinofinal5",
+      "extensions": {
+        "applicaster_channel_id": "1037",
+        "end_time": "2024-08-31T23:00:00-0600",
+        "start_time": "2024-08-31T21:00:00-0600",
+        "islive": false
+      },
+      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-7&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
+      "islive": true,
+      "title": "Destino Final 5"
+    },
+    {
+      "firebasescreen": "Live-azteca7-bernardbear",
+      "firebase_tipo": "En vivo",
+      "private": "Bernard Bear",
+      "tipocontenido": "live",
+      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-7",
+      "nombre_video": "azteca7-bernardbear",
       "type": {
         "value": "program"
       },
@@ -933,8 +628,8 @@
         "name": ""
       },
       "summary": "¡Disfruta de los personajes más divertidos por Kids 7! El canal correcto también tiene barra para los más pequeños, no te pierdas mi programación diaria.",
-      "firebase_programa": "bernard",
-      "programa": "bernard",
+      "firebase_programa": "bernardbear",
+      "programa": "bernardbear",
       "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-7",
       "media_group": [
         {
@@ -948,9 +643,9 @@
           "type": "image"
         }
       ],
-      "firebase_screen": "Live-azteca7-bernard",
+      "firebase_screen": "Live-azteca7-bernardbear",
       "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb14fb0002",
+      "id": "00000191-aa52-dd7a-a799-bf5ea85a0003",
       "content": {
         "type": "video/hls",
         "assetkey": "YHoOj51dSKCvBQOBG2OvLQ",
@@ -958,16 +653,16 @@
         "src": "https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8"
       },
       "firebase_videoaviso": "En vivo",
-      "video": "azteca7-bernard",
+      "video": "azteca7-bernardbear",
       "extensions": {
         "applicaster_channel_id": "1037",
-        "end_time": "2024-03-02T06:45:00-0600",
-        "start_time": "2024-03-02T06:00:00-0600",
+        "end_time": "2024-09-01T07:00:00-0600",
+        "start_time": "2024-09-01T06:00:00-0600",
         "islive": false
       },
       "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-7&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
       "islive": true,
-      "title": "Bernard "
+      "title": "Bernard Bear"
     },
     {
       "firebasescreen": "Live-azteca7-milo",
@@ -1001,7 +696,7 @@
       ],
       "firebase_screen": "Live-azteca7-milo",
       "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb14fb0003",
+      "id": "00000191-aa52-dd7a-a799-bf5ea85a0004",
       "content": {
         "type": "video/hls",
         "assetkey": "YHoOj51dSKCvBQOBG2OvLQ",
@@ -1012,8 +707,8 @@
       "video": "azteca7-milo",
       "extensions": {
         "applicaster_channel_id": "1037",
-        "end_time": "2024-03-02T07:15:00-0600",
-        "start_time": "2024-03-02T06:45:00-0600",
+        "end_time": "2024-09-01T08:00:00-0600",
+        "start_time": "2024-09-01T07:00:00-0600",
         "islive": false
       },
       "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-7&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
@@ -1021,12 +716,12 @@
       "title": "Milo"
     },
     {
-      "firebasescreen": "Live-azteca7-popcentral",
+      "firebasescreen": "Live-azteca7-lospitufos",
       "firebase_tipo": "En vivo",
-      "private": "Pop Central ",
+      "private": "Los Pitufos",
       "tipocontenido": "live",
       "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-7",
-      "nombre_video": "azteca7-popcentral",
+      "nombre_video": "azteca7-lospitufos",
       "type": {
         "value": "program"
       },
@@ -1034,9 +729,9 @@
       "author": {
         "name": ""
       },
-      "summary": "Sigue las mejores notas, galerías y mucho más contenido sobre las series que forman parte de nuestra programación en Azteca 7.",
-      "firebase_programa": "popcentral",
-      "programa": "popcentral",
+      "summary": "¡Disfruta de los personajes más divertidos por Kids 7! El canal correcto también tiene barra para los más pequeños, no te pierdas mi programación diaria.",
+      "firebase_programa": "lospitufos",
+      "programa": "lospitufos",
       "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-7",
       "media_group": [
         {
@@ -1044,15 +739,15 @@
             {
               "key": "image_base",
               "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/6bb7f79/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F1e%2F68%2Fb4fc760241d5bcf455953cadc266%2Fpop-central-series-azteca-7.jpg"
+              "src": "https://tvazteca.brightspotcdn.com/dims4/default/7d68746/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F48%2F74%2F9fb7482d452396274852554ecfe4%2Flos-pitufos-capitulos-completos-1.jpg"
             }
           ],
           "type": "image"
         }
       ],
-      "firebase_screen": "Live-azteca7-popcentral",
+      "firebase_screen": "Live-azteca7-lospitufos",
       "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb14fb0004",
+      "id": "00000191-aa52-dd7a-a799-bf5ea85a0005",
       "content": {
         "type": "video/hls",
         "assetkey": "YHoOj51dSKCvBQOBG2OvLQ",
@@ -1060,24 +755,24 @@
         "src": "https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8"
       },
       "firebase_videoaviso": "En vivo",
-      "video": "azteca7-popcentral",
+      "video": "azteca7-lospitufos",
       "extensions": {
         "applicaster_channel_id": "1037",
-        "end_time": "2024-03-02T07:45:00-0600",
-        "start_time": "2024-03-02T07:15:00-0600",
+        "end_time": "2024-09-01T10:15:00-0600",
+        "start_time": "2024-09-01T08:00:00-0600",
         "islive": false
       },
       "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-7&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
       "islive": true,
-      "title": "Pop Central "
+      "title": "Los Pitufos"
     },
     {
-      "firebasescreen": "Live-azteca7-loscaballerosdelzodiaco",
+      "firebasescreen": "Live-azteca7-latierraantesdeltiempo6:elsecretodelarocadeldinosaurio",
       "firebase_tipo": "En vivo",
-      "private": "Los Caballeros del Zodiaco",
+      "private": "La Tierra antes del Tiempo 6: El Secreto de la Roca del Dinosaurio",
       "tipocontenido": "live",
       "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-7",
-      "nombre_video": "azteca7-loscaballerosdelzodiaco",
+      "nombre_video": "azteca7-latierraantesdeltiempo6:elsecretodelarocadeldinosaurio",
       "type": {
         "value": "program"
       },
@@ -1085,9 +780,9 @@
       "author": {
         "name": ""
       },
-      "summary": "Sigue las mejores notas, galerías y mucho más contenido sobre las series que forman parte de nuestra programación en Azteca 7.",
-      "firebase_programa": "loscaballerosdelzodiaco",
-      "programa": "loscaballerosdelzodiaco",
+      "summary": "Disfruta de las mejores películas de todos los tiempos por Azteca 7.",
+      "firebase_programa": "latierraantesdeltiempo6:elsecretodelarocadeldinosaurio",
+      "programa": "latierraantesdeltiempo6:elsecretodelarocadeldinosaurio",
       "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-7",
       "media_group": [
         {
@@ -1095,15 +790,15 @@
             {
               "key": "image_base",
               "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/ee186b0/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fe2%2F8c%2F68cf64524be9a3cb0a70653c8d98%2Fmantenerse-joven-a-los-60-2.jpg"
+              "src": "https://tvazteca.brightspotcdn.com/dims4/default/2971b64/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F67%2F47%2Ffe816e4d4424a0cf0d7354964eee%2Fla-tierra-antes-del-tiempo-vi-el-secreto-de-la-roca-del-dinosaurio.jpg"
             }
           ],
           "type": "image"
         }
       ],
-      "firebase_screen": "Live-azteca7-loscaballerosdelzodiaco",
+      "firebase_screen": "Live-azteca7-latierraantesdeltiempo6:elsecretodelarocadeldinosaurio",
       "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb14fb0005",
+      "id": "00000191-aa52-dd7a-a799-bf5ea85a0006",
       "content": {
         "type": "video/hls",
         "assetkey": "YHoOj51dSKCvBQOBG2OvLQ",
@@ -1111,24 +806,24 @@
         "src": "https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8"
       },
       "firebase_videoaviso": "En vivo",
-      "video": "azteca7-loscaballerosdelzodiaco",
+      "video": "azteca7-latierraantesdeltiempo6:elsecretodelarocadeldinosaurio",
       "extensions": {
         "applicaster_channel_id": "1037",
-        "end_time": "2024-03-02T08:45:00-0600",
-        "start_time": "2024-03-02T07:45:00-0600",
+        "end_time": "2024-09-01T12:00:00-0600",
+        "start_time": "2024-09-01T10:15:00-0600",
         "islive": false
       },
       "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-7&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
       "islive": true,
-      "title": "Los Caballeros del Zodiaco"
+      "title": "La Tierra antes del Tiempo 6: El Secreto de la Roca del Dinosaurio"
     },
     {
-      "firebasescreen": "Live-azteca7-smallville",
+      "firebasescreen": "Live-azteca7-elcastigador",
       "firebase_tipo": "En vivo",
-      "private": "Smallville",
+      "private": "El Castigador",
       "tipocontenido": "live",
       "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-7",
-      "nombre_video": "azteca7-smallville",
+      "nombre_video": "azteca7-elcastigador",
       "type": {
         "value": "program"
       },
@@ -1136,9 +831,9 @@
       "author": {
         "name": ""
       },
-      "summary": "Sigue las mejores notas, galerías y mucho más contenido sobre las series que forman parte de nuestra programación en Azteca 7.",
-      "firebase_programa": "smallville",
-      "programa": "smallville",
+      "summary": "Disfruta de las mejores películas de todos los tiempos por Azteca 7.",
+      "firebase_programa": "elcastigador",
+      "programa": "elcastigador",
       "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-7",
       "media_group": [
         {
@@ -1146,15 +841,15 @@
             {
               "key": "image_base",
               "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/dc975d3/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F1a%2F36%2F704a14114e8b80502af7e0991bba%2Fportadas-a7-y-a-16.jpg"
+              "src": "https://tvazteca.brightspotcdn.com/dims4/default/8e0d2ad/2147483647/strip/true/crop/3840x2160+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fd3%2Ffc%2F8c2d7894430692c1b3c2080b8fe1%2Fel-castigador.jpg"
             }
           ],
           "type": "image"
         }
       ],
-      "firebase_screen": "Live-azteca7-smallville",
+      "firebase_screen": "Live-azteca7-elcastigador",
       "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb14fb0006",
+      "id": "00000191-aa52-dd7a-a799-bf5ea85a0007",
       "content": {
         "type": "video/hls",
         "assetkey": "YHoOj51dSKCvBQOBG2OvLQ",
@@ -1162,25 +857,24 @@
         "src": "https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8"
       },
       "firebase_videoaviso": "En vivo",
-      "video": "azteca7-smallville",
+      "video": "azteca7-elcastigador",
       "extensions": {
         "applicaster_channel_id": "1037",
-        "end_time": "2024-03-02T12:45:00-0600",
-        "start_time": "2024-03-02T08:45:00-0600",
+        "end_time": "2024-09-01T14:15:00-0600",
+        "start_time": "2024-09-01T12:00:00-0600",
         "islive": false
       },
       "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-7&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
       "islive": true,
-      "title": "Smallville"
+      "title": "El Castigador"
     },
     {
-      "firebasescreen": "Live-amás+-cuatronochescontigo",
+      "firebasescreen": "Live-amás+-pioneros",
       "firebase_tipo": "En vivo",
-      "private": "Cuatro noches contigo",
-      "tipocontenido": "5J",
-      "contenido": "https://tiradodev.github.io/appLite/claro.json",
+      "private": "Pioneros",
+      "tipocontenido": "live",
       "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Amas-TV",
-      "nombre_video": "amás+-cuatronochescontigo",
+      "nombre_video": "amás+-pioneros",
       "type": {
         "value": "program"
       },
@@ -1188,9 +882,9 @@
       "author": {
         "name": ""
       },
-      "summary": "¡Cine a la mexicana, Cineramas y las mejores películas mexicanas!",
-      "firebase_programa": "cuatronochescontigo",
-      "programa": "cuatronochescontigo",
+      "summary": "Disfruta de las series y telenovelas más intrigantes de la televisión, solamente por la programación de a más.",
+      "firebase_programa": "pioneros",
+      "programa": "pioneros",
       "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Amas-TV",
       "media_group": [
         {
@@ -1198,15 +892,15 @@
             {
               "key": "image_base",
               "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/88b18bd/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Ff7%2Fce%2F959f8cfd41289010ebab86ed73ed%2Fcuatro-noches-contigo.jpg"
+              "src": "https://tvazteca.brightspotcdn.com/dims4/default/b21a243/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F29%2F04%2Fbf1a55284ac29bd68a143aa8db73%2Flos-pioneros.jpg"
             }
           ],
           "type": "image"
         }
       ],
-      "firebase_screen": "Live-amás+-cuatronochescontigo",
+      "firebase_screen": "Live-amás+-pioneros",
       "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb151d0000",
+      "id": "00000191-aa52-dd7a-a799-bf5ea87c0000",
       "content": {
         "type": "video/hls",
         "assetkey": "SJysMl45QMSwjo0TodSk1Q",
@@ -1214,24 +908,24 @@
         "src": "https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8"
       },
       "firebase_videoaviso": "En vivo",
-      "video": "amás+-cuatronochescontigo",
+      "video": "amás+-pioneros",
       "extensions": {
         "applicaster_channel_id": "1040",
-        "end_time": "2024-03-01T13:45:00-0600",
-        "start_time": "2024-03-01T12:00:00-0600",
+        "end_time": "2024-08-31T16:00:00-0600",
+        "start_time": "2024-08-31T13:30:00-0600",
         "islive": true
       },
-      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Amas-TV&description_url=https://www.tvazteca.com/cine/envivo&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
+      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Amas-TV&description_url=https://www.tvazteca.com/amastv/series-y-novelas/envivo&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
       "islive": true,
-      "title": "Claro Sports"
+      "title": "Pioneros"
     },
     {
-      "firebasescreen": "Live-amás+-doñaclarines",
+      "firebasescreen": "Live-amás+-mehabesadounhombre",
       "firebase_tipo": "En vivo",
-      "private": "Doña clarines",
+      "private": "Me Ha Besado Un Hombre",
       "tipocontenido": "live",
       "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Amas-TV",
-      "nombre_video": "amás+-doñaclarines",
+      "nombre_video": "amás+-mehabesadounhombre",
       "type": {
         "value": "program"
       },
@@ -1240,8 +934,8 @@
         "name": ""
       },
       "summary": "¡Cine a la mexicana, Cineramas y las mejores películas mexicanas!",
-      "firebase_programa": "doñaclarines",
-      "programa": "doñaclarines",
+      "firebase_programa": "mehabesadounhombre",
+      "programa": "mehabesadounhombre",
       "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Amas-TV",
       "media_group": [
         {
@@ -1249,15 +943,15 @@
             {
               "key": "image_base",
               "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/21355e4/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F17%2Fac%2F7ac32b1746539a374ed6be1aed2e%2Fdona-clarines.jpg"
+              "src": "https://tvazteca.brightspotcdn.com/dims4/default/c39b1c4/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F3d%2F3b%2F98288c6b448c8c175e6b3d91217d%2Fabel-salazar-1.jpg"
             }
           ],
           "type": "image"
         }
       ],
-      "firebase_screen": "Live-amás+-doñaclarines",
+      "firebase_screen": "Live-amás+-mehabesadounhombre",
       "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb151e0000",
+      "id": "00000191-aa52-dd7a-a799-bf5ea87e0000",
       "content": {
         "type": "video/hls",
         "assetkey": "SJysMl45QMSwjo0TodSk1Q",
@@ -1265,177 +959,24 @@
         "src": "https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8"
       },
       "firebase_videoaviso": "En vivo",
-      "video": "amás+-doñaclarines",
+      "video": "amás+-mehabesadounhombre",
       "extensions": {
         "applicaster_channel_id": "1040",
-        "end_time": "2024-03-01T15:30:00-0600",
-        "start_time": "2024-03-01T13:45:00-0600",
+        "end_time": "2024-08-31T17:45:00-0600",
+        "start_time": "2024-08-31T16:00:00-0600",
         "islive": false
       },
       "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Amas-TV&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
       "islive": true,
-      "title": "Doña clarines"
+      "title": "Me Ha Besado Un Hombre"
     },
     {
-      "firebasescreen": "Live-amás+-viviradestiempo",
+      "firebasescreen": "Live-amás+-treshermanos",
       "firebase_tipo": "En vivo",
-      "private": "Vivir a Destiempo",
+      "private": "Tres Hermanos",
       "tipocontenido": "live",
       "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Amas-TV",
-      "nombre_video": "amás+-viviradestiempo",
-      "type": {
-        "value": "program"
-      },
-      "firebase_canal": "amás+",
-      "author": {
-        "name": ""
-      },
-      "summary": "Disfruta de las series y telenovelas más intrigantes de la televisión, solamente por la programación de a más.",
-      "firebase_programa": "viviradestiempo",
-      "programa": "viviradestiempo",
-      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Amas-TV",
-      "media_group": [
-        {
-          "meia_item": [
-            {
-              "key": "image_base",
-              "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/ba1fc6b/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Ff9%2F72%2F1b4f942a4f4a8029da6f7a2fc427%2Ffuerza-de-mujer.jpg"
-            }
-          ],
-          "type": "image"
-        }
-      ],
-      "firebase_screen": "Live-amás+-viviradestiempo",
-      "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb151e0001",
-      "content": {
-        "type": "video/hls",
-        "assetkey": "SJysMl45QMSwjo0TodSk1Q",
-        "videoAssetId": "60b56be1000ea50835fa1e63",
-        "src": "https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8"
-      },
-      "firebase_videoaviso": "En vivo",
-      "video": "amás+-viviradestiempo",
-      "extensions": {
-        "applicaster_channel_id": "1040",
-        "end_time": "2024-03-01T16:15:00-0600",
-        "start_time": "2024-03-01T15:30:00-0600",
-        "islive": false
-      },
-      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Amas-TV&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
-      "islive": true,
-      "title": "Vivir a Destiempo"
-    },
-    {
-      "firebasescreen": "Live-amás+-todoporamor",
-      "firebase_tipo": "En vivo",
-      "private": "Todo Por Amor",
-      "tipocontenido": "live",
-      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Amas-TV",
-      "nombre_video": "amás+-todoporamor",
-      "type": {
-        "value": "program"
-      },
-      "firebase_canal": "amás+",
-      "author": {
-        "name": ""
-      },
-      "summary": "Disfruta de las series y telenovelas más intrigantes de la televisión, solamente por la programación de a más.",
-      "firebase_programa": "todoporamor",
-      "programa": "todoporamor",
-      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Amas-TV",
-      "media_group": [
-        {
-          "meia_item": [
-            {
-              "key": "image_base",
-              "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/6ed6477/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fd0%2F36%2Fcf36b8cc434289605149ebb3812e%2Flas-bravo-2.jpg"
-            }
-          ],
-          "type": "image"
-        }
-      ],
-      "firebase_screen": "Live-amás+-todoporamor",
-      "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb151e0002",
-      "content": {
-        "type": "video/hls",
-        "assetkey": "SJysMl45QMSwjo0TodSk1Q",
-        "videoAssetId": "60b56be1000ea50835fa1e63",
-        "src": "https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8"
-      },
-      "firebase_videoaviso": "En vivo",
-      "video": "amás+-todoporamor",
-      "extensions": {
-        "applicaster_channel_id": "1040",
-        "end_time": "2024-03-01T17:00:00-0600",
-        "start_time": "2024-03-01T16:15:00-0600",
-        "islive": false
-      },
-      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Amas-TV&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
-      "islive": true,
-      "title": "Todo Por Amor"
-    },
-    {
-      "firebasescreen": "Live-amás+-acadaquiensusanto",
-      "firebase_tipo": "En vivo",
-      "private": "A Cada Quien su Santo",
-      "tipocontenido": "live",
-      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Amas-TV",
-      "nombre_video": "amás+-acadaquiensusanto",
-      "type": {
-        "value": "program"
-      },
-      "firebase_canal": "amás+",
-      "author": {
-        "name": ""
-      },
-      "summary": "Disfruta de las series y telenovelas más intrigantes de la televisión, solamente por la programación de a más.",
-      "firebase_programa": "acadaquiensusanto",
-      "programa": "acadaquiensusanto",
-      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Amas-TV",
-      "media_group": [
-        {
-          "meia_item": [
-            {
-              "key": "image_base",
-              "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/2e00773/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F1c%2F4b%2Fcc0aa5d049cf9dac666277be825a%2Fcopia-de-caratulas-vivos-a-mas.jpg"
-            }
-          ],
-          "type": "image"
-        }
-      ],
-      "firebase_screen": "Live-amás+-acadaquiensusanto",
-      "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb151e0003",
-      "content": {
-        "type": "video/hls",
-        "assetkey": "SJysMl45QMSwjo0TodSk1Q",
-        "videoAssetId": "60b56be1000ea50835fa1e63",
-        "src": "https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8"
-      },
-      "firebase_videoaviso": "En vivo",
-      "video": "amás+-acadaquiensusanto",
-      "extensions": {
-        "applicaster_channel_id": "1040",
-        "end_time": "2024-03-01T18:30:00-0600",
-        "start_time": "2024-03-01T17:00:00-0600",
-        "islive": false
-      },
-      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Amas-TV&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
-      "islive": true,
-      "title": "A Cada Quien su Santo"
-    },
-    {
-      "firebasescreen": "Live-amás+-águilanegra",
-      "firebase_tipo": "En vivo",
-      "private": "Águila negra",
-      "tipocontenido": "live",
-      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Amas-TV",
-      "nombre_video": "amás+-águilanegra",
+      "nombre_video": "amás+-treshermanos",
       "type": {
         "value": "program"
       },
@@ -1444,8 +985,8 @@
         "name": ""
       },
       "summary": "¡Cine a la mexicana, Cineramas y las mejores películas mexicanas!",
-      "firebase_programa": "águilanegra",
-      "programa": "águilanegra",
+      "firebase_programa": "treshermanos",
+      "programa": "treshermanos",
       "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Amas-TV",
       "media_group": [
         {
@@ -1453,15 +994,15 @@
             {
               "key": "image_base",
               "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/3680c08/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fc4%2F99%2F05e9ef334916bf93f517eff37cb5%2Fcineramas-4.jpg"
+              "src": "https://tvazteca.brightspotcdn.com/dims4/default/dc88f87/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fef%2F49%2Fbe7191f0496aa9c95273c65bd4a0%2Fabel-salazar-2.jpg"
             }
           ],
           "type": "image"
         }
       ],
-      "firebase_screen": "Live-amás+-águilanegra",
+      "firebase_screen": "Live-amás+-treshermanos",
       "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb151f0000",
+      "id": "00000191-aa52-dd7a-a799-bf5ea87e0001",
       "content": {
         "type": "video/hls",
         "assetkey": "SJysMl45QMSwjo0TodSk1Q",
@@ -1469,24 +1010,24 @@
         "src": "https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8"
       },
       "firebase_videoaviso": "En vivo",
-      "video": "amás+-águilanegra",
+      "video": "amás+-treshermanos",
       "extensions": {
         "applicaster_channel_id": "1040",
-        "end_time": "2024-03-01T20:00:00-0600",
-        "start_time": "2024-03-01T18:30:00-0600",
+        "end_time": "2024-08-31T19:15:00-0600",
+        "start_time": "2024-08-31T17:45:00-0600",
         "islive": false
       },
       "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Amas-TV&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
       "islive": true,
-      "title": "Águila negra"
+      "title": "Tres Hermanos"
     },
     {
-      "firebasescreen": "Live-amás+-traición",
+      "firebasescreen": "Live-amás+-elpantanodelasánimas",
       "firebase_tipo": "En vivo",
-      "private": "Traición",
+      "private": "El Pantano De Las Ánimas",
       "tipocontenido": "live",
       "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Amas-TV",
-      "nombre_video": "amás+-traición",
+      "nombre_video": "amás+-elpantanodelasánimas",
       "type": {
         "value": "program"
       },
@@ -1495,8 +1036,8 @@
         "name": ""
       },
       "summary": "¡Cine a la mexicana, Cineramas y las mejores películas mexicanas!",
-      "firebase_programa": "traición",
-      "programa": "traición",
+      "firebase_programa": "elpantanodelasánimas",
+      "programa": "elpantanodelasánimas",
       "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Amas-TV",
       "media_group": [
         {
@@ -1504,15 +1045,15 @@
             {
               "key": "image_base",
               "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/1f9fd15/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F1b%2Fed%2Faf9ff5144fda80e7b1552c464bda%2Ftraicion.jpg"
+              "src": "https://tvazteca.brightspotcdn.com/dims4/default/d45c080/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F37%2F04%2F4ff90e704148ab16e5e68cf43936%2Fgaston-santos.jpg"
             }
           ],
           "type": "image"
         }
       ],
-      "firebase_screen": "Live-amás+-traición",
+      "firebase_screen": "Live-amás+-elpantanodelasánimas",
       "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb151f0001",
+      "id": "00000191-aa52-dd7a-a799-bf5ea87e0002",
       "content": {
         "type": "video/hls",
         "assetkey": "SJysMl45QMSwjo0TodSk1Q",
@@ -1520,75 +1061,24 @@
         "src": "https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8"
       },
       "firebase_videoaviso": "En vivo",
-      "video": "amás+-traición",
+      "video": "amás+-elpantanodelasánimas",
       "extensions": {
         "applicaster_channel_id": "1040",
-        "end_time": "2024-03-01T21:30:00-0600",
-        "start_time": "2024-03-01T20:00:00-0600",
+        "end_time": "2024-08-31T20:45:00-0600",
+        "start_time": "2024-08-31T19:15:00-0600",
         "islive": false
       },
       "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Amas-TV&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
       "islive": true,
-      "title": "Traición"
+      "title": "El Pantano De Las Ánimas"
     },
     {
-      "firebasescreen": "Live-amás+-ahoramásnoticias",
+      "firebasescreen": "Live-amás+-gabinobarrera",
       "firebase_tipo": "En vivo",
-      "private": "Ahora Más Noticias",
+      "private": "Gabino Barrera",
       "tipocontenido": "live",
       "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Amas-TV",
-      "nombre_video": "amás+-ahoramásnoticias",
-      "type": {
-        "value": "program"
-      },
-      "firebase_canal": "amás+",
-      "author": {
-        "name": ""
-      },
-      "summary": "Sin descripcion",
-      "firebase_programa": "ahoramásnoticias",
-      "programa": "ahoramásnoticias",
-      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Amas-TV",
-      "media_group": [
-        {
-          "meia_item": [
-            {
-              "key": "image_base",
-              "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/c395318/2147483647/strip/true/crop/889x500+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fbe%2F96%2Fd11b085e4ea5a79e6f32afe0d5fa%2Ftvazteca.brightspotcdn.jpg"
-            }
-          ],
-          "type": "image"
-        }
-      ],
-      "firebase_screen": "Live-amás+-ahoramásnoticias",
-      "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb151f0002",
-      "content": {
-        "type": "video/hls",
-        "assetkey": "SJysMl45QMSwjo0TodSk1Q",
-        "videoAssetId": "60b56be1000ea50835fa1e63",
-        "src": "https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8"
-      },
-      "firebase_videoaviso": "En vivo",
-      "video": "amás+-ahoramásnoticias",
-      "extensions": {
-        "applicaster_channel_id": "1040",
-        "end_time": "2024-03-01T22:30:00-0600",
-        "start_time": "2024-03-01T21:30:00-0600",
-        "islive": false
-      },
-      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Amas-TV&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
-      "islive": true,
-      "title": "Ahora Más Noticias"
-    },
-    {
-      "firebasescreen": "Live-amás+-guerreroalestedelosángeles",
-      "firebase_tipo": "En vivo",
-      "private": "Guerrero al este de los Ángeles",
-      "tipocontenido": "live",
-      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Amas-TV",
-      "nombre_video": "amás+-guerreroalestedelosángeles",
+      "nombre_video": "amás+-gabinobarrera",
       "type": {
         "value": "program"
       },
@@ -1597,8 +1087,8 @@
         "name": ""
       },
       "summary": "¡Cine a la mexicana, Cineramas y las mejores películas mexicanas!",
-      "firebase_programa": "guerreroalestedelosángeles",
-      "programa": "guerreroalestedelosángeles",
+      "firebase_programa": "gabinobarrera",
+      "programa": "gabinobarrera",
       "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Amas-TV",
       "media_group": [
         {
@@ -1606,15 +1096,15 @@
             {
               "key": "image_base",
               "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/6f9c8fd/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F00%2F60%2F756d761d4a90a9964b858ca4ed24%2Fguerrero-al-este-de-los-angeles.jpg"
+              "src": "https://tvazteca.brightspotcdn.com/dims4/default/74d07f9/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fb2%2Ff1%2Fa82608484058abb91795faa49553%2Fantonio-aguilar.jpg"
             }
           ],
           "type": "image"
         }
       ],
-      "firebase_screen": "Live-amás+-guerreroalestedelosángeles",
+      "firebase_screen": "Live-amás+-gabinobarrera",
       "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb151f0003",
+      "id": "00000191-aa52-dd7a-a799-bf5ea87f0000",
       "content": {
         "type": "video/hls",
         "assetkey": "SJysMl45QMSwjo0TodSk1Q",
@@ -1622,24 +1112,75 @@
         "src": "https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8"
       },
       "firebase_videoaviso": "En vivo",
-      "video": "amás+-guerreroalestedelosángeles",
+      "video": "amás+-gabinobarrera",
       "extensions": {
         "applicaster_channel_id": "1040",
-        "end_time": "2024-03-01T23:59:00-0600",
-        "start_time": "2024-03-01T22:30:00-0600",
+        "end_time": "2024-08-31T22:30:00-0600",
+        "start_time": "2024-08-31T20:45:00-0600",
         "islive": false
       },
       "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Amas-TV&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
       "islive": true,
-      "title": "Guerrero al este de los Ángeles"
+      "title": "Gabino Barrera"
     },
     {
-      "firebasescreen": "Live-adn40-méxicoentiemporealconsarahíuribe",
+      "firebasescreen": "Live-amás+-elfuegodemiahijada",
       "firebase_tipo": "En vivo",
-      "private": "México en Tiempo Real con Sarahí Uribe",
+      "private": "El Fuego De Mi Ahijada",
+      "tipocontenido": "live",
+      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Amas-TV",
+      "nombre_video": "amás+-elfuegodemiahijada",
+      "type": {
+        "value": "program"
+      },
+      "firebase_canal": "amás+",
+      "author": {
+        "name": ""
+      },
+      "summary": "¡Cine a la mexicana, Cineramas y las mejores películas mexicanas!",
+      "firebase_programa": "elfuegodemiahijada",
+      "programa": "elfuegodemiahijada",
+      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Amas-TV",
+      "media_group": [
+        {
+          "meia_item": [
+            {
+              "key": "image_base",
+              "type": "image",
+              "src": "https://tvazteca.brightspotcdn.com/dims4/default/fd60583/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F04%2Fe6%2F138dc2444e7daa7c3b75bfad1b01%2Fantonio-aguilar-1.jpg"
+            }
+          ],
+          "type": "image"
+        }
+      ],
+      "firebase_screen": "Live-amás+-elfuegodemiahijada",
+      "videoaviso": "En vivo",
+      "id": "00000191-aa52-dd7a-a799-bf5ea87f0001",
+      "content": {
+        "type": "video/hls",
+        "assetkey": "SJysMl45QMSwjo0TodSk1Q",
+        "videoAssetId": "60b56be1000ea50835fa1e63",
+        "src": "https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8"
+      },
+      "firebase_videoaviso": "En vivo",
+      "video": "amás+-elfuegodemiahijada",
+      "extensions": {
+        "applicaster_channel_id": "1040",
+        "end_time": "2024-08-31T23:59:00-0600",
+        "start_time": "2024-08-31T22:30:00-0600",
+        "islive": false
+      },
+      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Amas-TV&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
+      "islive": true,
+      "title": "El Fuego De Mi Ahijada"
+    },
+    {
+      "firebasescreen": "Live-adn40-adn40.mxcontaniagómez(sábado)",
+      "firebase_tipo": "En vivo",
+      "private": "Adn40.Mx con Tania Gómez (Sábado)",
       "tipocontenido": "live",
       "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
-      "nombre_video": "adn40-méxicoentiemporealconsarahíuribe",
+      "nombre_video": "adn40-adn40.mxcontaniagómez(sábado)",
       "type": {
         "value": "program"
       },
@@ -1647,9 +1188,9 @@
       "author": {
         "name": ""
       },
-      "summary": "Toda la Información de la república mexicana en tiempo real",
-      "firebase_programa": "méxicoentiemporealconsarahíuribe",
-      "programa": "méxicoentiemporealconsarahíuribe",
+      "summary": "Actualización informativa nacional e internacional del día. Lo que está siendo noticia con Tania Gómez.",
+      "firebase_programa": "adn40.mxcontaniagómez(sábado)",
+      "programa": "adn40.mxcontaniagómez(sábado)",
       "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
       "media_group": [
         {
@@ -1657,15 +1198,15 @@
             {
               "key": "image_base",
               "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/cb076e8/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fprogram_schedule%2Fimg%2F173542_1.jpg"
+              "src": "https://tvazteca.brightspotcdn.com/dims4/default/53d3ff5/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fprogram_schedule%2Fimg%2F191861_1.jpg"
             }
           ],
           "type": "image"
         }
       ],
-      "firebase_screen": "Live-adn40-méxicoentiemporealconsarahíuribe",
+      "firebase_screen": "Live-adn40-adn40.mxcontaniagómez(sábado)",
       "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb15370000",
+      "id": "00000191-aa52-dd7a-a799-bf5ea8a10000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -1673,24 +1214,24 @@
         "src": "https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8"
       },
       "firebase_videoaviso": "En vivo",
-      "video": "adn40-méxicoentiemporealconsarahíuribe",
+      "video": "adn40-adn40.mxcontaniagómez(sábado)",
       "extensions": {
         "applicaster_channel_id": "1039",
-        "end_time": "2024-03-01T13:00:00-0600",
-        "start_time": "2024-03-01T12:00:00-0600",
+        "end_time": "2024-08-31T15:30:00-0600",
+        "start_time": "2024-08-31T15:00:00-0600",
         "islive": true
       },
       "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40&description_url=https://www.adn40.mx&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
       "islive": true,
-      "title": "México en Tiempo Real con Sarahí Uribe"
+      "title": "Adn40.Mx con Tania Gómez (Sábado)"
     },
     {
-      "firebasescreen": "Live-adn40-adn40.mxconrominaramosycármensánchez",
+      "firebasescreen": "Live-adn40-iglesiaadventista",
       "firebase_tipo": "En vivo",
-      "private": "Adn40.mx con Romina Ramos y Cármen Sánchez",
+      "private": "Iglesia Adventista",
       "tipocontenido": "live",
       "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
-      "nombre_video": "adn40-adn40.mxconrominaramosycármensánchez",
+      "nombre_video": "adn40-iglesiaadventista",
       "type": {
         "value": "program"
       },
@@ -1698,9 +1239,9 @@
       "author": {
         "name": ""
       },
-      "summary": "Actualización informativa nacional e internacional del día. Lo que está siendo noticia con Romina Ramos y Cármen Sánchez.",
-      "firebase_programa": "adn40.mxconrominaramosycármensánchez",
-      "programa": "adn40.mxconrominaramosycármensánchez",
+      "summary": "Programa Pagado",
+      "firebase_programa": "iglesiaadventista",
+      "programa": "iglesiaadventista",
       "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
       "media_group": [
         {
@@ -1708,15 +1249,15 @@
             {
               "key": "image_base",
               "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/59d2706/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fprogram_schedule%2Fimg%2F191741_1.jpg"
+              "src": "https://tvazteca.brightspotcdn.com/dims4/default/11cb585/2147483647/strip/true/crop/4520x2543+0+1/resize/1024x576!/quality/90/?url=https%3A%2F%2Fserviciosproduccion.com.mx%2Fcompartido%2FCartaProgramacion%2F153521_1.jpg"
             }
           ],
           "type": "image"
         }
       ],
-      "firebase_screen": "Live-adn40-adn40.mxconrominaramosycármensánchez",
+      "firebase_screen": "Live-adn40-iglesiaadventista",
       "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb15390000",
+      "id": "00000191-aa52-dd7a-a799-bf5ea8a30000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -1724,24 +1265,24 @@
         "src": "https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8"
       },
       "firebase_videoaviso": "En vivo",
-      "video": "adn40-adn40.mxconrominaramosycármensánchez",
+      "video": "adn40-iglesiaadventista",
       "extensions": {
         "applicaster_channel_id": "1039",
-        "end_time": "2024-03-01T14:00:00-0600",
-        "start_time": "2024-03-01T13:00:00-0600",
+        "end_time": "2024-08-31T16:00:00-0600",
+        "start_time": "2024-08-31T15:30:00-0600",
         "islive": false
       },
       "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
       "islive": true,
-      "title": "Adn40.mx con Romina Ramos y Cármen Sánchez"
+      "title": "Iglesia Adventista"
     },
     {
-      "firebasescreen": "Live-adn40-aquiencorrespondaconjorgegarralda",
+      "firebasescreen": "Live-adn40-estendenciaconóscarhernández(rep)",
       "firebase_tipo": "En vivo",
-      "private": "A Quien Corresponda con Jorge Garralda",
+      "private": "Es Tendencia con Óscar Hernández (Rep)",
       "tipocontenido": "live",
       "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
-      "nombre_video": "adn40-aquiencorrespondaconjorgegarralda",
+      "nombre_video": "adn40-estendenciaconóscarhernández(rep)",
       "type": {
         "value": "program"
       },
@@ -1749,9 +1290,9 @@
       "author": {
         "name": ""
       },
-      "summary": "Desde hace 31 años, Jorge Garralda ha sido el referente de apoyo social con AQC.",
-      "firebase_programa": "aquiencorrespondaconjorgegarralda",
-      "programa": "aquiencorrespondaconjorgegarralda",
+      "summary": "Las noticias que son o serán tendencia en la agenda informativa. Una presentación y análisis de los hechos y personajes más importantes del ámbito nacional e internacional.",
+      "firebase_programa": "estendenciaconóscarhernández(rep)",
+      "programa": "estendenciaconóscarhernández(rep)",
       "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
       "media_group": [
         {
@@ -1759,15 +1300,15 @@
             {
               "key": "image_base",
               "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/68e292f/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fprogram_schedule%2Fimg%2F70901_1.jpg"
+              "src": "https://tvazteca.brightspotcdn.com/dims4/default/4d76c36/2147483647/strip/true/crop/2613x1470+9+0/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fprogram_schedule%2Fimg%2F200281_1.jpg"
             }
           ],
           "type": "image"
         }
       ],
-      "firebase_screen": "Live-adn40-aquiencorrespondaconjorgegarralda",
+      "firebase_screen": "Live-adn40-estendenciaconóscarhernández(rep)",
       "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb153a0000",
+      "id": "00000191-aa52-dd7a-a799-bf5ea8a40000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -1775,24 +1316,24 @@
         "src": "https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8"
       },
       "firebase_videoaviso": "En vivo",
-      "video": "adn40-aquiencorrespondaconjorgegarralda",
+      "video": "adn40-estendenciaconóscarhernández(rep)",
       "extensions": {
         "applicaster_channel_id": "1039",
-        "end_time": "2024-03-01T14:30:00-0600",
-        "start_time": "2024-03-01T14:00:00-0600",
+        "end_time": "2024-08-31T17:00:00-0600",
+        "start_time": "2024-08-31T16:00:00-0600",
         "islive": false
       },
       "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
       "islive": true,
-      "title": "A Quien Corresponda con Jorge Garralda"
+      "title": "Es Tendencia con Óscar Hernández (Rep)"
     },
     {
-      "firebasescreen": "Live-adn40-esnegocioconcarlosmota",
+      "firebasescreen": "Live-adn40-somosgrandes",
       "firebase_tipo": "En vivo",
-      "private": "Es Negocio con Carlos Mota",
+      "private": "Somos Grandes",
       "tipocontenido": "live",
       "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
-      "nombre_video": "adn40-esnegocioconcarlosmota",
+      "nombre_video": "adn40-somosgrandes",
       "type": {
         "value": "program"
       },
@@ -1800,9 +1341,9 @@
       "author": {
         "name": ""
       },
-      "summary": "Informativo especializado que acerca a la audiencia al mundo de los negocios y temas financieros, además de ser un punto de encuentro para personajes de renombre en el ámbito empresarial y económico.",
-      "firebase_programa": "esnegocioconcarlosmota",
-      "programa": "esnegocioconcarlosmota",
+      "summary": "Acompaña a Ninfa Salinas en un programa que muestra lo mejor de los emprendedores y mexicanos exitosos.",
+      "firebase_programa": "somosgrandes",
+      "programa": "somosgrandes",
       "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
       "media_group": [
         {
@@ -1810,15 +1351,15 @@
             {
               "key": "image_base",
               "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/583b004/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fprogram_schedule%2Fimg%2F80581_2.jpg"
+              "src": "https://tvazteca.brightspotcdn.com/dims4/default/3beac43/2147483647/strip/true/crop/1175x661+2+0/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fprogram_schedule%2Fimg%2F204041_1.jpeg"
             }
           ],
           "type": "image"
         }
       ],
-      "firebase_screen": "Live-adn40-esnegocioconcarlosmota",
+      "firebase_screen": "Live-adn40-somosgrandes",
       "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb153b0000",
+      "id": "00000191-aa52-dd7a-a799-bf5ea8a40001",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -1826,738 +1367,24 @@
         "src": "https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8"
       },
       "firebase_videoaviso": "En vivo",
-      "video": "adn40-esnegocioconcarlosmota",
+      "video": "adn40-somosgrandes",
       "extensions": {
         "applicaster_channel_id": "1039",
-        "end_time": "2024-03-01T15:00:00-0600",
-        "start_time": "2024-03-01T14:30:00-0600",
+        "end_time": "2024-08-31T18:00:00-0600",
+        "start_time": "2024-08-31T17:00:00-0600",
         "islive": false
       },
       "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
       "islive": true,
-      "title": "Es Negocio con Carlos Mota"
+      "title": "Somos Grandes"
     },
     {
-      "firebasescreen": "Live-adn40-estendenciaconjoséluismorayalejandramolina",
+      "firebasescreen": "Live-adn40-adn40.mxconmaxespejel2",
       "firebase_tipo": "En vivo",
-      "private": "Es Tendencia con José Luis Mora y Alejandra Molina",
+      "private": "ADN40.MX con Max Espejel 2",
       "tipocontenido": "live",
       "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
-      "nombre_video": "adn40-estendenciaconjoséluismorayalejandramolina",
-      "type": {
-        "value": "program"
-      },
-      "firebase_canal": "adn40",
-      "author": {
-        "name": ""
-      },
-      "summary": "Las noticias que son o serán tendencia en la agenda informativa. Una presentación y análisis de los hechos y personajes más importantes del ámbito nacional e internacional que marcan una directriz informativa.",
-      "firebase_programa": "estendenciaconjoséluismorayalejandramolina",
-      "programa": "estendenciaconjoséluismorayalejandramolina",
-      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
-      "media_group": [
-        {
-          "meia_item": [
-            {
-              "key": "image_base",
-              "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/dcc9ff5/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fprogram_schedule%2Fimg%2F191781_1.jpg"
-            }
-          ],
-          "type": "image"
-        }
-      ],
-      "firebase_screen": "Live-adn40-estendenciaconjoséluismorayalejandramolina",
-      "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb153c0000",
-      "content": {
-        "type": "video/hls",
-        "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
-        "videoAssetId": "60b578b060947317de7b57ac",
-        "src": "https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8"
-      },
-      "firebase_videoaviso": "En vivo",
-      "video": "adn40-estendenciaconjoséluismorayalejandramolina",
-      "extensions": {
-        "applicaster_channel_id": "1039",
-        "end_time": "2024-03-01T16:00:00-0600",
-        "start_time": "2024-03-01T15:00:00-0600",
-        "islive": false
-      },
-      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
-      "islive": true,
-      "title": "Es Tendencia con José Luis Mora y Alejandra Molina"
-    },
-    {
-      "firebasescreen": "Live-adn40-cotorreandolanoticiaconjuanlecandayleoarriaga",
-      "firebase_tipo": "En vivo",
-      "private": "Cotorreando La Noticia con Juan Lecanda y Leo Arriaga",
-      "tipocontenido": "live",
-      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
-      "nombre_video": "adn40-cotorreandolanoticiaconjuanlecandayleoarriaga",
-      "type": {
-        "value": "program"
-      },
-      "firebase_canal": "adn40",
-      "author": {
-        "name": ""
-      },
-      "summary": "Charla informativa cargada de sarcasmo a partir de la referencia a columnas, artículos de opinión y cartones (caricaturas).",
-      "firebase_programa": "cotorreandolanoticiaconjuanlecandayleoarriaga",
-      "programa": "cotorreandolanoticiaconjuanlecandayleoarriaga",
-      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
-      "media_group": [
-        {
-          "meia_item": [
-            {
-              "key": "image_base",
-              "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/5b6a6a8/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fprogram_schedule%2Fimg%2F191782_1.jpg"
-            }
-          ],
-          "type": "image"
-        }
-      ],
-      "firebase_screen": "Live-adn40-cotorreandolanoticiaconjuanlecandayleoarriaga",
-      "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb153d0000",
-      "content": {
-        "type": "video/hls",
-        "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
-        "videoAssetId": "60b578b060947317de7b57ac",
-        "src": "https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8"
-      },
-      "firebase_videoaviso": "En vivo",
-      "video": "adn40-cotorreandolanoticiaconjuanlecandayleoarriaga",
-      "extensions": {
-        "applicaster_channel_id": "1039",
-        "end_time": "2024-03-01T16:30:00-0600",
-        "start_time": "2024-03-01T16:00:00-0600",
-        "islive": false
-      },
-      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
-      "islive": true,
-      "title": "Cotorreando La Noticia con Juan Lecanda y Leo Arriaga"
-    },
-    {
-      "firebasescreen": "Live-adn40-ruletainformativa",
-      "firebase_tipo": "En vivo",
-      "private": "Ruleta Informativa",
-      "tipocontenido": "live",
-      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
-      "nombre_video": "adn40-ruletainformativa",
-      "type": {
-        "value": "program"
-      },
-      "firebase_canal": "adn40",
-      "author": {
-        "name": ""
-      },
-      "summary": "Diversión e Información en un mismo espacio.",
-      "firebase_programa": "ruletainformativa",
-      "programa": "ruletainformativa",
-      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
-      "media_group": [
-        {
-          "meia_item": [
-            {
-              "key": "image_base",
-              "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/67835bd/2147483647/strip/true/crop/2329x1310+7+0/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fprogram_schedule%2Fimg%2F200341_1.png"
-            }
-          ],
-          "type": "image"
-        }
-      ],
-      "firebase_screen": "Live-adn40-ruletainformativa",
-      "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb153e0000",
-      "content": {
-        "type": "video/hls",
-        "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
-        "videoAssetId": "60b578b060947317de7b57ac",
-        "src": "https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8"
-      },
-      "firebase_videoaviso": "En vivo",
-      "video": "adn40-ruletainformativa",
-      "extensions": {
-        "applicaster_channel_id": "1039",
-        "end_time": "2024-03-01T17:00:00-0600",
-        "start_time": "2024-03-01T16:30:00-0600",
-        "islive": false
-      },
-      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
-      "islive": true,
-      "title": "Ruleta Informativa"
-    },
-    {
-      "firebasescreen": "Live-adn40-adn40.mxconalejandrobrofftylucianawainer",
-      "firebase_tipo": "En vivo",
-      "private": "ADN40.MX con Alejandro Brofft y Luciana Wainer",
-      "tipocontenido": "live",
-      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
-      "nombre_video": "adn40-adn40.mxconalejandrobrofftylucianawainer",
-      "type": {
-        "value": "program"
-      },
-      "firebase_canal": "adn40",
-      "author": {
-        "name": ""
-      },
-      "summary": "Actualización informativa nacional e internacional del día. Lo que está siendo noticia con Alejandro brofft y Luciana Wainer.",
-      "firebase_programa": "adn40.mxconalejandrobrofftylucianawainer",
-      "programa": "adn40.mxconalejandrobrofftylucianawainer",
-      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
-      "media_group": [
-        {
-          "meia_item": [
-            {
-              "key": "image_base",
-              "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/913fc1f/2147483647/strip/true/crop/2628x1478+4+0/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fprogram_schedule%2Fimg%2F200342_1.jpg"
-            }
-          ],
-          "type": "image"
-        }
-      ],
-      "firebase_screen": "Live-adn40-adn40.mxconalejandrobrofftylucianawainer",
-      "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb153f0000",
-      "content": {
-        "type": "video/hls",
-        "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
-        "videoAssetId": "60b578b060947317de7b57ac",
-        "src": "https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8"
-      },
-      "firebase_videoaviso": "En vivo",
-      "video": "adn40-adn40.mxconalejandrobrofftylucianawainer",
-      "extensions": {
-        "applicaster_channel_id": "1039",
-        "end_time": "2024-03-01T18:00:00-0600",
-        "start_time": "2024-03-01T17:00:00-0600",
-        "islive": false
-      },
-      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
-      "islive": true,
-      "title": "ADN40.MX con Alejandro Brofft y Luciana Wainer"
-    },
-    {
-      "firebasescreen": "Live-adn40-tuciudadentiemporealconjuanmanueljiménez",
-      "firebase_tipo": "En vivo",
-      "private": "Tu Ciudad en Tiempo Real con Juan Manuel Jiménez",
-      "tipocontenido": "live",
-      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
-      "nombre_video": "adn40-tuciudadentiemporealconjuanmanueljiménez",
-      "type": {
-        "value": "program"
-      },
-      "firebase_canal": "adn40",
-      "author": {
-        "name": ""
-      },
-      "summary": "Con una descripción in situ de la noticia, Juan Manuel Jiménez te lleva la información local de las megalópolis del país: Ciudad de México, Monterrey y Guadalajara.",
-      "firebase_programa": "tuciudadentiemporealconjuanmanueljiménez",
-      "programa": "tuciudadentiemporealconjuanmanueljiménez",
-      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
-      "media_group": [
-        {
-          "meia_item": [
-            {
-              "key": "image_base",
-              "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/6ace757/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fprogram_schedule%2Fimg%2F126703_1.jpg"
-            }
-          ],
-          "type": "image"
-        }
-      ],
-      "firebase_screen": "Live-adn40-tuciudadentiemporealconjuanmanueljiménez",
-      "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb15400000",
-      "content": {
-        "type": "video/hls",
-        "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
-        "videoAssetId": "60b578b060947317de7b57ac",
-        "src": "https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8"
-      },
-      "firebase_videoaviso": "En vivo",
-      "video": "adn40-tuciudadentiemporealconjuanmanueljiménez",
-      "extensions": {
-        "applicaster_channel_id": "1039",
-        "end_time": "2024-03-01T19:00:00-0600",
-        "start_time": "2024-03-01T18:00:00-0600",
-        "islive": false
-      },
-      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
-      "islive": true,
-      "title": "Tu Ciudad en Tiempo Real con Juan Manuel Jiménez"
-    },
-    {
-      "firebasescreen": "Live-adn40-ciudaddesnudaconyunuecuevasymaradurón",
-      "firebase_tipo": "En vivo",
-      "private": "Ciudad Desnuda con Yunue Cuevas y Mara Durón",
-      "tipocontenido": "live",
-      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
-      "nombre_video": "adn40-ciudaddesnudaconyunuecuevasymaradurón",
-      "type": {
-        "value": "program"
-      },
-      "firebase_canal": "adn40",
-      "author": {
-        "name": ""
-      },
-      "summary": "Una revista informativa que destaca el lado humano, impactante, y asombroso de la noticia... Dos conductoras, vivirán contigo el lado más emocionante de la información.",
-      "firebase_programa": "ciudaddesnudaconyunuecuevasymaradurón",
-      "programa": "ciudaddesnudaconyunuecuevasymaradurón",
-      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
-      "media_group": [
-        {
-          "meia_item": [
-            {
-              "key": "image_base",
-              "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/7bfddab/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fprogram_schedule%2Fimg%2F191821_1.jpg"
-            }
-          ],
-          "type": "image"
-        }
-      ],
-      "firebase_screen": "Live-adn40-ciudaddesnudaconyunuecuevasymaradurón",
-      "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb15410000",
-      "content": {
-        "type": "video/hls",
-        "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
-        "videoAssetId": "60b578b060947317de7b57ac",
-        "src": "https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8"
-      },
-      "firebase_videoaviso": "En vivo",
-      "video": "adn40-ciudaddesnudaconyunuecuevasymaradurón",
-      "extensions": {
-        "applicaster_channel_id": "1039",
-        "end_time": "2024-03-01T20:00:00-0600",
-        "start_time": "2024-03-01T19:00:00-0600",
-        "islive": false
-      },
-      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
-      "islive": true,
-      "title": "Ciudad Desnuda con Yunue Cuevas y Mara Durón"
-    },
-    {
-      "firebasescreen": "Live-adn40-red360conlucybravo",
-      "firebase_tipo": "En vivo",
-      "private": "Red 360 con Lucy Bravo",
-      "tipocontenido": "live",
-      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
-      "nombre_video": "adn40-red360conlucybravo",
-      "type": {
-        "value": "program"
-      },
-      "firebase_canal": "adn40",
-      "author": {
-        "name": ""
-      },
-      "summary": "La información desde todos los ángulos de la noticia",
-      "firebase_programa": "red360conlucybravo",
-      "programa": "red360conlucybravo",
-      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
-      "media_group": [
-        {
-          "meia_item": [
-            {
-              "key": "image_base",
-              "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/f9d9ac1/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fprogram_schedule%2Fimg%2F173621_1.jpg"
-            }
-          ],
-          "type": "image"
-        }
-      ],
-      "firebase_screen": "Live-adn40-red360conlucybravo",
-      "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb15420000",
-      "content": {
-        "type": "video/hls",
-        "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
-        "videoAssetId": "60b578b060947317de7b57ac",
-        "src": "https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8"
-      },
-      "firebase_videoaviso": "En vivo",
-      "video": "adn40-red360conlucybravo",
-      "extensions": {
-        "applicaster_channel_id": "1039",
-        "end_time": "2024-03-01T21:00:00-0600",
-        "start_time": "2024-03-01T20:00:00-0600",
-        "islive": false
-      },
-      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
-      "islive": true,
-      "title": "Red 360 con Lucy Bravo"
-    },
-    {
-      "firebasescreen": "Live-adn40-esnoticiaconhannianovell",
-      "firebase_tipo": "En vivo",
-      "private": "Es Noticia con Hannia Novell",
-      "tipocontenido": "live",
-      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
-      "nombre_video": "adn40-esnoticiaconhannianovell",
-      "type": {
-        "value": "program"
-      },
-      "firebase_canal": "adn40",
-      "author": {
-        "name": ""
-      },
-      "summary": "La mejor cobertura informativa de lo acontecido en el día, al caer la noche, conducido por Hannia Novell.",
-      "firebase_programa": "esnoticiaconhannianovell",
-      "programa": "esnoticiaconhannianovell",
-      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
-      "media_group": [
-        {
-          "meia_item": [
-            {
-              "key": "image_base",
-              "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/744d19e/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fprogram_schedule%2Fimg%2F77166_2.jpg"
-            }
-          ],
-          "type": "image"
-        }
-      ],
-      "firebase_screen": "Live-adn40-esnoticiaconhannianovell",
-      "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb15430000",
-      "content": {
-        "type": "video/hls",
-        "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
-        "videoAssetId": "60b578b060947317de7b57ac",
-        "src": "https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8"
-      },
-      "firebase_videoaviso": "En vivo",
-      "video": "adn40-esnoticiaconhannianovell",
-      "extensions": {
-        "applicaster_channel_id": "1039",
-        "end_time": "2024-03-01T22:00:00-0600",
-        "start_time": "2024-03-01T21:00:00-0600",
-        "islive": false
-      },
-      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
-      "islive": true,
-      "title": "Es Noticia con Hannia Novell"
-    },
-    {
-      "firebasescreen": "Live-adn40-noticiasrepúblicamx",
-      "firebase_tipo": "En vivo",
-      "private": "Noticias República MX",
-      "tipocontenido": "live",
-      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
-      "nombre_video": "adn40-noticiasrepúblicamx",
-      "type": {
-        "value": "program"
-      },
-      "firebase_canal": "adn40",
-      "author": {
-        "name": ""
-      },
-      "summary": "La información mas destacada de México y el Mundo presentada a través de los personajes que son noticia.",
-      "firebase_programa": "noticiasrepúblicamx",
-      "programa": "noticiasrepúblicamx",
-      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
-      "media_group": [
-        {
-          "meia_item": [
-            {
-              "key": "image_base",
-              "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/08c8a9e/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fprogram_schedule%2Fimg%2F119281_1.jpg"
-            }
-          ],
-          "type": "image"
-        }
-      ],
-      "firebase_screen": "Live-adn40-noticiasrepúblicamx",
-      "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb15440000",
-      "content": {
-        "type": "video/hls",
-        "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
-        "videoAssetId": "60b578b060947317de7b57ac",
-        "src": "https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8"
-      },
-      "firebase_videoaviso": "En vivo",
-      "video": "adn40-noticiasrepúblicamx",
-      "extensions": {
-        "applicaster_channel_id": "1039",
-        "end_time": "2024-03-01T22:30:00-0600",
-        "start_time": "2024-03-01T22:00:00-0600",
-        "islive": false
-      },
-      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
-      "islive": true,
-      "title": "Noticias República MX"
-    },
-    {
-      "firebasescreen": "Live-adn40-mesarepúblicamx",
-      "firebase_tipo": "En vivo",
-      "private": "Mesa República Mx",
-      "tipocontenido": "live",
-      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
-      "nombre_video": "adn40-mesarepúblicamx",
-      "type": {
-        "value": "program"
-      },
-      "firebase_canal": "adn40",
-      "author": {
-        "name": ""
-      },
-      "summary": "La información mas destacada de México y el Mundo",
-      "firebase_programa": "mesarepúblicamx",
-      "programa": "mesarepúblicamx",
-      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
-      "media_group": [
-        {
-          "meia_item": [
-            {
-              "key": "image_base",
-              "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/ea3282f/2147483647/strip/true/crop/1280x720+0+0/resize/1024x576!/quality/90/?url=https%3A%2F%2Fserviciosproduccion.com.mx%2Fcompartido%2FCartaProgramacion%2F186481_1.jpg"
-            }
-          ],
-          "type": "image"
-        }
-      ],
-      "firebase_screen": "Live-adn40-mesarepúblicamx",
-      "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb15450000",
-      "content": {
-        "type": "video/hls",
-        "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
-        "videoAssetId": "60b578b060947317de7b57ac",
-        "src": "https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8"
-      },
-      "firebase_videoaviso": "En vivo",
-      "video": "adn40-mesarepúblicamx",
-      "extensions": {
-        "applicaster_channel_id": "1039",
-        "end_time": "2024-03-01T23:00:00-0600",
-        "start_time": "2024-03-01T22:30:00-0600",
-        "islive": false
-      },
-      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
-      "islive": true,
-      "title": "Mesa República Mx"
-    },
-    {
-      "firebasescreen": "Live-adn40-todopersonal",
-      "firebase_tipo": "En vivo",
-      "private": "Todo Personal",
-      "tipocontenido": "live",
-      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
-      "nombre_video": "adn40-todopersonal",
-      "type": {
-        "value": "program"
-      },
-      "firebase_canal": "adn40",
-      "author": {
-        "name": ""
-      },
-      "summary": "El espacio de televisión donde los temas relevantes, relacionados con la política nacional son documentados, analizados y discutidos hasta descubrir porque en el poder y en la política, todo es personal.",
-      "firebase_programa": "todopersonal",
-      "programa": "todopersonal",
-      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
-      "media_group": [
-        {
-          "meia_item": [
-            {
-              "key": "image_base",
-              "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/b335fea/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fprogram_schedule%2Fimg%2F4497_2.jpg"
-            }
-          ],
-          "type": "image"
-        }
-      ],
-      "firebase_screen": "Live-adn40-todopersonal",
-      "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb15460000",
-      "content": {
-        "type": "video/hls",
-        "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
-        "videoAssetId": "60b578b060947317de7b57ac",
-        "src": "https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8"
-      },
-      "firebase_videoaviso": "En vivo",
-      "video": "adn40-todopersonal",
-      "extensions": {
-        "applicaster_channel_id": "1039",
-        "end_time": "2024-03-01T23:30:00-0600",
-        "start_time": "2024-03-01T23:00:00-0600",
-        "islive": false
-      },
-      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
-      "islive": true,
-      "title": "Todo Personal"
-    },
-    {
-      "firebasescreen": "Live-adn40-súbetealmameconcarlostrilloymarcelalecuona",
-      "firebase_tipo": "En vivo",
-      "private": "Súbete al Mame con Carlos Trillo y Marcela Lecuona",
-      "tipocontenido": "live",
-      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
-      "nombre_video": "adn40-súbetealmameconcarlostrilloymarcelalecuona",
-      "type": {
-        "value": "program"
-      },
-      "firebase_canal": "adn40",
-      "author": {
-        "name": ""
-      },
-      "summary": "La información que ha generado conversación 'subida de tono' en las redes sociales. Un viaje donde recorremos y nos detendremos en las diferentes estaciones de la noticia.",
-      "firebase_programa": "súbetealmameconcarlostrilloymarcelalecuona",
-      "programa": "súbetealmameconcarlostrilloymarcelalecuona",
-      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
-      "media_group": [
-        {
-          "meia_item": [
-            {
-              "key": "image_base",
-              "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/e560e87/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fprogram_schedule%2Fimg%2F191822_1.jpg"
-            }
-          ],
-          "type": "image"
-        }
-      ],
-      "firebase_screen": "Live-adn40-súbetealmameconcarlostrilloymarcelalecuona",
-      "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb15470000",
-      "content": {
-        "type": "video/hls",
-        "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
-        "videoAssetId": "60b578b060947317de7b57ac",
-        "src": "https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8"
-      },
-      "firebase_videoaviso": "En vivo",
-      "video": "adn40-súbetealmameconcarlostrilloymarcelalecuona",
-      "extensions": {
-        "applicaster_channel_id": "1039",
-        "end_time": "2024-03-02T00:00:00-0600",
-        "start_time": "2024-03-01T23:30:00-0600",
-        "islive": false
-      },
-      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
-      "islive": true,
-      "title": "Súbete al Mame con Carlos Trillo y Marcela Lecuona"
-    },
-    {
-      "firebasescreen": "Live-adn40-alfilo",
-      "firebase_tipo": "En vivo",
-      "private": "Al Filo",
-      "tipocontenido": "live",
-      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
-      "nombre_video": "adn40-alfilo",
-      "type": {
-        "value": "program"
-      },
-      "firebase_canal": "adn40",
-      "author": {
-        "name": ""
-      },
-      "summary": "Ana María Lomelí lleva al invitado a tres distintos escenarios con sagacidad y perspicacia, Lomelí cuestiona al invitado sobre la profundidad de su elección política, económica, social y cultural",
-      "firebase_programa": "alfilo",
-      "programa": "alfilo",
-      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
-      "media_group": [
-        {
-          "meia_item": [
-            {
-              "key": "image_base",
-              "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/0d9320f/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fprogram_schedule%2Fimg%2F16507_2.jpg"
-            }
-          ],
-          "type": "image"
-        }
-      ],
-      "firebase_screen": "Live-adn40-alfilo",
-      "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb15480000",
-      "content": {
-        "type": "video/hls",
-        "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
-        "videoAssetId": "60b578b060947317de7b57ac",
-        "src": "https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8"
-      },
-      "firebase_videoaviso": "En vivo",
-      "video": "adn40-alfilo",
-      "extensions": {
-        "applicaster_channel_id": "1039",
-        "end_time": "2024-03-02T00:15:00-0600",
-        "start_time": "2024-03-02T00:02:00-0600",
-        "islive": false
-      },
-      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
-      "islive": true,
-      "title": "Al Filo"
-    },
-    {
-      "firebasescreen": "Live-adn40-lade8",
-      "firebase_tipo": "En vivo",
-      "private": "La de 8",
-      "tipocontenido": "live",
-      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
-      "nombre_video": "adn40-lade8",
-      "type": {
-        "value": "program"
-      },
-      "firebase_canal": "adn40",
-      "author": {
-        "name": ""
-      },
-      "summary": "ADN40 es un canal donde la información fluye de ida y vuelta",
-      "firebase_programa": "lade8",
-      "programa": "lade8",
-      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
-      "media_group": [
-        {
-          "meia_item": [
-            {
-              "key": "image_base",
-              "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/db34628/2147483647/strip/true/resize/1024x576!/quality/90/?url="
-            }
-          ],
-          "type": "image"
-        }
-      ],
-      "firebase_screen": "Live-adn40-lade8",
-      "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb15490000",
-      "content": {
-        "type": "video/hls",
-        "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
-        "videoAssetId": "60b578b060947317de7b57ac",
-        "src": "https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8"
-      },
-      "firebase_videoaviso": "En vivo",
-      "video": "adn40-lade8",
-      "extensions": {
-        "applicaster_channel_id": "1039",
-        "end_time": "2024-03-02T04:05:00-0600",
-        "start_time": "2024-03-02T04:02:00-0600",
-        "islive": false
-      },
-      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
-      "islive": true,
-      "title": "La de 8"
-    },
-    {
-      "firebasescreen": "Live-adn40-adn40.mxconmaxespejel",
-      "firebase_tipo": "En vivo",
-      "private": "ADN40.MX Con Max Espejel",
-      "tipocontenido": "live",
-      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
-      "nombre_video": "adn40-adn40.mxconmaxespejel",
+      "nombre_video": "adn40-adn40.mxconmaxespejel2",
       "type": {
         "value": "program"
       },
@@ -2566,8 +1393,8 @@
         "name": ""
       },
       "summary": "Actualización informativa nacional e internacional del día. Lo que está siendo noticia con Max Espejel.",
-      "firebase_programa": "adn40.mxconmaxespejel",
-      "programa": "adn40.mxconmaxespejel",
+      "firebase_programa": "adn40.mxconmaxespejel2",
+      "programa": "adn40.mxconmaxespejel2",
       "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
       "media_group": [
         {
@@ -2575,15 +1402,15 @@
             {
               "key": "image_base",
               "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/8224ff8/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fprogram_schedule%2Fimg%2F173861_1.jpg"
+              "src": "https://tvazteca.brightspotcdn.com/dims4/default/86889e2/2147483647/strip/true/crop/4520x2543+0+1/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fprogram_schedule%2Fimg%2F197901_1.jpg"
             }
           ],
           "type": "image"
         }
       ],
-      "firebase_screen": "Live-adn40-adn40.mxconmaxespejel",
+      "firebase_screen": "Live-adn40-adn40.mxconmaxespejel2",
       "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb15490001",
+      "id": "00000191-aa52-dd7a-a799-bf5ea8a50000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -2591,24 +1418,24 @@
         "src": "https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8"
       },
       "firebase_videoaviso": "En vivo",
-      "video": "adn40-adn40.mxconmaxespejel",
+      "video": "adn40-adn40.mxconmaxespejel2",
       "extensions": {
         "applicaster_channel_id": "1039",
-        "end_time": "2024-03-02T09:00:00-0600",
-        "start_time": "2024-03-02T08:00:00-0600",
+        "end_time": "2024-08-31T19:00:00-0600",
+        "start_time": "2024-08-31T18:00:00-0600",
         "islive": false
       },
       "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
       "islive": true,
-      "title": "ADN40.MX Con Max Espejel"
+      "title": "ADN40.MX con Max Espejel 2"
     },
     {
-      "firebasescreen": "Live-adn40-adn40.mxconóscarhernández",
+      "firebasescreen": "Live-adn40-eladndelahistoria",
       "firebase_tipo": "En vivo",
-      "private": "ADN40.MX Con Óscar Hernández",
+      "private": "El Adn de la Historia",
       "tipocontenido": "live",
       "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
-      "nombre_video": "adn40-adn40.mxconóscarhernández",
+      "nombre_video": "adn40-eladndelahistoria",
       "type": {
         "value": "program"
       },
@@ -2616,9 +1443,9 @@
       "author": {
         "name": ""
       },
-      "summary": "Actualización informativa nacional e internacional del día. Lo que está siendo noticia con Óscar Hernández.",
-      "firebase_programa": "adn40.mxconóscarhernández",
-      "programa": "adn40.mxconóscarhernández",
+      "summary": "Isabel, Benito y Alejandro tienen una conversación sobre La Revolución Méxicana. Cómo era nuestro país en la época de 'las adelitas'; cuáles eran los ejércitos revolucionarios, su contexto, sus campañas.",
+      "firebase_programa": "eladndelahistoria",
+      "programa": "eladndelahistoria",
       "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
       "media_group": [
         {
@@ -2626,15 +1453,15 @@
             {
               "key": "image_base",
               "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/1f417d8/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fprogram_schedule%2Fimg%2F173781_1.jpg"
+              "src": "https://tvazteca.brightspotcdn.com/dims4/default/cdfc713/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fprogram_schedule%2Fimg%2F176881_1.jpg"
             }
           ],
           "type": "image"
         }
       ],
-      "firebase_screen": "Live-adn40-adn40.mxconóscarhernández",
+      "firebase_screen": "Live-adn40-eladndelahistoria",
       "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb154a0000",
+      "id": "00000191-aa52-dd7a-a799-bf5ea8a60000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -2642,24 +1469,738 @@
         "src": "https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8"
       },
       "firebase_videoaviso": "En vivo",
-      "video": "adn40-adn40.mxconóscarhernández",
+      "video": "adn40-eladndelahistoria",
       "extensions": {
         "applicaster_channel_id": "1039",
-        "end_time": "2024-03-02T10:00:00-0600",
-        "start_time": "2024-03-02T09:00:00-0600",
+        "end_time": "2024-08-31T19:30:00-0600",
+        "start_time": "2024-08-31T19:00:00-0600",
         "islive": false
       },
       "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
       "islive": true,
-      "title": "ADN40.MX Con Óscar Hernández"
+      "title": "El Adn de la Historia"
     },
     {
-      "firebasescreen": "Live-adn40-adnconmigoconmaxespejelytaniagómez(sábado)",
+      "firebasescreen": "Live-adn40-políticosenlínea",
       "firebase_tipo": "En vivo",
-      "private": "Adn Conmigo con Max Espejel Y Tania Gómez (Sábado)",
+      "private": "Políticos en Línea",
       "tipocontenido": "live",
       "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
-      "nombre_video": "adn40-adnconmigoconmaxespejelytaniagómez(sábado)",
+      "nombre_video": "adn40-políticosenlínea",
+      "type": {
+        "value": "program"
+      },
+      "firebase_canal": "adn40",
+      "author": {
+        "name": ""
+      },
+      "summary": "Alejandra Molina sostiene una conversación con la persona detrás de los candidatos a elección popular.",
+      "firebase_programa": "políticosenlínea",
+      "programa": "políticosenlínea",
+      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
+      "media_group": [
+        {
+          "meia_item": [
+            {
+              "key": "image_base",
+              "type": "image",
+              "src": "https://tvazteca.brightspotcdn.com/dims4/default/b3380f7/2147483647/strip/true/crop/4520x2543+0+1/resize/1024x576!/quality/90/?url=https%3A%2F%2Fserviciosproduccion.com.mx%2Fcompartido%2FCartaProgramacion%2F202301_1.jpg"
+            }
+          ],
+          "type": "image"
+        }
+      ],
+      "firebase_screen": "Live-adn40-políticosenlínea",
+      "videoaviso": "En vivo",
+      "id": "00000191-aa52-dd7a-a799-bf5ea8a70000",
+      "content": {
+        "type": "video/hls",
+        "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
+        "videoAssetId": "60b578b060947317de7b57ac",
+        "src": "https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8"
+      },
+      "firebase_videoaviso": "En vivo",
+      "video": "adn40-políticosenlínea",
+      "extensions": {
+        "applicaster_channel_id": "1039",
+        "end_time": "2024-08-31T20:00:00-0600",
+        "start_time": "2024-08-31T19:30:00-0600",
+        "islive": false
+      },
+      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
+      "islive": true,
+      "title": "Políticos en Línea"
+    },
+    {
+      "firebasescreen": "Live-adn40-esnoticiaconmaxespejel",
+      "firebase_tipo": "En vivo",
+      "private": "Es Noticia con Max Espejel",
+      "tipocontenido": "live",
+      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
+      "nombre_video": "adn40-esnoticiaconmaxespejel",
+      "type": {
+        "value": "program"
+      },
+      "firebase_canal": "adn40",
+      "author": {
+        "name": ""
+      },
+      "summary": "La mejor cobertura informativa de lo acontecido en el día, al caer la noche, conducido por Max Espejel.",
+      "firebase_programa": "esnoticiaconmaxespejel",
+      "programa": "esnoticiaconmaxespejel",
+      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
+      "media_group": [
+        {
+          "meia_item": [
+            {
+              "key": "image_base",
+              "type": "image",
+              "src": "https://tvazteca.brightspotcdn.com/dims4/default/465664e/2147483647/strip/true/crop/2606x1466+10+0/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fprogram_schedule%2Fimg%2F199761_1.jpg"
+            }
+          ],
+          "type": "image"
+        }
+      ],
+      "firebase_screen": "Live-adn40-esnoticiaconmaxespejel",
+      "videoaviso": "En vivo",
+      "id": "00000191-aa52-dd7a-a799-bf5ea8a80000",
+      "content": {
+        "type": "video/hls",
+        "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
+        "videoAssetId": "60b578b060947317de7b57ac",
+        "src": "https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8"
+      },
+      "firebase_videoaviso": "En vivo",
+      "video": "adn40-esnoticiaconmaxespejel",
+      "extensions": {
+        "applicaster_channel_id": "1039",
+        "end_time": "2024-08-31T21:00:00-0600",
+        "start_time": "2024-08-31T20:00:00-0600",
+        "islive": false
+      },
+      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
+      "islive": true,
+      "title": "Es Noticia con Max Espejel"
+    },
+    {
+      "firebasescreen": "Live-adn40-adndeportes",
+      "firebase_tipo": "En vivo",
+      "private": "Adn Deportes",
+      "tipocontenido": "live",
+      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
+      "nombre_video": "adn40-adndeportes",
+      "type": {
+        "value": "program"
+      },
+      "firebase_canal": "adn40",
+      "author": {
+        "name": ""
+      },
+      "summary": "Informativo de Deportes dinámico, moderno y con gran interacción en el mundo digital y las redes sociales. con los mejores conductores, con un lenguaje simple, fresco y puntual, cubriendo los acontecimientos deportivos",
+      "firebase_programa": "adndeportes",
+      "programa": "adndeportes",
+      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
+      "media_group": [
+        {
+          "meia_item": [
+            {
+              "key": "image_base",
+              "type": "image",
+              "src": "https://tvazteca.brightspotcdn.com/dims4/default/8a39f30/2147483647/strip/true/crop/4520x2543+0+1/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fprogram_schedule%2Fimg%2F77162_2.jpg"
+            }
+          ],
+          "type": "image"
+        }
+      ],
+      "firebase_screen": "Live-adn40-adndeportes",
+      "videoaviso": "En vivo",
+      "id": "00000191-aa52-dd7a-a799-bf5ea8a80001",
+      "content": {
+        "type": "video/hls",
+        "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
+        "videoAssetId": "60b578b060947317de7b57ac",
+        "src": "https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8"
+      },
+      "firebase_videoaviso": "En vivo",
+      "video": "adn40-adndeportes",
+      "extensions": {
+        "applicaster_channel_id": "1039",
+        "end_time": "2024-08-31T22:00:00-0600",
+        "start_time": "2024-08-31T21:00:00-0600",
+        "islive": false
+      },
+      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
+      "islive": true,
+      "title": "Adn Deportes"
+    },
+    {
+      "firebasescreen": "Live-adn40-nohaylugarcomún",
+      "firebase_tipo": "En vivo",
+      "private": "No Hay Lugar Común",
+      "tipocontenido": "live",
+      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
+      "nombre_video": "adn40-nohaylugarcomún",
+      "type": {
+        "value": "program"
+      },
+      "firebase_canal": "adn40",
+      "author": {
+        "name": ""
+      },
+      "summary": "una conversacion intima con los personajes que hacen dia a dia el mexico de hoy. politicos, hombres de negocio, artistas, escritores, chefs, deportistas con ricardo raphael",
+      "firebase_programa": "nohaylugarcomún",
+      "programa": "nohaylugarcomún",
+      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
+      "media_group": [
+        {
+          "meia_item": [
+            {
+              "key": "image_base",
+              "type": "image",
+              "src": "https://tvazteca.brightspotcdn.com/dims4/default/d294424/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fprogram_schedule%2Fimg%2F79421_1.jpg"
+            }
+          ],
+          "type": "image"
+        }
+      ],
+      "firebase_screen": "Live-adn40-nohaylugarcomún",
+      "videoaviso": "En vivo",
+      "id": "00000191-aa52-dd7a-a799-bf5ea8a90000",
+      "content": {
+        "type": "video/hls",
+        "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
+        "videoAssetId": "60b578b060947317de7b57ac",
+        "src": "https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8"
+      },
+      "firebase_videoaviso": "En vivo",
+      "video": "adn40-nohaylugarcomún",
+      "extensions": {
+        "applicaster_channel_id": "1039",
+        "end_time": "2024-08-31T22:15:00-0600",
+        "start_time": "2024-08-31T22:00:00-0600",
+        "islive": false
+      },
+      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
+      "islive": true,
+      "title": "No Hay Lugar Común"
+    },
+    {
+      "firebasescreen": "Live-adn40-ahora/futuroméxicoyelmundo",
+      "firebase_tipo": "En vivo",
+      "private": "Ahora/Futuro México y el Mundo",
+      "tipocontenido": "live",
+      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
+      "nombre_video": "adn40-ahora/futuroméxicoyelmundo",
+      "type": {
+        "value": "program"
+      },
+      "firebase_canal": "adn40",
+      "author": {
+        "name": ""
+      },
+      "summary": "Podemos llegar lejos si nos mentalizamos y preparamos",
+      "firebase_programa": "ahora/futuroméxicoyelmundo",
+      "programa": "ahora/futuroméxicoyelmundo",
+      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
+      "media_group": [
+        {
+          "meia_item": [
+            {
+              "key": "image_base",
+              "type": "image",
+              "src": "https://tvazteca.brightspotcdn.com/dims4/default/12a808b/2147483647/strip/true/crop/4520x2543+0+1/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fprogram_schedule%2Fimg%2F122661_1.jpg"
+            }
+          ],
+          "type": "image"
+        }
+      ],
+      "firebase_screen": "Live-adn40-ahora/futuroméxicoyelmundo",
+      "videoaviso": "En vivo",
+      "id": "00000191-aa52-dd7a-a799-bf5ea8aa0000",
+      "content": {
+        "type": "video/hls",
+        "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
+        "videoAssetId": "60b578b060947317de7b57ac",
+        "src": "https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8"
+      },
+      "firebase_videoaviso": "En vivo",
+      "video": "adn40-ahora/futuroméxicoyelmundo",
+      "extensions": {
+        "applicaster_channel_id": "1039",
+        "end_time": "2024-08-31T22:30:00-0600",
+        "start_time": "2024-08-31T22:15:00-0600",
+        "islive": false
+      },
+      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
+      "islive": true,
+      "title": "Ahora/Futuro México y el Mundo"
+    },
+    {
+      "firebasescreen": "Live-adn40-puntodefuga",
+      "firebase_tipo": "En vivo",
+      "private": "Punto de Fuga",
+      "tipocontenido": "live",
+      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
+      "nombre_video": "adn40-puntodefuga",
+      "type": {
+        "value": "program"
+      },
+      "firebase_canal": "adn40",
+      "author": {
+        "name": ""
+      },
+      "summary": "un espacio de conversacionpara indagar sobre temas de historia y filosofia conducido por pablo hirirat y raul quintanilla",
+      "firebase_programa": "puntodefuga",
+      "programa": "puntodefuga",
+      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
+      "media_group": [
+        {
+          "meia_item": [
+            {
+              "key": "image_base",
+              "type": "image",
+              "src": "https://tvazteca.brightspotcdn.com/dims4/default/8e936d1/2147483647/strip/true/crop/4520x2543+0+1/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fprogram_schedule%2Fimg%2F138181_1.jpg"
+            }
+          ],
+          "type": "image"
+        }
+      ],
+      "firebase_screen": "Live-adn40-puntodefuga",
+      "videoaviso": "En vivo",
+      "id": "00000191-aa52-dd7a-a799-bf5ea8ab0000",
+      "content": {
+        "type": "video/hls",
+        "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
+        "videoAssetId": "60b578b060947317de7b57ac",
+        "src": "https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8"
+      },
+      "firebase_videoaviso": "En vivo",
+      "video": "adn40-puntodefuga",
+      "extensions": {
+        "applicaster_channel_id": "1039",
+        "end_time": "2024-08-31T23:00:00-0600",
+        "start_time": "2024-08-31T22:45:00-0600",
+        "islive": false
+      },
+      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
+      "islive": true,
+      "title": "Punto de Fuga"
+    },
+    {
+      "firebasescreen": "Live-adn40-ruta40",
+      "firebase_tipo": "En vivo",
+      "private": "Ruta 40",
+      "tipocontenido": "live",
+      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
+      "nombre_video": "adn40-ruta40",
+      "type": {
+        "value": "program"
+      },
+      "firebase_canal": "adn40",
+      "author": {
+        "name": ""
+      },
+      "summary": "A fin de complementar su programación inteligente, Proyecto 40 ofrece una serie de programas especiales, con el fin de ampliar el panorama de los sucesos o personajes que están revolucionando al Mundo.",
+      "firebase_programa": "ruta40",
+      "programa": "ruta40",
+      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
+      "media_group": [
+        {
+          "meia_item": [
+            {
+              "key": "image_base",
+              "type": "image",
+              "src": "https://tvazteca.brightspotcdn.com/dims4/default/da1a865/2147483647/strip/true/crop/4520x2543+0+1/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fprogram_schedule%2Fimg%2F58961_1.jpg"
+            }
+          ],
+          "type": "image"
+        }
+      ],
+      "firebase_screen": "Live-adn40-ruta40",
+      "videoaviso": "En vivo",
+      "id": "00000191-aa52-dd7a-a799-bf5ea8ac0000",
+      "content": {
+        "type": "video/hls",
+        "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
+        "videoAssetId": "60b578b060947317de7b57ac",
+        "src": "https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8"
+      },
+      "firebase_videoaviso": "En vivo",
+      "video": "adn40-ruta40",
+      "extensions": {
+        "applicaster_channel_id": "1039",
+        "end_time": "2024-08-31T23:15:00-0600",
+        "start_time": "2024-08-31T23:00:00-0600",
+        "islive": false
+      },
+      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
+      "islive": true,
+      "title": "Ruta 40"
+    },
+    {
+      "firebasescreen": "Live-adn40-frenteafrente",
+      "firebase_tipo": "En vivo",
+      "private": "Frente a Frente",
+      "tipocontenido": "live",
+      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
+      "nombre_video": "adn40-frenteafrente",
+      "type": {
+        "value": "program"
+      },
+      "firebase_canal": "adn40",
+      "author": {
+        "name": ""
+      },
+      "summary": "Lolita de la Vega. Un foro donde los más destacados personajes de la política, la cultura y la vida nacional, dan a conocer la información más compleja y su punto de vista.",
+      "firebase_programa": "frenteafrente",
+      "programa": "frenteafrente",
+      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
+      "media_group": [
+        {
+          "meia_item": [
+            {
+              "key": "image_base",
+              "type": "image",
+              "src": "https://tvazteca.brightspotcdn.com/dims4/default/0b04b34/2147483647/strip/true/crop/4520x2543+0+1/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fprogram_schedule%2Fimg%2F1416_1.jpg"
+            }
+          ],
+          "type": "image"
+        }
+      ],
+      "firebase_screen": "Live-adn40-frenteafrente",
+      "videoaviso": "En vivo",
+      "id": "00000191-aa52-dd7a-a799-bf5ea8ad0000",
+      "content": {
+        "type": "video/hls",
+        "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
+        "videoAssetId": "60b578b060947317de7b57ac",
+        "src": "https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8"
+      },
+      "firebase_videoaviso": "En vivo",
+      "video": "adn40-frenteafrente",
+      "extensions": {
+        "applicaster_channel_id": "1039",
+        "end_time": "2024-08-31T23:30:00-0600",
+        "start_time": "2024-08-31T23:15:00-0600",
+        "islive": false
+      },
+      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
+      "islive": true,
+      "title": "Frente a Frente"
+    },
+    {
+      "firebasescreen": "Live-adn40-méxicobravo",
+      "firebase_tipo": "En vivo",
+      "private": "México Bravo",
+      "tipocontenido": "live",
+      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
+      "nombre_video": "adn40-méxicobravo",
+      "type": {
+        "value": "program"
+      },
+      "firebase_canal": "adn40",
+      "author": {
+        "name": ""
+      },
+      "summary": "'Un programa dedicado a la fiesta taurina, donde se nos revela un México para muchos desconocido, que se suma a la magia de sus vastas costumbres y tradiciones'",
+      "firebase_programa": "méxicobravo",
+      "programa": "méxicobravo",
+      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
+      "media_group": [
+        {
+          "meia_item": [
+            {
+              "key": "image_base",
+              "type": "image",
+              "src": "https://tvazteca.brightspotcdn.com/dims4/default/a82d721/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fprogram_schedule%2Fimg%2F5473_1.jpg"
+            }
+          ],
+          "type": "image"
+        }
+      ],
+      "firebase_screen": "Live-adn40-méxicobravo",
+      "videoaviso": "En vivo",
+      "id": "00000191-aa52-dd7a-a799-bf5ea8ae0000",
+      "content": {
+        "type": "video/hls",
+        "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
+        "videoAssetId": "60b578b060947317de7b57ac",
+        "src": "https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8"
+      },
+      "firebase_videoaviso": "En vivo",
+      "video": "adn40-méxicobravo",
+      "extensions": {
+        "applicaster_channel_id": "1039",
+        "end_time": "2024-09-01T00:00:00-0600",
+        "start_time": "2024-08-31T23:30:00-0600",
+        "islive": false
+      },
+      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
+      "islive": true,
+      "title": "México Bravo"
+    },
+    {
+      "firebasescreen": "Live-adn40-primercírculo",
+      "firebase_tipo": "En vivo",
+      "private": "Primer círculo",
+      "tipocontenido": "live",
+      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
+      "nombre_video": "adn40-primercírculo",
+      "type": {
+        "value": "program"
+      },
+      "firebase_canal": "adn40",
+      "author": {
+        "name": ""
+      },
+      "summary": "EL PENSAMIENTO, LAS IDEAS, LOS DEBATES Y LAS IDEOLOGÍAS DE LOS HOMBRES DEL PRIMER CÍRCULO DEL PODER POLÍTICO Y ECONÓMICO ANALIZADOS POR FEDERICO REYES HEROLES Y CARLOS ELIZONDO",
+      "firebase_programa": "primercírculo",
+      "programa": "primercírculo",
+      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
+      "media_group": [
+        {
+          "meia_item": [
+            {
+              "key": "image_base",
+              "type": "image",
+              "src": "https://tvazteca.brightspotcdn.com/dims4/default/8991070/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fprogram_schedule%2Fimg%2F87281_1.jpg"
+            }
+          ],
+          "type": "image"
+        }
+      ],
+      "firebase_screen": "Live-adn40-primercírculo",
+      "videoaviso": "En vivo",
+      "id": "00000191-aa52-dd7a-a799-bf5ea8af0000",
+      "content": {
+        "type": "video/hls",
+        "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
+        "videoAssetId": "60b578b060947317de7b57ac",
+        "src": "https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8"
+      },
+      "firebase_videoaviso": "En vivo",
+      "video": "adn40-primercírculo",
+      "extensions": {
+        "applicaster_channel_id": "1039",
+        "end_time": "2024-09-01T00:30:00-0600",
+        "start_time": "2024-09-01T00:02:00-0600",
+        "islive": false
+      },
+      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
+      "islive": true,
+      "title": "Primer círculo"
+    },
+    {
+      "firebasescreen": "Live-adn40-labilletera",
+      "firebase_tipo": "En vivo",
+      "private": "La Billetera",
+      "tipocontenido": "live",
+      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
+      "nombre_video": "adn40-labilletera",
+      "type": {
+        "value": "program"
+      },
+      "firebase_canal": "adn40",
+      "author": {
+        "name": ""
+      },
+      "summary": "LA ENTREVISTA CON LAS PERSONALIDADES MAS RELEVANTES DE LA ACTIVIDAD ECONÓMICA, FINANCIERA E INDUSTRIAL DEL PAÍS: FUNCIONARIOS PÚBLICOS, REPRESENTANTES EMPRESARIALES Y EXPERTOS DE NEGOCIOS SON LOS INVITADOS QUE SIN RODEOS NI RETORICAS EXPONEN LOS EVENTOS Q",
+      "firebase_programa": "labilletera",
+      "programa": "labilletera",
+      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
+      "media_group": [
+        {
+          "meia_item": [
+            {
+              "key": "image_base",
+              "type": "image",
+              "src": "https://tvazteca.brightspotcdn.com/dims4/default/afe464b/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fprogram_schedule%2Fimg%2F87323_1.jpg"
+            }
+          ],
+          "type": "image"
+        }
+      ],
+      "firebase_screen": "Live-adn40-labilletera",
+      "videoaviso": "En vivo",
+      "id": "00000191-aa52-dd7a-a799-bf5ea8b00000",
+      "content": {
+        "type": "video/hls",
+        "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
+        "videoAssetId": "60b578b060947317de7b57ac",
+        "src": "https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8"
+      },
+      "firebase_videoaviso": "En vivo",
+      "video": "adn40-labilletera",
+      "extensions": {
+        "applicaster_channel_id": "1039",
+        "end_time": "2024-09-01T00:45:00-0600",
+        "start_time": "2024-09-01T00:30:00-0600",
+        "islive": false
+      },
+      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
+      "islive": true,
+      "title": "La Billetera"
+    },
+    {
+      "firebasescreen": "Live-adn40-índiceeconómico",
+      "firebase_tipo": "En vivo",
+      "private": "Índice Económico",
+      "tipocontenido": "live",
+      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
+      "nombre_video": "adn40-índiceeconómico",
+      "type": {
+        "value": "program"
+      },
+      "firebase_canal": "adn40",
+      "author": {
+        "name": ""
+      },
+      "summary": "INDICE ECONÓMICO EL PROGRAMA DE ANÁLISIS CUYO EJE CENTRAL ES DESMENUZAR Y EXPLICARLE AL AUDITORIO LOS ACONTECIMIENTOS FINANCIEROS, DE NEGOCIOS Y FINANZAS QUE LE ESTÁN PEGANDO SU BOLSILLO.",
+      "firebase_programa": "índiceeconómico",
+      "programa": "índiceeconómico",
+      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
+      "media_group": [
+        {
+          "meia_item": [
+            {
+              "key": "image_base",
+              "type": "image",
+              "src": "https://tvazteca.brightspotcdn.com/dims4/default/e6e4b66/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fprogram_schedule%2Fimg%2F87305_1.jpg"
+            }
+          ],
+          "type": "image"
+        }
+      ],
+      "firebase_screen": "Live-adn40-índiceeconómico",
+      "videoaviso": "En vivo",
+      "id": "00000191-aa52-dd7a-a799-bf5ea8b10000",
+      "content": {
+        "type": "video/hls",
+        "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
+        "videoAssetId": "60b578b060947317de7b57ac",
+        "src": "https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8"
+      },
+      "firebase_videoaviso": "En vivo",
+      "video": "adn40-índiceeconómico",
+      "extensions": {
+        "applicaster_channel_id": "1039",
+        "end_time": "2024-09-01T01:00:00-0600",
+        "start_time": "2024-09-01T00:45:00-0600",
+        "islive": false
+      },
+      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
+      "islive": true,
+      "title": "Índice Económico"
+    },
+    {
+      "firebasescreen": "Live-adn40-adn40.mxconmaxespejel(domingo)",
+      "firebase_tipo": "En vivo",
+      "private": "Adn40.Mx Con Max Espejel (Domingo)",
+      "tipocontenido": "live",
+      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
+      "nombre_video": "adn40-adn40.mxconmaxespejel(domingo)",
+      "type": {
+        "value": "program"
+      },
+      "firebase_canal": "adn40",
+      "author": {
+        "name": ""
+      },
+      "summary": "Actualizacion informativa nacional e internacional del dia. Lo que esta siendo noticia con Max Espejel.",
+      "firebase_programa": "adn40.mxconmaxespejel(domingo)",
+      "programa": "adn40.mxconmaxespejel(domingo)",
+      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
+      "media_group": [
+        {
+          "meia_item": [
+            {
+              "key": "image_base",
+              "type": "image",
+              "src": "https://tvazteca.brightspotcdn.com/dims4/default/3d52531/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fprogram_schedule%2Fimg%2F184241_1.jpg"
+            }
+          ],
+          "type": "image"
+        }
+      ],
+      "firebase_screen": "Live-adn40-adn40.mxconmaxespejel(domingo)",
+      "videoaviso": "En vivo",
+      "id": "00000191-aa52-dd7a-a799-bf5ea8b20000",
+      "content": {
+        "type": "video/hls",
+        "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
+        "videoAssetId": "60b578b060947317de7b57ac",
+        "src": "https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8"
+      },
+      "firebase_videoaviso": "En vivo",
+      "video": "adn40-adn40.mxconmaxespejel(domingo)",
+      "extensions": {
+        "applicaster_channel_id": "1039",
+        "end_time": "2024-09-01T09:00:00-0600",
+        "start_time": "2024-09-01T08:00:00-0600",
+        "islive": false
+      },
+      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
+      "islive": true,
+      "title": "Adn40.Mx Con Max Espejel (Domingo)"
+    },
+    {
+      "firebasescreen": "Live-adn40-adn40.mxcontaniagómez(domingo)",
+      "firebase_tipo": "En vivo",
+      "private": "Adn40.Mx con Tania Gómez (Domingo)",
+      "tipocontenido": "live",
+      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
+      "nombre_video": "adn40-adn40.mxcontaniagómez(domingo)",
+      "type": {
+        "value": "program"
+      },
+      "firebase_canal": "adn40",
+      "author": {
+        "name": ""
+      },
+      "summary": "Actualización informativa nacional e internacional del día. Lo que está siendo noticia con Tania Gómez.",
+      "firebase_programa": "adn40.mxcontaniagómez(domingo)",
+      "programa": "adn40.mxcontaniagómez(domingo)",
+      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
+      "media_group": [
+        {
+          "meia_item": [
+            {
+              "key": "image_base",
+              "type": "image",
+              "src": "https://tvazteca.brightspotcdn.com/dims4/default/44e9c2d/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fprogram_schedule%2Fimg%2F191881_1.jpg"
+            }
+          ],
+          "type": "image"
+        }
+      ],
+      "firebase_screen": "Live-adn40-adn40.mxcontaniagómez(domingo)",
+      "videoaviso": "En vivo",
+      "id": "00000191-aa52-dd7a-a799-bf5ea8b30000",
+      "content": {
+        "type": "video/hls",
+        "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
+        "videoAssetId": "60b578b060947317de7b57ac",
+        "src": "https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8"
+      },
+      "firebase_videoaviso": "En vivo",
+      "video": "adn40-adn40.mxcontaniagómez(domingo)",
+      "extensions": {
+        "applicaster_channel_id": "1039",
+        "end_time": "2024-09-01T10:00:00-0600",
+        "start_time": "2024-09-01T09:00:00-0600",
+        "islive": false
+      },
+      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
+      "islive": true,
+      "title": "Adn40.Mx con Tania Gómez (Domingo)"
+    },
+    {
+      "firebasescreen": "Live-adn40-adnconmigoconmaxespejelytaniagómez(domingo)",
+      "firebase_tipo": "En vivo",
+      "private": "Adn Conmigo con Max Espejel Y Tania Gómez (Domingo)",
+      "tipocontenido": "live",
+      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
+      "nombre_video": "adn40-adnconmigoconmaxespejelytaniagómez(domingo)",
       "type": {
         "value": "program"
       },
@@ -2668,8 +2209,8 @@
         "name": ""
       },
       "summary": "Información, entretenimiento y cultura, llegan a ti, de la mano de Max Espejel y Tania Gómez.",
-      "firebase_programa": "adnconmigoconmaxespejelytaniagómez(sábado)",
-      "programa": "adnconmigoconmaxespejelytaniagómez(sábado)",
+      "firebase_programa": "adnconmigoconmaxespejelytaniagómez(domingo)",
+      "programa": "adnconmigoconmaxespejelytaniagómez(domingo)",
       "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
       "media_group": [
         {
@@ -2677,15 +2218,15 @@
             {
               "key": "image_base",
               "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/bba9873/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fprogram_schedule%2Fimg%2F191841_1.jpg"
+              "src": "https://tvazteca.brightspotcdn.com/dims4/default/20fd95f/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fprogram_schedule%2Fimg%2F191842_1.jpg"
             }
           ],
           "type": "image"
         }
       ],
-      "firebase_screen": "Live-adn40-adnconmigoconmaxespejelytaniagómez(sábado)",
+      "firebase_screen": "Live-adn40-adnconmigoconmaxespejelytaniagómez(domingo)",
       "videoaviso": "En vivo",
-      "id": "0000018d-fb5a-d600-a1bd-ffdb154c0000",
+      "id": "00000191-aa52-dd7a-a799-bf5ea8b40000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -2693,20 +2234,184 @@
         "src": "https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8"
       },
       "firebase_videoaviso": "En vivo",
-      "video": "adn40-adnconmigoconmaxespejelytaniagómez(sábado)",
+      "video": "adn40-adnconmigoconmaxespejelytaniagómez(domingo)",
       "extensions": {
         "applicaster_channel_id": "1039",
-        "end_time": "2024-03-02T12:00:00-0600",
-        "start_time": "2024-03-02T10:00:00-0600",
+        "end_time": "2024-09-01T12:00:00-0600",
+        "start_time": "2024-09-01T10:00:00-0600",
         "islive": false
       },
       "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
       "islive": true,
-      "title": "Adn Conmigo con Max Espejel Y Tania Gómez (Sábado)"
+      "title": "Adn Conmigo con Max Espejel Y Tania Gómez (Domingo)"
+    },
+    {
+      "firebasescreen": "Live-adn40-adn40.mxconcármensánchez",
+      "firebase_tipo": "En vivo",
+      "private": "ADN40.MX con Cármen Sánchez",
+      "tipocontenido": "live",
+      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
+      "nombre_video": "adn40-adn40.mxconcármensánchez",
+      "type": {
+        "value": "program"
+      },
+      "firebase_canal": "adn40",
+      "author": {
+        "name": ""
+      },
+      "summary": "Actualización informativa nacional e internacional del día. Lo que está siendo noticia con Cármen Sánchez.",
+      "firebase_programa": "adn40.mxconcármensánchez",
+      "programa": "adn40.mxconcármensánchez",
+      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
+      "media_group": [
+        {
+          "meia_item": [
+            {
+              "key": "image_base",
+              "type": "image",
+              "src": "https://tvazteca.brightspotcdn.com/dims4/default/4d18644/2147483647/strip/true/crop/2325x1308+4+0/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fprogram_schedule%2Fimg%2F200321_1.jpg"
+            }
+          ],
+          "type": "image"
+        }
+      ],
+      "firebase_screen": "Live-adn40-adn40.mxconcármensánchez",
+      "videoaviso": "En vivo",
+      "id": "00000191-aa52-dd7a-a799-bf5ea8b50000",
+      "content": {
+        "type": "video/hls",
+        "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
+        "videoAssetId": "60b578b060947317de7b57ac",
+        "src": "https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8"
+      },
+      "firebase_videoaviso": "En vivo",
+      "video": "adn40-adn40.mxconcármensánchez",
+      "extensions": {
+        "applicaster_channel_id": "1039",
+        "end_time": "2024-09-01T13:00:00-0600",
+        "start_time": "2024-09-01T12:00:00-0600",
+        "islive": false
+      },
+      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
+      "islive": true,
+      "title": "ADN40.MX con Cármen Sánchez"
+    },
+    {
+      "firebasescreen": "Live-adn40-adn40.mxcontaníagómezdomingo2",
+      "firebase_tipo": "En vivo",
+      "private": "ADN40.MX con Tanía Gómez Domingo 2",
+      "tipocontenido": "live",
+      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
+      "nombre_video": "adn40-adn40.mxcontaníagómezdomingo2",
+      "type": {
+        "value": "program"
+      },
+      "firebase_canal": "adn40",
+      "author": {
+        "name": ""
+      },
+      "summary": "Actualización informativa nacional e internacional del día. Lo que está siendo noticia con Tania Gómez.",
+      "firebase_programa": "adn40.mxcontaníagómezdomingo2",
+      "programa": "adn40.mxcontaníagómezdomingo2",
+      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
+      "media_group": [
+        {
+          "meia_item": [
+            {
+              "key": "image_base",
+              "type": "image",
+              "src": "https://tvazteca.brightspotcdn.com/dims4/default/61bd9e5/2147483647/strip/true/crop/2318x1304+13+0/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fprogram_schedule%2Fimg%2F197841_1.jpg"
+            }
+          ],
+          "type": "image"
+        }
+      ],
+      "firebase_screen": "Live-adn40-adn40.mxcontaníagómezdomingo2",
+      "videoaviso": "En vivo",
+      "id": "00000191-aa52-dd7a-a799-bf5ea8b60000",
+      "content": {
+        "type": "video/hls",
+        "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
+        "videoAssetId": "60b578b060947317de7b57ac",
+        "src": "https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8"
+      },
+      "firebase_videoaviso": "En vivo",
+      "video": "adn40-adn40.mxcontaníagómezdomingo2",
+      "extensions": {
+        "applicaster_channel_id": "1039",
+        "end_time": "2024-09-01T14:00:00-0600",
+        "start_time": "2024-09-01T13:00:00-0600",
+        "islive": false
+      },
+      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
+      "islive": true,
+      "title": "ADN40.MX con Tanía Gómez Domingo 2"
+    },
+    {
+      "firebasescreen": "Live-adn40-estendenciaconcármensánchez",
+      "firebase_tipo": "En vivo",
+      "private": "Es Tendencia con Cármen Sánchez",
+      "tipocontenido": "live",
+      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
+      "nombre_video": "adn40-estendenciaconcármensánchez",
+      "type": {
+        "value": "program"
+      },
+      "firebase_canal": "adn40",
+      "author": {
+        "name": ""
+      },
+      "summary": "Las noticias que son o serán tendencia en la agenda informativa. Una presentación y análisis de los hechos y personajes más importantes del ámbito nacional e internacional.",
+      "firebase_programa": "estendenciaconcármensánchez",
+      "programa": "estendenciaconcármensánchez",
+      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
+      "media_group": [
+        {
+          "meia_item": [
+            {
+              "key": "image_base",
+              "type": "image",
+              "src": "https://tvazteca.brightspotcdn.com/dims4/default/d429316/2147483647/strip/true/crop/2606x1466+11+0/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fprogram_schedule%2Fimg%2F200304_1.jpg"
+            }
+          ],
+          "type": "image"
+        }
+      ],
+      "firebase_screen": "Live-adn40-estendenciaconcármensánchez",
+      "videoaviso": "En vivo",
+      "id": "00000191-aa52-dd7a-a799-bf5ea8b70000",
+      "content": {
+        "type": "video/hls",
+        "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
+        "videoAssetId": "60b578b060947317de7b57ac",
+        "src": "https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8"
+      },
+      "firebase_videoaviso": "En vivo",
+      "video": "adn40-estendenciaconcármensánchez",
+      "extensions": {
+        "applicaster_channel_id": "1039",
+        "end_time": "2024-09-01T15:00:00-0600",
+        "start_time": "2024-09-01T14:00:00-0600",
+        "islive": false
+      },
+      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
+      "islive": true,
+      "title": "Es Tendencia con Cármen Sánchez"
     }
   ],
   "extensions": {
     "channels": [
+      {
+        "private": "1",
+        "nolive": {
+          "titulo": "Programa disponible",
+          "subtitulo": "Solo por TV"
+        },
+        "name": "La Academia",
+        "logo": "https://tvazteca.brightspotcdn.com/dims4/default/204e063/2147483647/strip/true/crop/512x341+0+85/resize/300x200!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fb6%2Fd2%2F2b0ce15f42d48848c93da0dbcae3%2Flogo-la-academia-247-live-switcher-512x512.png",
+        "privateCfg": "https://www.tvazteca.com/envivo2020/login-login-vivo-con-salto.json",
+        "id": "10390"
+      },
       {
         "private": "1",
         "nolive": {
