@@ -32,7 +32,7 @@
       ],
       "firebase_screen": "Live-laacademia-laacademia24/7",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd705840000",
+      "id": "00000191-b42c-d52f-abb9-b56d6d230000",
       "content": {
         "type": "video/hls",
         "assetkey": "63uk0HUfSamSohP10qpuZw",
@@ -51,58 +51,6 @@
       "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/APP-Envivo-2020/envivo/EnVivo-LaAcademia&description_url=https://www.tvazteca.com/aztecauno/la-academia-2024/24-7-en-vivo&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
       "islive": true,
       "title": "La Academia 24/7"
-    },
-    {
-      "firebasescreen": "Live-aztecauno-vengalaalegría",
-      "firebase_tipo": "En vivo",
-      "private": "Venga La Alegría",
-      "tipocontenido": "live",
-      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno",
-      "nombre_video": "aztecauno-vengalaalegría",
-      "type": {
-        "value": "program"
-      },
-      "firebase_canal": "aztecauno",
-      "author": {
-        "name": ""
-      },
-      "summary": "Tu compañía cada mañana, de lunes a viernes a partir de las 8:55 a.m., por Azteca Uno. Toda la familia de VLA te espera. ¡En Venga la Alegría es tiempo de la diversión! ",
-      "firebase_programa": "vengalaalegría",
-      "programa": "vengalaalegría",
-      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno",
-      "media_group": [
-        {
-          "meia_item": [
-            {
-              "key": "image_base",
-              "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/615b188/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fe4%2F38%2Fb10d76b848889c972b1265bcfb3e%2Fdiseno-sin-titulo.jpg"
-            }
-          ],
-          "type": "image"
-        }
-      ],
-      "firebase_screen": "Live-aztecauno-vengalaalegría",
-      "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd705d60000",
-      "content": {
-        "type": "video/hls",
-        "assetkey": "ZiyeO1LFRfG1k2-GZ5TgEg",
-        "videoAssetId": "609b243156cca108312822a6",
-        "src": "https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8", 
-        "activateGeoblocking": "true"
-      },
-      "firebase_videoaviso": "En vivo",
-      "video": "aztecauno-vengalaalegría",
-      "extensions": {
-        "applicaster_channel_id": "1038",
-        "end_time": "2024-09-02T13:00:00-0600",
-        "start_time": "2024-09-02T08:55:00-0600",
-        "islive": true
-      },
-      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno&description_url=https://www.tvazteca.com/aztecauno/venga-la-alegria/envivo&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
-      "islive": true,
-      "title": "Venga La Alegría"
     },
     {
       "firebasescreen": "Live-aztecauno-ventaneando",
@@ -136,12 +84,13 @@
       ],
       "firebase_screen": "Live-aztecauno-ventaneando",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd705d80000",
+      "id": "00000191-b42c-d52f-abb9-b56d6d760000",
       "content": {
         "type": "video/hls",
         "assetkey": "ZiyeO1LFRfG1k2-GZ5TgEg",
         "videoAssetId": "609b243156cca108312822a6",
-        "src": "https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8"
+        "src": "https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8",
+        "activateGeoblocking": "true"
       },
       "firebase_videoaviso": "En vivo",
       "video": "aztecauno-ventaneando",
@@ -149,9 +98,9 @@
         "applicaster_channel_id": "1038",
         "end_time": "2024-09-02T14:00:00-0600",
         "start_time": "2024-09-02T13:00:00-0600",
-        "islive": false
+        "islive": true
       },
-      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
+      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno&description_url=https://www.tvazteca.com/aztecauno/ventaneando/envivo&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
       "islive": true,
       "title": "Ventaneando"
     },
@@ -187,7 +136,7 @@
       ],
       "firebase_screen": "Live-aztecauno-hechosmeridiano",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd705d80001",
+      "id": "00000191-b42c-d52f-abb9-b56d6d770000",
       "content": {
         "type": "video/hls",
         "assetkey": "ZyR7aLo4Rom-9KzwcLCoNg",
@@ -238,7 +187,7 @@
       ],
       "firebase_screen": "Live-aztecauno-100mexicanos",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd705d90000",
+      "id": "00000191-b42c-d52f-abb9-b56d6d780000",
       "content": {
         "type": "video/hls",
         "assetkey": "ZiyeO1LFRfG1k2-GZ5TgEg",
@@ -289,7 +238,7 @@
       ],
       "firebase_screen": "Live-aztecauno-alextremo",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd705d90001",
+      "id": "00000191-b42c-d52f-abb9-b56d6d780001",
       "content": {
         "type": "video/hls",
         "assetkey": "ZiyeO1LFRfG1k2-GZ5TgEg",
@@ -340,7 +289,7 @@
       ],
       "firebase_screen": "Live-aztecauno-acércatearocío",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd705d90002",
+      "id": "00000191-b42c-d52f-abb9-b56d6d780002",
       "content": {
         "type": "video/hls",
         "assetkey": "ZiyeO1LFRfG1k2-GZ5TgEg",
@@ -391,7 +340,7 @@
       ],
       "firebase_screen": "Live-aztecauno-acércatearocío:lasmejoreshistorias",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd705d90003",
+      "id": "00000191-b42c-d52f-abb9-b56d6d780003",
       "content": {
         "type": "video/hls",
         "assetkey": "ZiyeO1LFRfG1k2-GZ5TgEg",
@@ -442,7 +391,7 @@
       ],
       "firebase_screen": "Live-aztecauno-laisla:desafíogreciayturquía",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd705d90004",
+      "id": "00000191-b42c-d52f-abb9-b56d6d780004",
       "content": {
         "type": "video/hls",
         "assetkey": "ZiyeO1LFRfG1k2-GZ5TgEg",
@@ -493,7 +442,7 @@
       ],
       "firebase_screen": "Live-aztecauno-hechosconjavieralatorre",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd705d90005",
+      "id": "00000191-b42c-d52f-abb9-b56d6d780005",
       "content": {
         "type": "video/hls",
         "assetkey": "ZyR7aLo4Rom-9KzwcLCoNg",
@@ -544,7 +493,7 @@
       ],
       "firebase_screen": "Live-aztecauno-losprotagonistas",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd705d90006",
+      "id": "00000191-b42c-d52f-abb9-b56d6d780006",
       "content": {
         "type": "video/hls",
         "assetkey": "2fbVlME-Q9qJ_5TdUYsW2A",
@@ -595,7 +544,7 @@
       ],
       "firebase_screen": "Live-aztecauno-primeralínea",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd705da0000",
+      "id": "00000191-b42c-d52f-abb9-b56d6d790000",
       "content": {
         "type": "video/hls",
         "assetkey": "ZyR7aLo4Rom-9KzwcLCoNg",
@@ -646,7 +595,7 @@
       ],
       "firebase_screen": "Live-aztecauno-hechosam",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd705da0001",
+      "id": "00000191-b42c-d52f-abb9-b56d6d790001",
       "content": {
         "type": "video/hls",
         "assetkey": "ZyR7aLo4Rom-9KzwcLCoNg",
@@ -697,7 +646,7 @@
       ],
       "firebase_screen": "Live-aztecauno-nosotros,ustedesyhechos",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd705da0002",
+      "id": "00000191-b42c-d52f-abb9-b56d6d790002",
       "content": {
         "type": "video/hls",
         "assetkey": "ZyR7aLo4Rom-9KzwcLCoNg",
@@ -717,55 +666,55 @@
       "title": "Nosotros, ustedes y hechos"
     },
     {
-      "firebasescreen": "Live-azteca7-babylooneytunes",
+      "firebasescreen": "Live-aztecauno-vengalaalegría",
       "firebase_tipo": "En vivo",
-      "private": "Baby Looney Tunes",
+      "private": "Venga La Alegría",
       "tipocontenido": "live",
-      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-7",
-      "nombre_video": "azteca7-babylooneytunes",
+      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno",
+      "nombre_video": "aztecauno-vengalaalegría",
       "type": {
         "value": "program"
       },
-      "firebase_canal": "azteca7",
+      "firebase_canal": "aztecauno",
       "author": {
         "name": ""
       },
-      "summary": "¡Disfruta de los personajes más divertidos por Kids 7! El canal correcto también tiene barra para los más pequeños, no te pierdas mi programación diaria.",
-      "firebase_programa": "babylooneytunes",
-      "programa": "babylooneytunes",
-      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-7",
+      "summary": "Tu compañía cada mañana, de lunes a viernes a partir de las 8:55 a.m., por Azteca Uno. Toda la familia de VLA te espera. ¡En Venga la Alegría es tiempo de la diversión! ",
+      "firebase_programa": "vengalaalegría",
+      "programa": "vengalaalegría",
+      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno",
       "media_group": [
         {
           "meia_item": [
             {
               "key": "image_base",
               "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/fb576a0/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F04%2F3e%2F8d74933947e297272b569c92bf18%2Fportadas-a7-y-a-1.jpg"
+              "src": "https://tvazteca.brightspotcdn.com/dims4/default/615b188/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fe4%2F38%2Fb10d76b848889c972b1265bcfb3e%2Fdiseno-sin-titulo.jpg"
             }
           ],
           "type": "image"
         }
       ],
-      "firebase_screen": "Live-azteca7-babylooneytunes",
+      "firebase_screen": "Live-aztecauno-vengalaalegría",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd706010000",
+      "id": "00000191-b42c-d52f-abb9-b56d6d790003",
       "content": {
         "type": "video/hls",
-        "assetkey": "YHoOj51dSKCvBQOBG2OvLQ",
-        "videoAssetId": "609ad46a7a441137107d7a81",
-        "src": "https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8"
+        "assetkey": "ZiyeO1LFRfG1k2-GZ5TgEg",
+        "videoAssetId": "609b243156cca108312822a6",
+        "src": "https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8"
       },
       "firebase_videoaviso": "En vivo",
-      "video": "azteca7-babylooneytunes",
+      "video": "aztecauno-vengalaalegría",
       "extensions": {
-        "applicaster_channel_id": "1037",
-        "end_time": "2024-09-02T12:00:00-0600",
-        "start_time": "2024-09-02T10:30:00-0600",
-        "islive": true
+        "applicaster_channel_id": "1038",
+        "end_time": "2024-09-03T13:00:00-0600",
+        "start_time": "2024-09-03T08:55:00-0600",
+        "islive": false
       },
-      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-7&description_url=https://www.tvazteca.com/azteca7/kidsiete/envivo&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
+      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
       "islive": true,
-      "title": "Baby Looney Tunes"
+      "title": "Venga La Alegría"
     },
     {
       "firebasescreen": "Live-azteca7-lasaventurasdesilvestreypiolín",
@@ -799,7 +748,7 @@
       ],
       "firebase_screen": "Live-azteca7-lasaventurasdesilvestreypiolín",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd706020000",
+      "id": "00000191-b42c-d52f-abb9-b56d6d9d0000",
       "content": {
         "type": "video/hls",
         "assetkey": "YHoOj51dSKCvBQOBG2OvLQ",
@@ -812,9 +761,9 @@
         "applicaster_channel_id": "1037",
         "end_time": "2024-09-02T13:30:00-0600",
         "start_time": "2024-09-02T12:00:00-0600",
-        "islive": false
+        "islive": true
       },
-      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-7&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
+      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-7&description_url=https://www.tvazteca.com/azteca7/kidsiete/envivo&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
       "islive": true,
       "title": "Las Aventuras de Silvestre y Piolín"
     },
@@ -850,7 +799,7 @@
       ],
       "firebase_screen": "Live-azteca7-laschicassuperpoderosas",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd706020001",
+      "id": "00000191-b42c-d52f-abb9-b56d6d9e0000",
       "content": {
         "type": "video/hls",
         "assetkey": "YHoOj51dSKCvBQOBG2OvLQ",
@@ -901,7 +850,7 @@
       ],
       "firebase_screen": "Live-azteca7-elshowdeloslooneytunes",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd706020002",
+      "id": "00000191-b42c-d52f-abb9-b56d6d9e0001",
       "content": {
         "type": "video/hls",
         "assetkey": "YHoOj51dSKCvBQOBG2OvLQ",
@@ -952,7 +901,7 @@
       ],
       "firebase_screen": "Live-azteca7-triunfosrobados",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd706020003",
+      "id": "00000191-b42c-d52f-abb9-b56d6d9e0002",
       "content": {
         "type": "video/hls",
         "assetkey": "YHoOj51dSKCvBQOBG2OvLQ",
@@ -1003,7 +952,7 @@
       ],
       "firebase_screen": "Live-azteca7-lossimpson",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd706030000",
+      "id": "00000191-b42c-d52f-abb9-b56d6d9f0000",
       "content": {
         "type": "video/hls",
         "assetkey": "YHoOj51dSKCvBQOBG2OvLQ",
@@ -1054,7 +1003,7 @@
       ],
       "firebase_screen": "Live-azteca7-malcolmeldeenmedio",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd706030001",
+      "id": "00000191-b42c-d52f-abb9-b56d6d9f0001",
       "content": {
         "type": "video/hls",
         "assetkey": "YHoOj51dSKCvBQOBG2OvLQ",
@@ -1105,7 +1054,7 @@
       ],
       "firebase_screen": "Live-azteca7-undíaparavivir",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd706030002",
+      "id": "00000191-b42c-d52f-abb9-b56d6d9f0002",
       "content": {
         "type": "video/hls",
         "assetkey": "YHoOj51dSKCvBQOBG2OvLQ",
@@ -1156,7 +1105,7 @@
       ],
       "firebase_screen": "Live-azteca7-laacademia:caminoalafama",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd706030003",
+      "id": "00000191-b42c-d52f-abb9-b56d6d9f0003",
       "content": {
         "type": "video/hls",
         "assetkey": "YHoOj51dSKCvBQOBG2OvLQ",
@@ -1207,7 +1156,7 @@
       ],
       "firebase_screen": "Live-azteca7-kid-e-cats",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd706030004",
+      "id": "00000191-b42c-d52f-abb9-b56d6d9f0004",
       "content": {
         "type": "video/hls",
         "assetkey": "YHoOj51dSKCvBQOBG2OvLQ",
@@ -1258,7 +1207,7 @@
       ],
       "firebase_screen": "Live-azteca7-pocoyo",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd706030005",
+      "id": "00000191-b42c-d52f-abb9-b56d6d9f0005",
       "content": {
         "type": "video/hls",
         "assetkey": "YHoOj51dSKCvBQOBG2OvLQ",
@@ -1309,7 +1258,7 @@
       ],
       "firebase_screen": "Live-azteca7-gigantosaurus",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd706030006",
+      "id": "00000191-b42c-d52f-abb9-b56d6d9f0006",
       "content": {
         "type": "video/hls",
         "assetkey": "YHoOj51dSKCvBQOBG2OvLQ",
@@ -1360,7 +1309,7 @@
       ],
       "firebase_screen": "Live-azteca7-mashayeloso",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd706030007",
+      "id": "00000191-b42c-d52f-abb9-b56d6d9f0007",
       "content": {
         "type": "video/hls",
         "assetkey": "YHoOj51dSKCvBQOBG2OvLQ",
@@ -1411,7 +1360,7 @@
       ],
       "firebase_screen": "Live-azteca7-bluey",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd706030008",
+      "id": "00000191-b42c-d52f-abb9-b56d6d9f0008",
       "content": {
         "type": "video/hls",
         "assetkey": "YHoOj51dSKCvBQOBG2OvLQ",
@@ -1462,7 +1411,7 @@
       ],
       "firebase_screen": "Live-azteca7-legofriends:chicasenunamisión",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd706030009",
+      "id": "00000191-b42c-d52f-abb9-b56d6d9f0009",
       "content": {
         "type": "video/hls",
         "assetkey": "YHoOj51dSKCvBQOBG2OvLQ",
@@ -1513,7 +1462,7 @@
       ],
       "firebase_screen": "Live-azteca7-winxclub",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd70603000a",
+      "id": "00000191-b42c-d52f-abb9-b56d6d9f000a",
       "content": {
         "type": "video/hls",
         "assetkey": "YHoOj51dSKCvBQOBG2OvLQ",
@@ -1533,55 +1482,55 @@
       "title": "Winx Club"
     },
     {
-      "firebasescreen": "Live-amás+-lavidaenelespejo",
+      "firebasescreen": "Live-azteca7-babylooneytunes",
       "firebase_tipo": "En vivo",
-      "private": "La Vida en el Espejo",
+      "private": "Baby Looney Tunes",
       "tipocontenido": "live",
-      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Amas-TV",
-      "nombre_video": "amás+-lavidaenelespejo",
+      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-7",
+      "nombre_video": "azteca7-babylooneytunes",
       "type": {
         "value": "program"
       },
-      "firebase_canal": "amás+",
+      "firebase_canal": "azteca7",
       "author": {
         "name": ""
       },
-      "summary": "Disfruta de las series y telenovelas más intrigantes de la televisión, solamente por la programación de a más.",
-      "firebase_programa": "lavidaenelespejo",
-      "programa": "lavidaenelespejo",
-      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Amas-TV",
+      "summary": "¡Disfruta de los personajes más divertidos por Kids 7! El canal correcto también tiene barra para los más pequeños, no te pierdas mi programación diaria.",
+      "firebase_programa": "babylooneytunes",
+      "programa": "babylooneytunes",
+      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-7",
       "media_group": [
         {
           "meia_item": [
             {
               "key": "image_base",
               "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/b078cea/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fb1%2F1b%2Fbdbf5e9c4d458206e577a8c8076c%2Fla-vida-en-el-espejo.jpg"
+              "src": "https://tvazteca.brightspotcdn.com/dims4/default/fb576a0/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F04%2F3e%2F8d74933947e297272b569c92bf18%2Fportadas-a7-y-a-1.jpg"
             }
           ],
           "type": "image"
         }
       ],
-      "firebase_screen": "Live-amás+-lavidaenelespejo",
+      "firebase_screen": "Live-azteca7-babylooneytunes",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd706260000",
+      "id": "00000191-b42c-d52f-abb9-b56d6d9f000b",
       "content": {
         "type": "video/hls",
-        "assetkey": "SJysMl45QMSwjo0TodSk1Q",
-        "videoAssetId": "60b56be1000ea50835fa1e63",
-        "src": "https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8"
+        "assetkey": "YHoOj51dSKCvBQOBG2OvLQ",
+        "videoAssetId": "609ad46a7a441137107d7a81",
+        "src": "https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8"
       },
       "firebase_videoaviso": "En vivo",
-      "video": "amás+-lavidaenelespejo",
+      "video": "azteca7-babylooneytunes",
       "extensions": {
-        "applicaster_channel_id": "1040",
-        "end_time": "2024-09-02T12:30:00-0600",
-        "start_time": "2024-09-02T10:30:00-0600",
-        "islive": true
+        "applicaster_channel_id": "1037",
+        "end_time": "2024-09-03T12:00:00-0600",
+        "start_time": "2024-09-03T10:30:00-0600",
+        "islive": false
       },
-      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Amas-TV&description_url=https://www.tvazteca.com/amastv/series-y-novelas/envivo&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
+      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-7&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
       "islive": true,
-      "title": "La Vida en el Espejo"
+      "title": "Baby Looney Tunes"
     },
     {
       "firebasescreen": "Live-amás+-gutierritos",
@@ -1615,7 +1564,7 @@
       ],
       "firebase_screen": "Live-amás+-gutierritos",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd706280000",
+      "id": "00000191-b42c-d52f-abb9-b56d6dc50000",
       "content": {
         "type": "video/hls",
         "assetkey": "SJysMl45QMSwjo0TodSk1Q",
@@ -1628,9 +1577,9 @@
         "applicaster_channel_id": "1040",
         "end_time": "2024-09-02T14:15:00-0600",
         "start_time": "2024-09-02T12:30:00-0600",
-        "islive": false
+        "islive": true
       },
-      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Amas-TV&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
+      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Amas-TV&description_url=https://www.tvazteca.com/cine/envivo&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
       "islive": true,
       "title": "Gutierritos"
     },
@@ -1666,7 +1615,7 @@
       ],
       "firebase_screen": "Live-amás+-fierecilla",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd706280001",
+      "id": "00000191-b42c-d52f-abb9-b56d6dc60000",
       "content": {
         "type": "video/hls",
         "assetkey": "SJysMl45QMSwjo0TodSk1Q",
@@ -1717,7 +1666,7 @@
       ],
       "firebase_screen": "Live-amás+-acadaquiensusanto",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd706280002",
+      "id": "00000191-b42c-d52f-abb9-b56d6dc70000",
       "content": {
         "type": "video/hls",
         "assetkey": "SJysMl45QMSwjo0TodSk1Q",
@@ -1768,7 +1717,7 @@
       ],
       "firebase_screen": "Live-amás+-panchopistolas2",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd706280003",
+      "id": "00000191-b42c-d52f-abb9-b56d6dc70001",
       "content": {
         "type": "video/hls",
         "assetkey": "SJysMl45QMSwjo0TodSk1Q",
@@ -1819,7 +1768,7 @@
       ],
       "firebase_screen": "Live-amás+-elángeldelsilencio",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd706280004",
+      "id": "00000191-b42c-d52f-abb9-b56d6dc70002",
       "content": {
         "type": "video/hls",
         "assetkey": "SJysMl45QMSwjo0TodSk1Q",
@@ -1870,7 +1819,7 @@
       ],
       "firebase_screen": "Live-amás+-ahoramásnoticias",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd706280005",
+      "id": "00000191-b42c-d52f-abb9-b56d6dc70003",
       "content": {
         "type": "video/hls",
         "assetkey": "SJysMl45QMSwjo0TodSk1Q",
@@ -1921,7 +1870,7 @@
       ],
       "firebase_screen": "Live-amás+-labandida",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd706280006",
+      "id": "00000191-b42c-d52f-abb9-b56d6dc70004",
       "content": {
         "type": "video/hls",
         "assetkey": "SJysMl45QMSwjo0TodSk1Q",
@@ -1972,7 +1921,7 @@
       ],
       "firebase_screen": "Live-amás+-infieles",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd706280007",
+      "id": "00000191-b42c-d52f-abb9-b56d6dc70005",
       "content": {
         "type": "video/hls",
         "assetkey": "SJysMl45QMSwjo0TodSk1Q",
@@ -2023,7 +1972,7 @@
       ],
       "firebase_screen": "Live-amás+-ruletacodere",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd706290000",
+      "id": "00000191-b42c-d52f-abb9-b56d6dc70006",
       "content": {
         "type": "video/hls",
         "assetkey": "SJysMl45QMSwjo0TodSk1Q",
@@ -2043,106 +1992,55 @@
       "title": "Ruleta Codere"
     },
     {
-      "firebasescreen": "Live-adn40-adnconmigoconjuanpablodeleoyvaitiaremateos",
+      "firebasescreen": "Live-amás+-lavidaenelespejo",
       "firebase_tipo": "En vivo",
-      "private": "Adn Conmigo con Juan Pablo de Leo y Vaitiare Mateos",
+      "private": "La Vida en el Espejo",
       "tipocontenido": "live",
-      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
-      "nombre_video": "adn40-adnconmigoconjuanpablodeleoyvaitiaremateos",
+      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Amas-TV",
+      "nombre_video": "amás+-lavidaenelespejo",
       "type": {
         "value": "program"
       },
-      "firebase_canal": "adn40",
+      "firebase_canal": "amás+",
       "author": {
         "name": ""
       },
-      "summary": "Revista informativa que desarrolla, analiza y opina sobre los temas más relevantes de la agenda, además de llevar en tiempo real la cobertura informativa del día.",
-      "firebase_programa": "adnconmigoconjuanpablodeleoyvaitiaremateos",
-      "programa": "adnconmigoconjuanpablodeleoyvaitiaremateos",
-      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
+      "summary": "Disfruta de las series y telenovelas más intrigantes de la televisión, solamente por la programación de a más.",
+      "firebase_programa": "lavidaenelespejo",
+      "programa": "lavidaenelespejo",
+      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Amas-TV",
       "media_group": [
         {
           "meia_item": [
             {
               "key": "image_base",
               "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/349ba30/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fprogram_schedule%2Fimg%2F173541_1.jpg"
+              "src": "https://tvazteca.brightspotcdn.com/dims4/default/b078cea/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fb1%2F1b%2Fbdbf5e9c4d458206e577a8c8076c%2Fla-vida-en-el-espejo.jpg"
             }
           ],
           "type": "image"
         }
       ],
-      "firebase_screen": "Live-adn40-adnconmigoconjuanpablodeleoyvaitiaremateos",
+      "firebase_screen": "Live-amás+-lavidaenelespejo",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd706420000",
+      "id": "00000191-b42c-d52f-abb9-b56d6dc70007",
       "content": {
         "type": "video/hls",
-        "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
-        "videoAssetId": "60b578b060947317de7b57ac",
-        "src": "https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8"
+        "assetkey": "SJysMl45QMSwjo0TodSk1Q",
+        "videoAssetId": "60b56be1000ea50835fa1e63",
+        "src": "https://dai.google.com/linear/hls/event/SJysMl45QMSwjo0TodSk1Q/master.m3u8"
       },
       "firebase_videoaviso": "En vivo",
-      "video": "adn40-adnconmigoconjuanpablodeleoyvaitiaremateos",
+      "video": "amás+-lavidaenelespejo",
       "extensions": {
-        "applicaster_channel_id": "1039",
-        "end_time": "2024-09-02T12:00:00-0600",
-        "start_time": "2024-09-02T10:00:00-0600",
-        "islive": true
-      },
-      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40&description_url=https://www.tvazteca.com/superapp/adn-conmigo-con-juan-pablo-de-leo-y-vaitiare-mateos/envivo&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
-      "islive": true,
-      "title": "Adn Conmigo con Juan Pablo de Leo y Vaitiare Mateos"
-    },
-    {
-      "firebasescreen": "Live-adn40-méxicoentiemporealconsarahíuribe",
-      "firebase_tipo": "En vivo",
-      "private": "México en Tiempo Real con Sarahí Uribe",
-      "tipocontenido": "live",
-      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
-      "nombre_video": "adn40-méxicoentiemporealconsarahíuribe",
-      "type": {
-        "value": "program"
-      },
-      "firebase_canal": "adn40",
-      "author": {
-        "name": ""
-      },
-      "summary": "Toda la Información de la república mexicana en tiempo real",
-      "firebase_programa": "méxicoentiemporealconsarahíuribe",
-      "programa": "méxicoentiemporealconsarahíuribe",
-      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
-      "media_group": [
-        {
-          "meia_item": [
-            {
-              "key": "image_base",
-              "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/cb076e8/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fprogram_schedule%2Fimg%2F173542_1.jpg"
-            }
-          ],
-          "type": "image"
-        }
-      ],
-      "firebase_screen": "Live-adn40-méxicoentiemporealconsarahíuribe",
-      "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd706440000",
-      "content": {
-        "type": "video/hls",
-        "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
-        "videoAssetId": "60b578b060947317de7b57ac",
-        "src": "https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8"
-      },
-      "firebase_videoaviso": "En vivo",
-      "video": "adn40-méxicoentiemporealconsarahíuribe",
-      "extensions": {
-        "applicaster_channel_id": "1039",
-        "end_time": "2024-09-02T13:00:00-0600",
-        "start_time": "2024-09-02T12:00:00-0600",
+        "applicaster_channel_id": "1040",
+        "end_time": "2024-09-03T12:30:00-0600",
+        "start_time": "2024-09-03T10:30:00-0600",
         "islive": false
       },
-      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
+      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Amas-TV&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
       "islive": true,
-      "title": "México en Tiempo Real con Sarahí Uribe"
+      "title": "La Vida en el Espejo"
     },
     {
       "firebasescreen": "Live-adn40-adn40.mxconrominaramosycármensánchez",
@@ -2176,7 +2074,7 @@
       ],
       "firebase_screen": "Live-adn40-adn40.mxconrominaramosycármensánchez",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd706450000",
+      "id": "00000191-b42c-d52f-abb9-b56d6de90000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -2189,9 +2087,9 @@
         "applicaster_channel_id": "1039",
         "end_time": "2024-09-02T14:00:00-0600",
         "start_time": "2024-09-02T13:00:00-0600",
-        "islive": false
+        "islive": true
       },
-      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
+      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40&description_url=https://www.adn40.mx&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
       "islive": true,
       "title": "Adn40.mx con Romina Ramos y Cármen Sánchez"
     },
@@ -2227,7 +2125,7 @@
       ],
       "firebase_screen": "Live-adn40-aquiencorrespondaconjorgegarralda",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd706460000",
+      "id": "00000191-b42c-d52f-abb9-b56d6dea0000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -2278,7 +2176,7 @@
       ],
       "firebase_screen": "Live-adn40-esnegocioconcarlosmota",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd706470000",
+      "id": "00000191-b42c-d52f-abb9-b56d6deb0000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -2329,7 +2227,7 @@
       ],
       "firebase_screen": "Live-adn40-estendenciaconjoséluismorayalejandramolina",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd706480000",
+      "id": "00000191-b42c-d52f-abb9-b56d6dec0000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -2380,7 +2278,7 @@
       ],
       "firebase_screen": "Live-adn40-cotorreandolanoticiaconjuanlecandayleoarriaga",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd706490000",
+      "id": "00000191-b42c-d52f-abb9-b56d6dee0000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -2431,7 +2329,7 @@
       ],
       "firebase_screen": "Live-adn40-ruletainformativa",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd7064a0000",
+      "id": "00000191-b42c-d52f-abb9-b56d6def0000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -2482,7 +2380,7 @@
       ],
       "firebase_screen": "Live-adn40-adn40.mxconalejandrobrofftylucianawainer",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd7064b0000",
+      "id": "00000191-b42c-d52f-abb9-b56d6df00000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -2533,7 +2431,7 @@
       ],
       "firebase_screen": "Live-adn40-tuciudadentiemporealconjuanmanueljiménez",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd7064c0000",
+      "id": "00000191-b42c-d52f-abb9-b56d6df00001",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -2584,7 +2482,7 @@
       ],
       "firebase_screen": "Live-adn40-ciudaddesnudaconyunuecuevasymaradurón",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd7064d0000",
+      "id": "00000191-b42c-d52f-abb9-b56d6df10000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -2635,7 +2533,7 @@
       ],
       "firebase_screen": "Live-adn40-red360conlucybravo",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd7064d0001",
+      "id": "00000191-b42c-d52f-abb9-b56d6df20000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -2686,7 +2584,7 @@
       ],
       "firebase_screen": "Live-adn40-esnoticiaconhannianovell",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd7064e0000",
+      "id": "00000191-b42c-d52f-abb9-b56d6df30000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -2737,7 +2635,7 @@
       ],
       "firebase_screen": "Live-adn40-noticiasrepúblicamx",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd7064f0000",
+      "id": "00000191-b42c-d52f-abb9-b56d6df40000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -2788,7 +2686,7 @@
       ],
       "firebase_screen": "Live-adn40-mesarepúblicamx",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd706500000",
+      "id": "00000191-b42c-d52f-abb9-b56d6df50000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -2839,7 +2737,7 @@
       ],
       "firebase_screen": "Live-adn40-todopersonal",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd706510000",
+      "id": "00000191-b42c-d52f-abb9-b56d6df60000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -2890,7 +2788,7 @@
       ],
       "firebase_screen": "Live-adn40-súbetealmameconcarlostrilloymarcelalecuona",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd706520000",
+      "id": "00000191-b42c-d52f-abb9-b56d6df70000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -2941,7 +2839,7 @@
       ],
       "firebase_screen": "Live-adn40-primercírculo",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd706530000",
+      "id": "00000191-b42c-d52f-abb9-b56d6df80000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -2992,7 +2890,7 @@
       ],
       "firebase_screen": "Live-adn40-noticiasparadespertarconvalentinarodríguezyviridianahernández",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd706540000",
+      "id": "00000191-b42c-d52f-abb9-b56d6df90000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -3043,7 +2941,7 @@
       ],
       "firebase_screen": "Live-adn40-noticiasparadespertarconvalentinarodríguezyviridianahernández",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd706550000",
+      "id": "00000191-b42c-d52f-abb9-b56d6dfa0000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -3094,7 +2992,7 @@
       ],
       "firebase_screen": "Live-adn40-tuciudadentiemporealconviridianahernández",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd706560000",
+      "id": "00000191-b42c-d52f-abb9-b56d6dfb0000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -3145,7 +3043,7 @@
       ],
       "firebase_screen": "Live-adn40-asíamanececonleonardocurzio",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd706570000",
+      "id": "00000191-b42c-d52f-abb9-b56d6dfc0000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -3196,7 +3094,7 @@
       ],
       "firebase_screen": "Live-adn40-noticiasarasdetierra",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd706580000",
+      "id": "00000191-b42c-d52f-abb9-b56d6dfd0000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -3247,7 +3145,7 @@
       ],
       "firebase_screen": "Live-adn40-adn40.mxconvalentinarodríguez",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd706590000",
+      "id": "00000191-b42c-d52f-abb9-b56d6dfe0000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -3298,7 +3196,7 @@
       ],
       "firebase_screen": "Live-adn40-trendelmemeconvalentinarodríguezyhernánhochstrasser",
       "videoaviso": "En vivo",
-      "id": "00000191-b3c6-d3c7-abfd-fbd7065a0000",
+      "id": "00000191-b42c-d52f-abb9-b56d6dff0000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -3316,6 +3214,108 @@
       "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
       "islive": true,
       "title": "Tren del Meme con Valentina Rodríguez y Hernán Hochstrasser"
+    },
+    {
+      "firebasescreen": "Live-adn40-adnconmigoconjuanpablodeleoyvaitiaremateos",
+      "firebase_tipo": "En vivo",
+      "private": "Adn Conmigo con Juan Pablo de Leo y Vaitiare Mateos",
+      "tipocontenido": "live",
+      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
+      "nombre_video": "adn40-adnconmigoconjuanpablodeleoyvaitiaremateos",
+      "type": {
+        "value": "program"
+      },
+      "firebase_canal": "adn40",
+      "author": {
+        "name": ""
+      },
+      "summary": "Revista informativa que desarrolla, analiza y opina sobre los temas más relevantes de la agenda, además de llevar en tiempo real la cobertura informativa del día.",
+      "firebase_programa": "adnconmigoconjuanpablodeleoyvaitiaremateos",
+      "programa": "adnconmigoconjuanpablodeleoyvaitiaremateos",
+      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
+      "media_group": [
+        {
+          "meia_item": [
+            {
+              "key": "image_base",
+              "type": "image",
+              "src": "https://tvazteca.brightspotcdn.com/dims4/default/349ba30/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fprogram_schedule%2Fimg%2F173541_1.jpg"
+            }
+          ],
+          "type": "image"
+        }
+      ],
+      "firebase_screen": "Live-adn40-adnconmigoconjuanpablodeleoyvaitiaremateos",
+      "videoaviso": "En vivo",
+      "id": "00000191-b42c-d52f-abb9-b56d6e000000",
+      "content": {
+        "type": "video/hls",
+        "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
+        "videoAssetId": "60b578b060947317de7b57ac",
+        "src": "https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8"
+      },
+      "firebase_videoaviso": "En vivo",
+      "video": "adn40-adnconmigoconjuanpablodeleoyvaitiaremateos",
+      "extensions": {
+        "applicaster_channel_id": "1039",
+        "end_time": "2024-09-03T12:00:00-0600",
+        "start_time": "2024-09-03T10:00:00-0600",
+        "islive": false
+      },
+      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
+      "islive": true,
+      "title": "Adn Conmigo con Juan Pablo de Leo y Vaitiare Mateos"
+    },
+    {
+      "firebasescreen": "Live-adn40-méxicoentiemporealconsarahíuribe",
+      "firebase_tipo": "En vivo",
+      "private": "México en Tiempo Real con Sarahí Uribe",
+      "tipocontenido": "live",
+      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
+      "nombre_video": "adn40-méxicoentiemporealconsarahíuribe",
+      "type": {
+        "value": "program"
+      },
+      "firebase_canal": "adn40",
+      "author": {
+        "name": ""
+      },
+      "summary": "Toda la Información de la república mexicana en tiempo real",
+      "firebase_programa": "méxicoentiemporealconsarahíuribe",
+      "programa": "méxicoentiemporealconsarahíuribe",
+      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40",
+      "media_group": [
+        {
+          "meia_item": [
+            {
+              "key": "image_base",
+              "type": "image",
+              "src": "https://tvazteca.brightspotcdn.com/dims4/default/cb076e8/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fprogram_schedule%2Fimg%2F173542_1.jpg"
+            }
+          ],
+          "type": "image"
+        }
+      ],
+      "firebase_screen": "Live-adn40-méxicoentiemporealconsarahíuribe",
+      "videoaviso": "En vivo",
+      "id": "00000191-b42c-d52f-abb9-b56d6e010000",
+      "content": {
+        "type": "video/hls",
+        "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
+        "videoAssetId": "60b578b060947317de7b57ac",
+        "src": "https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8"
+      },
+      "firebase_videoaviso": "En vivo",
+      "video": "adn40-méxicoentiemporealconsarahíuribe",
+      "extensions": {
+        "applicaster_channel_id": "1039",
+        "end_time": "2024-09-03T13:00:00-0600",
+        "start_time": "2024-09-03T12:00:00-0600",
+        "islive": false
+      },
+      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
+      "islive": true,
+      "title": "México en Tiempo Real con Sarahí Uribe"
     }
   ],
   "extensions": {
