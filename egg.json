@@ -1,5 +1,57 @@
 {
   "entry": [
+        {
+      "firebasescreen": "Live-aztecauno-loquecallamoslasmujeres",
+      "firebase_tipo": "En vivo",
+      "private": "Lo que callamos las mujeres",
+      "tipocontenido": "live",
+      "adunitid": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno",
+      "nombre_video": "aztecauno-loquecallamoslasmujeres",
+      "type": {
+        "value": "program"
+      },
+      "firebase_canal": "aztecauno",
+      "author": {
+        "name": ""
+      },
+      "summary": "Lo Que Callamos Las Mujeres está basada en historias reales con problemas cotidianos que sufren las mujeres.",
+      "firebase_programa": "loquecallamoslasmujeres",
+      "programa": "loquecallamoslasmujeres",
+      "adunitidios": "/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno",
+      "media_group": [
+        {
+          "meia_item": [
+            {
+              "key": "image_base",
+              "type": "image",
+              "src": "https://uat.tv-azteca.psdops.com/dims4/default/cdaff8e/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=https%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fd8%2F36%2F7a833f3b42d8a5f150a36b2f6103%2Flo-que-callamos-las-mujeres.jpg"
+            }
+          ],
+          "type": "image"
+        }
+      ],
+      "firebase_screen": "Live-aztecauno-loquecallamoslasmujeres",
+      "videoaviso": "En vivo",
+      "id": "00000191-d001-d9af-abf3-d7d7f6370000",
+      "content": {
+        "type": "video/hls",
+        "assetkey": "ZiyeO1LFRfG1k2-GZ5TgEg",
+        "activateGeoblocking": "true",
+        "videoAssetId": "609b243156cca108312822a6",
+        "src": "https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8"
+      },
+      "firebase_videoaviso": "En vivo",
+      "video": "aztecauno-loquecallamoslasmujeres",
+      "extensions": {
+        "applicaster_channel_id": "1038",
+        "end_time": "2024-09-08T01:00:00-0600",
+        "start_time": "2024-09-07T22:00:00-0600",
+        "islive": true
+      },
+      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno&description_url=https://uat.tv-azteca.psdops.com/aztecauno/lo-que-callamos-las-mujeres/envivo&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
+      "islive": true,
+      "title": "Lo que callamos las mujeres"
+    },
     {
       "firebasescreen": "Live-laacademia-laacademia24/7",
       "firebase_tipo": "En vivo",
