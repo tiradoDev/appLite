@@ -1,6 +1,58 @@
 {
   "entry": [
     {
+      "firebasescreen": "Live-laacademia-laacademia24/7",
+      "firebase_tipo": "En vivo",
+      "private": "La Academia 24/7",
+      "tipocontenido": "live",
+      "adunitid": "/29782907/Apps-Azteca/APP-Envivo-2020/envivo/EnVivo-LaAcademia",
+      "nombre_video": "laacademia-laacademia24/7",
+      "type": {
+        "value": "program"
+      },
+      "firebase_canal": "laacademia",
+      "author": {
+        "name": ""
+      },
+      "summary": "No pierdas ningún detalle de La Academia 24/7, el mejor reality de canto con emocionantes clases. Todos los días disfruta la transmisión en vivo.",
+      "firebase_programa": "laacademia24/7",
+      "programa": "laacademia24/7",
+      "adunitidios": "/29782907/Apps-Azteca/APP-Envivo-2020/envivo/EnVivo-LaAcademia",
+      "media_group": [
+        {
+          "meia_item": [
+            {
+              "key": "image_base",
+              "type": "image",
+              "src": "https://tvazteca.brightspotcdn.com/dims4/default/aa340aa/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F76%2F35%2Fd76fd7904d7e83cf3d37c69237c6%2F5023766836486975803.jpg"
+            }
+          ],
+          "type": "image"
+        }
+      ],
+      "firebase_screen": "Live-laacademia-laacademia24/7",
+      "videoaviso": "En vivo",
+      "id": "00000191-d530-d6f6-ab9b-ff759e720000",
+      "content": {
+        "type": "video/hls",
+        "assetkey": "63uk0HUfSamSohP10qpuZw",
+        "videoAssetId": "5ff4642f0c34b9420400e84f",
+        "src": "https://mdstrm.com/live-stream-playlist/5ff4642f0c34b9420400e84f.m3u8",
+        "activateGeoblocking": "true"
+      },
+      "firebase_videoaviso": "En vivo",
+      "video": "laacademia-laacademia24/7",
+      "extensions": {
+        "applicaster_channel_id": "10390",
+        "end_time": "2024-09-08T23:40:00-0600",
+        "start_time": "2024-09-08T00:00:00-0600",
+        "islive": true
+      },
+      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/APP-Envivo-2020/envivo/EnVivo-LaAcademia&description_url=https://www.tvazteca.com/aztecauno/la-academia-2024/24-7-en-vivo&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
+      "islive": true,
+      "title": "La Academia 24/7"
+    },
+    {
       "firebasescreen": "Live-aztecauno-laresolanaconelcapi",
       "firebase_tipo": "En vivo",
       "private": "La Resolana con El Capi",
@@ -32,23 +84,22 @@
       ],
       "firebase_screen": "Live-aztecauno-laresolanaconelcapi",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08520000",
+      "id": "00000191-d530-d6f6-ab9b-ff759ec10000",
       "content": {
         "type": "video/hls",
         "assetkey": "ZiyeO1LFRfG1k2-GZ5TgEg",
         "videoAssetId": "609b243156cca108312822a6",
-        "src": "https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8",
-        "activateGeoblocking": "true"
+        "src": "https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8"
       },
       "firebase_videoaviso": "En vivo",
       "video": "aztecauno-laresolanaconelcapi",
       "extensions": {
         "applicaster_channel_id": "1038",
         "end_time": "2024-09-08T23:59:00-0600",
-        "start_time": "2024-09-08T23:06:00-0600",
-        "islive": false
+        "start_time": "2024-09-08T23:05:00-0600",
+        "islive": true
       },
-      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
+      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/Azteca-Uno&description_url=https://www.tvazteca.com/aztecauno/la-resolana-con-el-capi/envivo&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
       "islive": true,
       "title": "La Resolana con El Capi"
     },
@@ -84,7 +135,7 @@
       ],
       "firebase_screen": "Live-aztecauno-primeralínea",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08530000",
+      "id": "00000191-d530-d6f6-ab9b-ff759ec20000",
       "content": {
         "type": "video/hls",
         "assetkey": "ZyR7aLo4Rom-9KzwcLCoNg",
@@ -135,7 +186,7 @@
       ],
       "firebase_screen": "Live-aztecauno-hechosam",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08530001",
+      "id": "00000191-d530-d6f6-ab9b-ff759ec20001",
       "content": {
         "type": "video/hls",
         "assetkey": "ZyR7aLo4Rom-9KzwcLCoNg",
@@ -186,7 +237,7 @@
       ],
       "firebase_screen": "Live-aztecauno-nosotros,ustedesyhechos",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08530002",
+      "id": "00000191-d530-d6f6-ab9b-ff759ec20002",
       "content": {
         "type": "video/hls",
         "assetkey": "ZyR7aLo4Rom-9KzwcLCoNg",
@@ -237,7 +288,7 @@
       ],
       "firebase_screen": "Live-aztecauno-vengalaalegría",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08530003",
+      "id": "00000191-d530-d6f6-ab9b-ff759ec20003",
       "content": {
         "type": "video/hls",
         "assetkey": "ZiyeO1LFRfG1k2-GZ5TgEg",
@@ -288,7 +339,7 @@
       ],
       "firebase_screen": "Live-aztecauno-ventaneando",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08530004",
+      "id": "00000191-d530-d6f6-ab9b-ff759ec30000",
       "content": {
         "type": "video/hls",
         "assetkey": "ZiyeO1LFRfG1k2-GZ5TgEg",
@@ -339,7 +390,7 @@
       ],
       "firebase_screen": "Live-aztecauno-hechosmeridiano",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08530005",
+      "id": "00000191-d530-d6f6-ab9b-ff759ec30001",
       "content": {
         "type": "video/hls",
         "assetkey": "ZyR7aLo4Rom-9KzwcLCoNg",
@@ -390,7 +441,7 @@
       ],
       "firebase_screen": "Live-aztecauno-100mexicanos",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08530006",
+      "id": "00000191-d530-d6f6-ab9b-ff759ec30002",
       "content": {
         "type": "video/hls",
         "assetkey": "ZiyeO1LFRfG1k2-GZ5TgEg",
@@ -441,7 +492,7 @@
       ],
       "firebase_screen": "Live-aztecauno-alextremo",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08530007",
+      "id": "00000191-d530-d6f6-ab9b-ff759ec30003",
       "content": {
         "type": "video/hls",
         "assetkey": "ZiyeO1LFRfG1k2-GZ5TgEg",
@@ -492,7 +543,7 @@
       ],
       "firebase_screen": "Live-aztecauno-acércatearocío",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08530008",
+      "id": "00000191-d530-d6f6-ab9b-ff759ec30004",
       "content": {
         "type": "video/hls",
         "assetkey": "ZiyeO1LFRfG1k2-GZ5TgEg",
@@ -543,7 +594,7 @@
       ],
       "firebase_screen": "Live-aztecauno-acércatearocío:lasmejoreshistorias",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08530009",
+      "id": "00000191-d530-d6f6-ab9b-ff759ec30005",
       "content": {
         "type": "video/hls",
         "assetkey": "ZiyeO1LFRfG1k2-GZ5TgEg",
@@ -594,7 +645,7 @@
       ],
       "firebase_screen": "Live-aztecauno-abandonados,asia:larutadeldragón",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08540000",
+      "id": "00000191-d530-d6f6-ab9b-ff759ec30006",
       "content": {
         "type": "video/hls",
         "assetkey": "ZiyeO1LFRfG1k2-GZ5TgEg",
@@ -645,7 +696,7 @@
       ],
       "firebase_screen": "Live-azteca7-crepúsculolasaga:eclipse",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08770000",
+      "id": "00000191-d530-d6f6-ab9b-ff759ef00000",
       "content": {
         "type": "video/hls",
         "assetkey": "YHoOj51dSKCvBQOBG2OvLQ",
@@ -696,7 +747,7 @@
       ],
       "firebase_screen": "Live-azteca7-plimplim",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08790000",
+      "id": "00000191-d530-d6f6-ab9b-ff759ef20000",
       "content": {
         "type": "video/hls",
         "assetkey": "YHoOj51dSKCvBQOBG2OvLQ",
@@ -747,7 +798,7 @@
       ],
       "firebase_screen": "Live-azteca7-plazasésamohotelfurchester",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08790001",
+      "id": "00000191-d530-d6f6-ab9b-ff759ef20001",
       "content": {
         "type": "video/hls",
         "assetkey": "YHoOj51dSKCvBQOBG2OvLQ",
@@ -798,7 +849,7 @@
       ],
       "firebase_screen": "Live-azteca7-turbosaurios",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08790002",
+      "id": "00000191-d530-d6f6-ab9b-ff759ef20002",
       "content": {
         "type": "video/hls",
         "assetkey": "YHoOj51dSKCvBQOBG2OvLQ",
@@ -849,7 +900,7 @@
       ],
       "firebase_screen": "Live-azteca7-mashayeloso",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08790003",
+      "id": "00000191-d530-d6f6-ab9b-ff759ef20003",
       "content": {
         "type": "video/hls",
         "assetkey": "YHoOj51dSKCvBQOBG2OvLQ",
@@ -900,7 +951,7 @@
       ],
       "firebase_screen": "Live-azteca7-bluey",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08790004",
+      "id": "00000191-d530-d6f6-ab9b-ff759ef20004",
       "content": {
         "type": "video/hls",
         "assetkey": "YHoOj51dSKCvBQOBG2OvLQ",
@@ -951,7 +1002,7 @@
       ],
       "firebase_screen": "Live-azteca7-legofriends:historiasdeheartlakecity",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08790005",
+      "id": "00000191-d530-d6f6-ab9b-ff759ef20005",
       "content": {
         "type": "video/hls",
         "assetkey": "YHoOj51dSKCvBQOBG2OvLQ",
@@ -1002,7 +1053,7 @@
       ],
       "firebase_screen": "Live-azteca7-spirit:cabalgandolibre",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08790006",
+      "id": "00000191-d530-d6f6-ab9b-ff759ef20006",
       "content": {
         "type": "video/hls",
         "assetkey": "YHoOj51dSKCvBQOBG2OvLQ",
@@ -1053,7 +1104,7 @@
       ],
       "firebase_screen": "Live-azteca7-babylooneytunes",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08790007",
+      "id": "00000191-d530-d6f6-ab9b-ff759ef20007",
       "content": {
         "type": "video/hls",
         "assetkey": "YHoOj51dSKCvBQOBG2OvLQ",
@@ -1104,7 +1155,7 @@
       ],
       "firebase_screen": "Live-azteca7-lasaventurasdesilvestreypiolín",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08790008",
+      "id": "00000191-d530-d6f6-ab9b-ff759ef20008",
       "content": {
         "type": "video/hls",
         "assetkey": "YHoOj51dSKCvBQOBG2OvLQ",
@@ -1155,7 +1206,7 @@
       ],
       "firebase_screen": "Live-azteca7-elshowdeloslooneytunes",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08790009",
+      "id": "00000191-d530-d6f6-ab9b-ff759ef20009",
       "content": {
         "type": "video/hls",
         "assetkey": "YHoOj51dSKCvBQOBG2OvLQ",
@@ -1206,7 +1257,7 @@
       ],
       "firebase_screen": "Live-azteca7-escandalosos",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad0879000a",
+      "id": "00000191-d530-d6f6-ab9b-ff759ef2000a",
       "content": {
         "type": "video/hls",
         "assetkey": "YHoOj51dSKCvBQOBG2OvLQ",
@@ -1257,7 +1308,7 @@
       ],
       "firebase_screen": "Live-azteca7-almasperdidas",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad0879000b",
+      "id": "00000191-d530-d6f6-ab9b-ff759ef2000b",
       "content": {
         "type": "video/hls",
         "assetkey": "YHoOj51dSKCvBQOBG2OvLQ",
@@ -1308,7 +1359,7 @@
       ],
       "firebase_screen": "Live-azteca7-911",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad0879000c",
+      "id": "00000191-d530-d6f6-ab9b-ff759ef30000",
       "content": {
         "type": "video/hls",
         "assetkey": "YHoOj51dSKCvBQOBG2OvLQ",
@@ -1359,7 +1410,7 @@
       ],
       "firebase_screen": "Live-azteca7-triplex2:estadodeemergencia",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad0879000d",
+      "id": "00000191-d530-d6f6-ab9b-ff759ef30001",
       "content": {
         "type": "video/hls",
         "assetkey": "YHoOj51dSKCvBQOBG2OvLQ",
@@ -1410,7 +1461,7 @@
       ],
       "firebase_screen": "Live-amás+-unaquemadapeligrosa",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08cf0000",
+      "id": "00000191-d530-d6f6-ab9b-ff759f1b0000",
       "content": {
         "type": "video/hls",
         "assetkey": "SJysMl45QMSwjo0TodSk1Q",
@@ -1461,7 +1512,7 @@
       ],
       "firebase_screen": "Live-amás+-lavidaenelespejo",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08d10000",
+      "id": "00000191-d530-d6f6-ab9b-ff759f1d0000",
       "content": {
         "type": "video/hls",
         "assetkey": "SJysMl45QMSwjo0TodSk1Q",
@@ -1512,7 +1563,7 @@
       ],
       "firebase_screen": "Live-amás+-gutierritos",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08d10001",
+      "id": "00000191-d530-d6f6-ab9b-ff759f1d0001",
       "content": {
         "type": "video/hls",
         "assetkey": "SJysMl45QMSwjo0TodSk1Q",
@@ -1563,7 +1614,7 @@
       ],
       "firebase_screen": "Live-amás+-fierecilla",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08d10002",
+      "id": "00000191-d530-d6f6-ab9b-ff759f1d0002",
       "content": {
         "type": "video/hls",
         "assetkey": "SJysMl45QMSwjo0TodSk1Q",
@@ -1614,7 +1665,7 @@
       ],
       "firebase_screen": "Live-amás+-acadaquiensusanto",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08d10003",
+      "id": "00000191-d530-d6f6-ab9b-ff759f1d0003",
       "content": {
         "type": "video/hls",
         "assetkey": "SJysMl45QMSwjo0TodSk1Q",
@@ -1665,7 +1716,7 @@
       ],
       "firebase_screen": "Live-amás+-panchopistolas2",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08d10004",
+      "id": "00000191-d530-d6f6-ab9b-ff759f1d0004",
       "content": {
         "type": "video/hls",
         "assetkey": "SJysMl45QMSwjo0TodSk1Q",
@@ -1716,7 +1767,7 @@
       ],
       "firebase_screen": "Live-amás+-elángeldelsilencio",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08d10005",
+      "id": "00000191-d530-d6f6-ab9b-ff759f1d0005",
       "content": {
         "type": "video/hls",
         "assetkey": "SJysMl45QMSwjo0TodSk1Q",
@@ -1767,7 +1818,7 @@
       ],
       "firebase_screen": "Live-amás+-ahoramásnoticias",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08d10006",
+      "id": "00000191-d530-d6f6-ab9b-ff759f1d0006",
       "content": {
         "type": "video/hls",
         "assetkey": "SJysMl45QMSwjo0TodSk1Q",
@@ -1818,7 +1869,7 @@
       ],
       "firebase_screen": "Live-adn40-esnoticiaconjuanmanueljiménezdomingo(rep)",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08ea0000",
+      "id": "00000191-d530-d6f6-ab9b-ff759f3f0000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -1869,7 +1920,7 @@
       ],
       "firebase_screen": "Live-adn40-ideasgeniales",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08eb0001",
+      "id": "00000191-d530-d6f6-ab9b-ff759f400000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -1920,7 +1971,7 @@
       ],
       "firebase_screen": "Live-adn40-desdelascámaras(rep)",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08ec0000",
+      "id": "00000191-d530-d6f6-ab9b-ff759f410000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -1971,7 +2022,7 @@
       ],
       "firebase_screen": "Live-adn40-noticiasparadespertarconvalentinarodríguezyviridianahernández",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08ed0000",
+      "id": "00000191-d530-d6f6-ab9b-ff759f420000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -2022,7 +2073,7 @@
       ],
       "firebase_screen": "Live-adn40-noticiasparadespertarconvalentinarodríguezyviridianahernández",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08ee0001",
+      "id": "00000191-d530-d6f6-ab9b-ff759f430000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -2073,7 +2124,7 @@
       ],
       "firebase_screen": "Live-adn40-tuciudadentiemporealconviridianahernández",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08ef0001",
+      "id": "00000191-d530-d6f6-ab9b-ff759f440000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -2124,7 +2175,7 @@
       ],
       "firebase_screen": "Live-adn40-asíamanececonleonardocurzio",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08f00001",
+      "id": "00000191-d530-d6f6-ab9b-ff759f450000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -2175,7 +2226,7 @@
       ],
       "firebase_screen": "Live-adn40-noticiasarasdetierra",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08f10000",
+      "id": "00000191-d530-d6f6-ab9b-ff759f460000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -2226,7 +2277,7 @@
       ],
       "firebase_screen": "Live-adn40-adn40.mxconvalentinarodríguez",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08f20000",
+      "id": "00000191-d530-d6f6-ab9b-ff759f460001",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -2277,7 +2328,7 @@
       ],
       "firebase_screen": "Live-adn40-trendelmemeconvalentinarodríguezyhernánhochstrasser",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08f30000",
+      "id": "00000191-d530-d6f6-ab9b-ff759f470000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -2328,7 +2379,7 @@
       ],
       "firebase_screen": "Live-adn40-adnconmigoconjuanpablodeleoyvaitiaremateos",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08f40000",
+      "id": "00000191-d530-d6f6-ab9b-ff759f480000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -2379,7 +2430,7 @@
       ],
       "firebase_screen": "Live-adn40-méxicoentiemporealconsarahíuribe",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08f50000",
+      "id": "00000191-d530-d6f6-ab9b-ff759f4a0000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -2430,7 +2481,7 @@
       ],
       "firebase_screen": "Live-adn40-adn40.mxconrominaramosycármensánchez",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08f60000",
+      "id": "00000191-d530-d6f6-ab9b-ff759f4b0000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -2481,7 +2532,7 @@
       ],
       "firebase_screen": "Live-adn40-aquiencorrespondaconjorgegarralda",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08f70000",
+      "id": "00000191-d530-d6f6-ab9b-ff759f4c0000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -2532,7 +2583,7 @@
       ],
       "firebase_screen": "Live-adn40-esnegocioconcarlosmota",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08f80000",
+      "id": "00000191-d530-d6f6-ab9b-ff759f4d0000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -2583,7 +2634,7 @@
       ],
       "firebase_screen": "Live-adn40-estendenciaconjoséluismorayalejandramolina",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08fa0000",
+      "id": "00000191-d530-d6f6-ab9b-ff759f4e0000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -2634,7 +2685,7 @@
       ],
       "firebase_screen": "Live-adn40-cotorreandolanoticiaconjuanlecandayleoarriaga",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08fb0000",
+      "id": "00000191-d530-d6f6-ab9b-ff759f4f0000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -2685,7 +2736,7 @@
       ],
       "firebase_screen": "Live-adn40-ruletainformativa",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08fc0000",
+      "id": "00000191-d530-d6f6-ab9b-ff759f500000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -2736,7 +2787,7 @@
       ],
       "firebase_screen": "Live-adn40-adn40.mxconalejandrobrofftylucianawainer",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08fc0001",
+      "id": "00000191-d530-d6f6-ab9b-ff759f510000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -2787,7 +2838,7 @@
       ],
       "firebase_screen": "Live-adn40-tuciudadentiemporealconjuanmanueljiménez",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08fd0000",
+      "id": "00000191-d530-d6f6-ab9b-ff759f520000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -2838,7 +2889,7 @@
       ],
       "firebase_screen": "Live-adn40-ciudaddesnudaconyunuecuevasymaradurón",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08fe0000",
+      "id": "00000191-d530-d6f6-ab9b-ff759f530000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -2889,7 +2940,7 @@
       ],
       "firebase_screen": "Live-adn40-red360conlucybravo",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad08ff0000",
+      "id": "00000191-d530-d6f6-ab9b-ff759f540000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -2940,7 +2991,7 @@
       ],
       "firebase_screen": "Live-adn40-esnoticiaconhannianovell",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad09000000",
+      "id": "00000191-d530-d6f6-ab9b-ff759f550000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -2991,7 +3042,7 @@
       ],
       "firebase_screen": "Live-adn40-noticiasrepúblicamx",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad09010000",
+      "id": "00000191-d530-d6f6-ab9b-ff759f560000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -3042,7 +3093,7 @@
       ],
       "firebase_screen": "Live-adn40-mesarepúblicamx",
       "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad09020000",
+      "id": "00000191-d530-d6f6-ab9b-ff759f570000",
       "content": {
         "type": "video/hls",
         "assetkey": "XZLLJIhJRNqz33DGp6NdkA",
@@ -3060,61 +3111,21 @@
       "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/App-Envivo-2020/EnVivo/ADN-40&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
       "islive": true,
       "title": "Mesa República Mx"
-    },
-    {
-      "firebasescreen": "Live-laacademia-laacademia24/7",
-      "firebase_tipo": "En vivo",
-      "private": "La Academia 24/7",
-      "tipocontenido": "live",
-      "adunitid": "/29782907/Apps-Azteca/APP-Envivo-2020/envivo/EnVivo-LaAcademia",
-      "nombre_video": "laacademia-laacademia24/7",
-      "type": {
-        "value": "program"
-      },
-      "firebase_canal": "laacademia",
-      "author": {
-        "name": ""
-      },
-      "summary": "No pierdas ningún detalle de La Academia 24/7, el mejor reality de canto con emocionantes clases. Todos los días disfruta la transmisión en vivo.",
-      "firebase_programa": "laacademia24/7",
-      "programa": "laacademia24/7",
-      "adunitidios": "/29782907/Apps-Azteca/APP-Envivo-2020/envivo/EnVivo-LaAcademia",
-      "media_group": [
-        {
-          "meia_item": [
-            {
-              "key": "image_base",
-              "type": "image",
-              "src": "https://tvazteca.brightspotcdn.com/dims4/default/aa340aa/2147483647/strip/true/crop/1920x1080+0+0/resize/1024x576!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F76%2F35%2Fd76fd7904d7e83cf3d37c69237c6%2F5023766836486975803.jpg"
-            }
-          ],
-          "type": "image"
-        }
-      ],
-      "firebase_screen": "Live-laacademia-laacademia24/7",
-      "videoaviso": "En vivo",
-      "id": "00000191-d52c-d3d1-adb7-d5ad09060000",
-      "content": {
-        "type": "video/hls",
-        "assetkey": "63uk0HUfSamSohP10qpuZw",
-        "videoAssetId": "5ff4642f0c34b9420400e84f",
-        "src": "https://mdstrm.com/live-stream-playlist/5ff4642f0c34b9420400e84f.m3u8"
-      },
-      "firebase_videoaviso": "En vivo",
-      "video": "laacademia-laacademia24/7",
-      "extensions": {
-        "applicaster_channel_id": "10390",
-        "end_time": "2024-09-08T23:40:00-0600",
-        "start_time": "2024-09-08T00:00:00-0600",
-        "islive": true
-      },
-      "vast": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/Apps-Azteca/APP-Envivo-2020/envivo/EnVivo-LaAcademia&description_url=https://www.tvazteca.com/aztecauno/la-academia-2024/24-7-en-vivo&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=vast&sz=640x480&unviewed_position_start=1&ad_rule=1&correlator=",
-      "islive": true,
-      "title": "La Academia 24/7"
     }
   ],
   "extensions": {
     "channels": [
+      {
+        "private": "1",
+        "nolive": {
+          "titulo": "Programa disponible",
+          "subtitulo": "Solo por TV"
+        },
+        "name": "La Academia",
+        "logo": "https://tvazteca.brightspotcdn.com/dims4/default/204e063/2147483647/strip/true/crop/512x341+0+85/resize/300x200!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fb6%2Fd2%2F2b0ce15f42d48848c93da0dbcae3%2Flogo-la-academia-247-live-switcher-512x512.png",
+        "privateCfg": "https://www.tvazteca.com/envivo2020/login-login-vivo-con-salto.json",
+        "id": "10390"
+      },
       {
         "private": "1",
         "nolive": {
@@ -3158,17 +3169,6 @@
         "logo": "https://tvazteca.brightspotcdn.com/dims4/default/604c056/2147483647/strip/true/crop/512x341+0+85/resize/300x200!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F58%2F74%2F8f13538947b7a5e8a0c8989612e1%2Fadn-40-512x512-color-02.png",
         "privateCfg": "https://www.tvazteca.com/envivo2020/login-login-vivo-con-salto.json",
         "id": "1039"
-      },
-      {
-        "private": "1",
-        "nolive": {
-          "titulo": "Programa disponible",
-          "subtitulo": "Solo por TV"
-        },
-        "name": "La Academia",
-        "logo": "https://tvazteca.brightspotcdn.com/dims4/default/204e063/2147483647/strip/true/crop/512x341+0+85/resize/300x200!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fb6%2Fd2%2F2b0ce15f42d48848c93da0dbcae3%2Flogo-la-academia-247-live-switcher-512x512.png",
-        "privateCfg": "https://www.tvazteca.com/envivo2020/login-login-vivo-con-salto.json",
-        "id": "10390"
       }
     ]
   },
