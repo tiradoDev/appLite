@@ -89,7 +89,8 @@
         "type": "video/hls",
         "assetkey": "ZiyeO1LFRfG1k2-GZ5TgEg",
         "videoAssetId": "609b243156cca108312822a6",
-        "src": "https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8"
+        "src": "https://dai.google.com/linear/hls/event/8FUmvMX3ShuQTgE3tEqxNg/master.m3u8",
+        "activateGeoblocking": "true"
       },
       "firebase_videoaviso": "En vivo",
       "video": "aztecauno-laresolanaconelcapi",
