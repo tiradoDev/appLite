@@ -1,17 +1,17 @@
 {
   "android": {
-    "min_version": "4.2.13",
+    "min_version": "4.2.11",
     "imagen_fondo": "https://tiradodev.github.io/appLite/android.jpg",
     "url_actualizar": "https://play.google.com/store/apps/details?id=com.azteca.live&;amp;;amp;hl=es_MX&gl=US",
     "texto": " ",
     "url_huawei": "https://appgallery.huawei.com/#/app/C100845269",
-    "version_actual": "4.2.13"
+    "version_actual": "4.2.11"
   },
   "ios": {
-    "min_version": "5",
+    "min_version": "4.1.7",
     "imagen_fondo": "https://tiradodev.github.io/appLite/ios.jpg",
     "url_actualizar": "https://apps.apple.com/us/app/tv-azteca-en-vivo/id624366832",
     "texto": "",
-    "version_actual": "5"
+    "version_actual": "4.1.7"
   }
 }
