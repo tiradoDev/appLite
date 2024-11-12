@@ -26,6 +26,9 @@
       "icono": "https://tvazteca.brightspotcdn.com/dims4/default/793fde8/2147483647/strip/true/crop/512x512+0+0/resize/50x50!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2Fd8%2F00%2Fc641be3c473b85813a4cd3811078%2Flogo-azteca-uno-2023-live-switcher-color-rojo.png"
     },
     {
+      "tipo": "RECOMENDADOR_FB"
+    },
+    {
       "items": [
         {
           "firebasescreen": "inicio-inicio-header-CARRUSELDESTACADOS-ELEKTRA-Playlist",
