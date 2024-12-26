@@ -1,7 +1,7 @@
 {
   "android": {
     "min_version": "4.2.13",
-    "imagen_fondo": "https://tiradodev.github.io/appLite/android.jpg",
+    "imagen_fondo": "https://tvazteca.brightspotcdn.com/96/2e/a631e9fc4a6f932b19d74d9769fe/actualizacion-forzosa-nov-2024-04.jpg",
     "url_actualizar": "https://play.google.com/store/apps/details?id=com.azteca.live&;amp;;amp;hl=es_MX&gl=US",
     "texto": " ",
     "url_huawei": "https://appgallery.huawei.com/#/app/C100845269",
@@ -9,7 +9,7 @@
   },
   "ios": {
     "min_version": "5",
-    "imagen_fondo": "https://tiradodev.github.io/appLite/ios.jpg",
+    "imagen_fondo": "https://tvazteca.brightspotcdn.com/16/64/7370a2fe4f0db749271c378f91ff/actualizacion-forzosa-nov-2024-02.jpg",
     "url_actualizar": "https://apps.apple.com/us/app/tv-azteca-en-vivo/id624366832",
     "texto": "",
     "version_actual": "5"
