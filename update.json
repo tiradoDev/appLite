@@ -8,10 +8,10 @@
     "version_actual": "4.2.13"
   },
   "ios": {
-    "min_version": "5",
+    "min_version": "4.2.3",
     "imagen_fondo": "https://tvazteca.brightspotcdn.com/16/64/7370a2fe4f0db749271c378f91ff/actualizacion-forzosa-nov-2024-02.jpg",
     "url_actualizar": "https://apps.apple.com/us/app/tv-azteca-en-vivo/id624366832",
     "texto": "",
-    "version_actual": "5"
+    "version_actual": "4.2.3"
   }
 }
