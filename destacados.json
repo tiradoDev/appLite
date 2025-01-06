@@ -1187,6 +1187,7 @@
           "firebase_tipo": "inicio",
           "tipo": "CELDAHOR01",
           "private": "1",
+          "preguntas": true,
           "videoAssetId": "66748f3b2ec43acf69de96b2",
           "imagentv": "https://tvazteca.brightspotcdn.com/dims4/default/db6381d/2147483647/strip/true/crop/1920x975+0+53/resize/1300x660!/format/jpg/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F02%2F52%2Fca706dc24f008dd44f5ccaf4c932%2Fprograma-20-junio-2024-parte-2-venga-la-alegria.jpg",
           "adunitid": "/29782907/Apps-Azteca/APP-Envivo-2020/programas/venga-la-alegria/programas-completos",
