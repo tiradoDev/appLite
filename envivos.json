@@ -104,7 +104,7 @@
       "vastGoogleTV": "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/29782907/azteca-googletv/GoogleTv-Envivo-Siete/GoogleTv-Envivo-Siete-Preroll&description_url=&url=&env=vp&impl=s&tfcd=0&npa=0&gdfp_req=1&output=xml_vmap1&sz=640x480&unviewed_position_start=1&ad_rule=1&pp=FormatosVideo",
       "videoAssetIdGoogleTv": "",
       "html": "",
-      "preguntas": true,
+      "encenderPreguntas": true,
       "imagenAppRokuTv": "https://tvazteca.brightspotcdn.com/dims4/default/0f007c2/2147483647/strip/true/crop/1751x1080+84+0/resize/1200x740!/quality/90/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F0f%2F4c%2Fa4c4d8254884aac995a96dae8f3f%2Ftio-buck-al-rescate.jpg",
       "assetkey": "YHoOj51dSKCvBQOBG2OvLQ",
       "videoAssetIdRoku": "653162053838b96815368c8d",
