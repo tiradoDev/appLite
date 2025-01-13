@@ -213,6 +213,7 @@
       "subtitulo": "",
       "programa": "",
       "titulo": "",
+      "encenderPreguntas": true,
       "html": "https://tiradodev.github.io/appLite/votacion.json",
       "gif": "https://tvazteca.brightspotcdn.com/78/fd/9b9e86504f1ab172dc07e7c7d8db/la-academia-diariamente-1.gif",
       "firebase_screen": "inicio-inicio-header-votaciónlaacademia-html",
