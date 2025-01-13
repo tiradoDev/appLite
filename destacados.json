@@ -278,6 +278,7 @@
           "subtitulo": "",
           "programa": "",
           "titulo": "",
+          "encenderPreguntas": true,
           "html": "https://www.tvazteca.com/envivo2020/la-isla-desafio-en-turquia.json",
           "gif": "",
           "firebase_screen": "inicio-inicio-header-CARRUSELMINI-LAISLADESAFIOGRECIAYTURQUIA-html",
